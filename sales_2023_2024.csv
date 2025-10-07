@@ -1,0 +1,2001 @@
+Transaction_id,Date,customer_id,Gender,Age,product_category,Quantity,price _per _unit,total_amount,cost_per_unit,profit_per_unit,profit,payment,customer_type,customer_satisfication
+1,11/24/2023,CUST001,Male,34,Clothing,7,89,623,56,33,231,credit card,Returning,4
+2,2/27/2023,CUST002,Female,26,Food,5,462,2310,329,133,665,online,Returning,5
+3,1/13/2023,CUST003,Male,50,Food,10,495,4950,257,238,2380,cash,New,1
+4,5/21/2023,CUST004,Male,37,Electronics,8,292,2336,195,97,776,credit card,New,4
+5,5/6/2023,CUST005,Male,30,Food,2,96,192,68,28,56,credit card,Returning,5
+6,4/25/2023,CUST006,Female,45,Food,3,64,192,48,16,48,online,Returning,1
+7,3/13/2023,CUST007,Male,46,Beauty,3,114,342,87,27,81,cash,Returning,1
+8,2/22/2023,CUST008,Male,30,Clothing,10,65,650,48,17,170,cash,Returning,5
+9,12/13/2023,CUST009,Male,63,Clothing,9,457,4113,331,126,1134,credit card,New,3
+10,10/7/2023,CUST010,Female,52,Food,7,453,3171,306,147,1029,online,Returning,3
+11,2/14/2023,CUST011,Male,23,Food,3,416,1248,267,149,447,cash,Returning,4
+12,10/30/2023,CUST012,Male,35,Beauty,7,196,1372,170,26,182,credit card,New,3
+13,8/5/2023,CUST013,Male,22,Clothing,6,55,330,37,18,108,credit card,Returning,1
+14,1/17/2023,CUST014,Male,64,Beauty,5,162,810,95,67,335,online,Returning,3
+15,1/16/2023,CUST015,Female,42,Electronics,8,229,1832,192,37,296,credit card,Returning,3
+16,2/17/2023,CUST016,Male,19,Beauty,9,475,4275,303,172,1548,cash,New,3
+17,4/22/2023,CUST017,Female,27,Clothing,3,156,468,108,48,144,cash,Returning,1
+18,4/30/2023,CUST018,Female,47,Food,4,479,1916,240,239,956,cash,Returning,4
+19,9/16/2023,CUST019,Female,62,Electronics,9,114,1026,102,12,108,cash,New,1
+20,11/5/2023,CUST020,Male,22,Clothing,1,203,203,128,75,75,credit card,Returning,3
+21,1/14/2023,CUST021,Female,50,Food,9,495,4455,275,220,1980,cash,Returning,4
+22,10/15/2023,CUST022,Male,18,Food,3,406,1218,241,165,495,online,New,2
+23,4/12/2023,CUST023,Female,35,Electronics,10,113,1130,99,14,140,online,New,3
+24,11/29/2023,CUST024,Female,49,Clothing,10,36,360,30,6,60,credit card,Returning,4
+25,12/26/2023,CUST025,Female,64,Electronics,10,104,1040,63,41,410,cash,Returning,2
+26,10/7/2023,CUST026,Female,28,Beauty,9,58,522,29,29,261,credit card,Returning,1
+27,8/3/2023,CUST027,Female,38,Food,4,249,996,216,33,132,online,New,2
+28,4/23/2023,CUST028,Female,43,Electronics,3,132,396,75,57,171,credit card,New,2
+29,8/18/2023,CUST029,Female,42,Electronics,5,355,1775,187,168,840,credit card,Returning,4
+30,10/29/2023,CUST030,Female,39,Food,3,493,1479,404,89,267,online,Returning,5
+31,5/23/2023,CUST031,Male,44,Clothing,7,180,1260,127,53,371,cash,New,1
+32,1/4/2023,CUST032,Male,30,Beauty,10,325,3250,235,90,900,online,Returning,4
+33,3/23/2023,CUST033,Female,50,Beauty,1,357,357,216,141,141,credit card,Returning,4
+34,12/24/2023,CUST034,Female,51,Electronics,9,50,450,30,20,180,cash,Returning,3
+35,8/5/2023,CUST035,Female,58,Beauty,10,282,2820,242,40,400,credit card,New,3
+36,6/24/2023,CUST036,Male,52,Electronics,7,202,1414,169,33,231,online,Returning,4
+37,5/23/2023,CUST037,Female,18,Clothing,8,482,3856,261,221,1768,credit card,New,1
+38,3/21/2023,CUST038,Male,38,Beauty,9,163,1467,93,70,630,online,New,1
+39,4/21/2023,CUST039,Male,23,Clothing,3,320,960,255,65,195,online,Returning,2
+40,6/22/2023,CUST040,Male,45,Beauty,4,484,1936,283,201,804,cash,Returning,1
+41,2/22/2023,CUST041,Male,34,Food,5,216,1080,192,24,120,credit card,New,2
+42,2/17/2023,CUST042,Male,22,Clothing,2,194,388,144,50,100,credit card,Returning,3
+43,7/14/2023,CUST043,Female,48,Electronics,10,468,4680,241,227,2270,online,Returning,3
+44,2/19/2023,CUST044,Female,22,Beauty,4,453,1812,352,101,404,credit card,New,1
+45,7/3/2023,CUST045,Female,55,Clothing,10,84,840,57,27,270,cash,Returning,4
+46,6/26/2023,CUST046,Female,20,Beauty,5,201,1005,151,50,250,cash,New,5
+47,11/6/2023,CUST047,Female,40,Beauty,6,449,2694,267,182,1092,online,Returning,1
+48,5/16/2023,CUST048,Male,54,Electronics,8,330,2640,287,43,344,credit card,New,5
+49,1/23/2023,CUST049,Female,54,Clothing,1,150,150,88,62,62,cash,New,4
+50,8/24/2023,CUST050,Female,27,Clothing,9,175,1575,88,87,783,credit card,Returning,1
+51,10/2/2023,CUST051,Male,27,Clothing,8,63,504,54,9,72,credit card,Returning,4
+52,3/5/2023,CUST052,Female,36,Food,9,159,1431,83,76,684,cash,New,1
+53,7/13/2023,CUST053,Male,34,Clothing,9,305,2745,171,134,1206,online,New,1
+54,2/10/2023,CUST054,Female,38,Clothing,1,147,147,103,44,44,online,Returning,4
+55,10/10/2023,CUST055,Male,31,Electronics,9,169,1521,133,36,324,credit card,Returning,1
+56,5/31/2023,CUST056,Female,26,Beauty,8,402,3216,338,64,512,cash,Returning,3
+57,11/18/2023,CUST057,Female,63,Electronics,8,285,2280,223,62,496,online,New,4
+58,11/13/2023,CUST058,Male,18,Beauty,4,242,968,197,45,180,cash,New,1
+59,7/5/2023,CUST059,Male,62,Food,1,203,203,173,30,30,cash,Returning,3
+60,10/23/2023,CUST060,Male,30,Clothing,6,81,486,61,20,120,credit card,New,1
+61,4/9/2023,CUST061,Male,21,Clothing,6,302,1812,209,93,558,credit card,Returning,3
+62,12/27/2023,CUST062,Male,18,Electronics,2,435,870,251,184,368,credit card,Returning,2
+63,2/5/2023,CUST063,Male,57,Clothing,10,488,4880,273,215,2150,cash,New,4
+64,1/24/2023,CUST064,Male,49,Food,7,293,2051,246,47,329,cash,Returning,1
+65,12/5/2023,CUST065,Male,51,Food,9,128,1152,74,54,486,online,Returning,1
+66,4/27/2023,CUST066,Female,45,Electronics,4,251,1004,190,61,244,cash,New,1
+67,5/29/2023,CUST067,Female,48,Electronics,7,228,1596,129,99,693,online,New,5
+68,2/10/2023,CUST068,Male,25,Food,3,122,366,79,43,129,online,New,3
+69,4/30/2023,CUST069,Female,56,Clothing,9,219,1971,158,61,549,credit card,New,3
+70,2/21/2023,CUST070,Female,43,Electronics,5,136,680,122,14,70,cash,New,4
+71,7/14/2023,CUST071,Female,51,Food,5,209,1045,178,31,155,cash,New,5
+72,5/23/2023,CUST072,Female,20,Electronics,2,390,780,243,147,294,cash,Returning,1
+73,8/21/2023,CUST073,Male,29,Clothing,7,185,1295,114,71,497,credit card,Returning,4
+74,11/22/2023,CUST074,Female,18,Beauty,6,37,222,28,9,54,online,New,5
+75,7/6/2023,CUST075,Male,61,Food,7,220,1540,176,44,308,credit card,Returning,1
+76,3/25/2023,CUST076,Female,22,Food,1,494,494,401,93,93,cash,New,4
+77,7/9/2023,CUST077,Female,47,Beauty,8,455,3640,349,106,848,cash,Returning,3
+78,7/1/2023,CUST078,Female,47,Clothing,2,191,382,121,70,140,credit card,New,2
+79,4/18/2023,CUST079,Male,34,Beauty,1,254,254,210,44,44,online,New,3
+80,12/10/2023,CUST080,Female,64,Clothing,9,148,1332,111,37,333,online,New,4
+81,5/17/2023,CUST081,Male,40,Electronics,6,489,2934,342,147,882,credit card,Returning,4
+82,12/26/2023,CUST082,Female,32,Beauty,1,64,64,48,16,16,credit card,Returning,3
+83,12/16/2023,CUST083,Male,54,Electronics,8,40,320,26,14,112,credit card,New,4
+84,11/28/2023,CUST084,Female,38,Beauty,5,62,310,41,21,105,online,New,3
+85,2/6/2023,CUST085,Male,31,Clothing,7,430,3010,219,211,1477,online,New,1
+86,11/8/2023,CUST086,Male,19,Food,1,210,210,149,61,61,credit card,Returning,2
+87,11/22/2023,CUST087,Female,28,Food,4,79,316,70,9,36,cash,New,2
+88,3/29/2023,CUST088,Male,56,Clothing,3,50,150,29,21,63,online,New,5
+89,10/1/2023,CUST089,Female,55,Beauty,9,248,2232,147,101,909,cash,New,2
+90,5/6/2023,CUST090,Female,51,Clothing,3,127,381,75,52,156,credit card,New,4
+91,3/25/2023,CUST091,Female,55,Food,1,450,450,393,57,57,online,New,5
+92,8/25/2023,CUST092,Female,51,Beauty,4,64,256,51,13,52,credit card,New,1
+93,7/14/2023,CUST093,Female,35,Clothing,3,462,1386,255,207,621,credit card,Returning,3
+94,5/19/2023,CUST094,Female,47,Beauty,5,185,925,148,37,185,credit card,Returning,2
+95,11/24/2023,CUST095,Female,32,Electronics,6,322,1932,255,67,402,credit card,New,1
+96,12/19/2023,CUST096,Female,44,Clothing,4,233,932,147,86,344,cash,Returning,3
+97,10/13/2023,CUST097,Female,51,Beauty,3,239,717,127,112,336,online,New,2
+98,4/23/2023,CUST098,Female,55,Beauty,2,97,194,71,26,52,online,Returning,3
+99,12/17/2023,CUST099,Female,50,Food,9,136,1224,108,28,252,online,New,5
+100,6/16/2023,CUST100,Male,41,Clothing,1,273,273,239,34,34,credit card,Returning,5
+101,1/29/2023,CUST101,Male,32,Beauty,7,222,1554,114,108,756,cash,New,5
+102,4/28/2023,CUST102,Female,47,Food,7,173,1211,106,67,469,online,New,2
+103,1/17/2023,CUST103,Female,59,Electronics,10,161,1610,134,27,270,credit card,New,3
+104,6/11/2023,CUST104,Female,34,Food,6,102,612,77,25,150,credit card,Returning,4
+105,7/25/2023,CUST105,Female,22,Clothing,9,211,1899,111,100,900,online,Returning,4
+106,5/18/2023,CUST106,Female,46,Clothing,3,349,1047,287,62,186,online,Returning,3
+107,2/3/2023,CUST107,Female,21,Clothing,4,247,988,212,35,140,cash,New,1
+108,4/19/2023,CUST108,Female,27,Beauty,3,407,1221,359,48,144,online,New,5
+109,10/18/2023,CUST109,Female,34,Electronics,8,326,2608,279,47,376,credit card,New,1
+110,6/11/2023,CUST110,Male,27,Beauty,7,378,2646,221,157,1099,cash,Returning,1
+111,4/19/2023,CUST111,Female,34,Clothing,3,178,534,124,54,162,credit card,New,1
+112,12/2/2023,CUST112,Male,37,Food,7,65,455,48,17,119,cash,Returning,2
+113,9/13/2023,CUST113,Female,41,Clothing,3,184,552,116,68,204,online,Returning,3
+114,7/22/2023,CUST114,Female,22,Beauty,5,461,2305,282,179,895,online,Returning,1
+115,11/26/2023,CUST115,Male,51,Beauty,6,358,2148,254,104,624,cash,New,1
+116,8/23/2023,CUST116,Female,23,Food,7,349,2443,181,168,1176,credit card,New,1
+117,3/15/2023,CUST117,Male,19,Beauty,4,245,980,129,116,464,cash,New,4
+118,5/16/2023,CUST118,Female,30,Food,9,396,3564,286,110,990,credit card,New,3
+119,3/13/2023,CUST119,Female,60,Clothing,1,274,274,225,49,49,cash,New,4
+120,5/7/2023,CUST120,Male,60,Electronics,9,222,1998,147,75,675,credit card,Returning,1
+121,10/15/2023,CUST121,Female,28,Food,7,461,3227,349,112,784,cash,Returning,2
+122,10/3/2023,CUST122,Male,64,Food,3,323,969,252,71,213,credit card,Returning,2
+123,5/15/2023,CUST123,Female,40,Electronics,6,180,1080,148,32,192,credit card,Returning,3
+124,10/27/2023,CUST124,Male,33,Clothing,7,395,2765,286,109,763,cash,New,3
+125,8/8/2023,CUST125,Male,48,Clothing,9,215,1935,134,81,729,credit card,Returning,5
+126,10/26/2023,CUST126,Female,28,Electronics,9,246,2214,128,118,1062,cash,New,1
+127,7/24/2023,CUST127,Female,33,Beauty,6,109,654,63,46,276,online,New,3
+128,7/5/2023,CUST128,Male,25,Food,9,188,1692,126,62,558,cash,New,3
+129,4/23/2023,CUST129,Female,21,Clothing,6,115,690,79,36,216,cash,New,4
+130,3/12/2023,CUST130,Female,57,Food,10,422,4220,272,150,1500,credit card,Returning,3
+131,9/18/2023,CUST131,Female,21,Food,6,236,1416,135,101,606,cash,Returning,1
+132,9/10/2023,CUST132,Male,42,Food,8,231,1848,176,55,440,online,Returning,2
+133,2/16/2023,CUST133,Male,20,Beauty,1,289,289,205,84,84,credit card,Returning,1
+134,1/25/2023,CUST134,Male,49,Electronics,10,394,3940,307,87,870,online,Returning,3
+135,2/26/2023,CUST135,Male,20,Beauty,6,206,1236,117,89,534,credit card,Returning,2
+136,3/20/2023,CUST136,Male,44,Food,2,216,432,151,65,130,online,Returning,1
+137,11/18/2023,CUST137,Male,46,Electronics,10,75,750,67,8,80,cash,New,2
+138,3/23/2023,CUST138,Male,49,Beauty,7,208,1456,119,89,623,credit card,Returning,1
+139,12/15/2023,CUST139,Male,36,Electronics,3,398,1194,231,167,501,cash,New,5
+140,8/5/2023,CUST140,Male,38,Clothing,9,200,1800,105,95,855,credit card,Returning,3
+141,11/2/2023,CUST141,Female,22,Electronics,3,305,915,212,93,279,online,New,3
+142,2/2/2023,CUST142,Male,35,Food,4,201,804,149,52,208,credit card,Returning,4
+143,7/17/2023,CUST143,Female,45,Clothing,7,156,1092,104,52,364,cash,New,1
+144,7/15/2023,CUST144,Female,59,Electronics,2,398,796,262,136,272,cash,New,4
+145,11/2/2023,CUST145,Female,39,Electronics,9,269,2421,145,124,1116,online,New,5
+146,8/28/2023,CUST146,Male,38,Electronics,6,467,2802,350,117,702,cash,New,1
+147,9/28/2023,CUST147,Male,23,Electronics,6,425,2550,340,85,510,online,Returning,5
+148,5/9/2023,CUST148,Male,18,Beauty,9,181,1629,107,74,666,online,Returning,1
+149,10/11/2023,CUST149,Male,22,Electronics,9,288,2592,245,43,387,credit card,Returning,5
+150,1/6/2023,CUST150,Female,58,Food,10,392,3920,314,78,780,online,Returning,2
+151,12/15/2023,CUST151,Male,29,Electronics,3,145,435,97,48,144,cash,Returning,1
+152,2/28/2023,CUST152,Male,43,Electronics,1,87,87,62,25,25,credit card,Returning,1
+153,12/16/2023,CUST153,Male,63,Clothing,5,419,2095,306,113,565,cash,Returning,3
+154,10/2/2023,CUST154,Male,51,Beauty,8,175,1400,142,33,264,online,New,5
+155,5/17/2023,CUST155,Male,31,Beauty,8,385,3080,229,156,1248,credit card,Returning,4
+156,11/25/2023,CUST156,Female,43,Clothing,4,94,376,68,26,104,cash,Returning,2
+157,6/24/2023,CUST157,Male,62,Food,8,363,2904,326,37,296,cash,New,2
+158,2/27/2023,CUST158,Female,44,Beauty,3,335,1005,189,146,438,credit card,Returning,4
+159,5/31/2023,CUST159,Male,26,Clothing,2,231,462,153,78,156,online,Returning,4
+160,8/11/2023,CUST160,Female,43,Beauty,1,489,489,347,142,142,cash,New,2
+161,3/22/2023,CUST161,Male,64,Food,1,289,289,178,111,111,cash,New,5
+162,8/21/2023,CUST162,Male,39,Clothing,5,410,2050,278,132,660,credit card,Returning,3
+163,1/2/2023,CUST163,Female,64,Food,3,113,339,91,22,66,cash,Returning,2
+164,5/15/2023,CUST164,Female,47,Beauty,1,311,311,243,68,68,credit card,New,3
+165,9/14/2023,CUST165,Female,60,Beauty,7,418,2926,254,164,1148,online,Returning,3
+166,4/2/2023,CUST166,Male,34,Electronics,8,245,1960,129,116,928,cash,New,5
+167,9/17/2023,CUST167,Female,43,Electronics,9,383,3447,258,125,1125,credit card,New,1
+168,2/24/2023,CUST168,Male,53,Clothing,4,259,1036,150,109,436,cash,Returning,5
+169,11/17/2023,CUST169,Male,18,Electronics,5,40,200,28,12,60,online,New,5
+170,6/2/2023,CUST170,Female,25,Clothing,3,259,777,200,59,177,online,New,5
+171,11/24/2023,CUST171,Female,52,Clothing,9,201,1809,133,68,612,credit card,New,5
+172,9/17/2023,CUST172,Male,32,Beauty,5,443,2215,327,116,580,online,New,3
+173,11/8/2023,CUST173,Male,64,Clothing,6,331,1986,225,106,636,cash,Returning,5
+174,4/12/2023,CUST174,Female,39,Electronics,5,214,1070,153,61,305,credit card,Returning,2
+175,3/20/2023,CUST175,Female,31,Electronics,5,401,2005,301,100,500,credit card,New,4
+176,7/11/2023,CUST176,Female,43,Clothing,1,337,337,177,160,160,online,Returning,1
+177,3/24/2023,CUST177,Male,45,Clothing,2,246,492,144,102,204,credit card,New,3
+178,10/4/2023,CUST178,Male,40,Electronics,5,220,1100,187,33,165,credit card,New,1
+179,9/29/2023,CUST179,Male,31,Food,1,215,215,122,93,93,credit card,New,2
+180,1/1/2023,CUST180,Male,41,Food,4,320,1280,210,110,440,credit card,Returning,3
+181,11/3/2023,CUST181,Male,19,Food,10,319,3190,279,40,400,cash,Returning,5
+182,6/15/2023,CUST182,Male,62,Electronics,1,68,68,46,22,22,cash,Returning,5
+183,9/8/2023,CUST183,Female,43,Electronics,9,148,1332,89,59,531,cash,Returning,2
+184,1/10/2023,CUST184,Male,31,Clothing,1,434,434,265,169,169,online,Returning,2
+185,2/27/2023,CUST185,Male,24,Food,3,184,552,152,32,96,online,New,5
+186,7/5/2023,CUST186,Male,20,Beauty,5,196,980,122,74,370,credit card,New,2
+187,6/7/2023,CUST187,Female,64,Beauty,9,412,3708,314,98,882,cash,Returning,3
+188,5/3/2023,CUST188,Male,40,Food,5,359,1795,255,104,520,cash,Returning,1
+189,1/30/2023,CUST189,Male,63,Electronics,10,491,4910,339,152,1520,credit card,New,4
+190,5/4/2023,CUST190,Female,60,Electronics,1,471,471,305,166,166,online,Returning,3
+191,10/18/2023,CUST191,Male,64,Food,10,433,4330,244,189,1890,online,New,2
+192,2/10/2023,CUST192,Male,62,Food,2,178,356,129,49,98,online,Returning,3
+193,2/13/2023,CUST193,Male,35,Food,9,468,4212,334,134,1206,cash,New,1
+194,9/6/2023,CUST194,Male,55,Clothing,3,243,729,145,98,294,online,New,3
+195,2/5/2023,CUST195,Male,52,Electronics,4,396,1584,312,84,336,cash,New,1
+196,9/30/2023,CUST196,Female,32,Food,10,468,4680,272,196,1960,online,New,1
+197,3/6/2023,CUST197,Female,42,Electronics,6,369,2214,288,81,486,credit card,New,3
+198,3/7/2023,CUST198,Female,54,Electronics,10,111,1110,60,51,510,credit card,Returning,1
+199,12/4/2023,CUST199,Male,45,Clothing,7,451,3157,238,213,1491,online,Returning,4
+200,9/1/2023,CUST200,Male,27,Electronics,5,176,880,151,25,125,online,New,1
+201,10/9/2023,CUST201,Male,56,Clothing,1,221,221,152,69,69,credit card,New,1
+202,3/26/2023,CUST202,Female,34,Beauty,4,193,772,132,61,244,online,Returning,3
+203,5/16/2023,CUST203,Male,56,Electronics,10,270,2700,216,54,540,online,New,3
+204,9/28/2023,CUST204,Male,39,Beauty,7,83,581,44,39,273,cash,Returning,5
+205,11/7/2023,CUST205,Female,43,Electronics,4,121,484,106,15,60,online,Returning,4
+206,8/5/2023,CUST206,Male,61,Beauty,3,189,567,160,29,87,cash,New,1
+207,4/19/2023,CUST207,Female,42,Food,8,75,600,38,37,296,cash,Returning,5
+208,10/4/2023,CUST208,Female,34,Clothing,8,446,3568,261,185,1480,cash,Returning,2
+209,12/20/2023,CUST209,Female,30,Electronics,2,440,880,220,220,440,credit card,Returning,4
+210,4/13/2023,CUST210,Male,37,Food,1,412,412,335,77,77,credit card,New,1
+211,1/1/2024,CUST211,Male,42,Electronics,1,440,440,286,154,154,online,Returning,5
+212,6/9/2023,CUST212,Male,21,Electronics,1,344,344,270,74,74,credit card,Returning,1
+213,7/24/2023,CUST213,Male,27,Beauty,4,360,1440,306,54,216,cash,New,5
+214,12/10/2023,CUST214,Male,20,Electronics,9,330,2970,223,107,963,online,Returning,4
+215,11/29/2023,CUST215,Male,58,Beauty,5,175,875,151,24,120,online,New,5
+216,7/11/2023,CUST216,Male,62,Electronics,7,350,2450,180,170,1190,cash,Returning,5
+217,8/13/2023,CUST217,Female,35,Food,4,317,1268,250,67,268,credit card,New,3
+218,9/22/2023,CUST218,Male,64,Clothing,1,249,249,165,84,84,online,Returning,5
+219,8/20/2023,CUST219,Female,53,Clothing,8,297,2376,194,103,824,cash,Returning,2
+220,3/3/2023,CUST220,Male,64,Clothing,6,301,1806,174,127,762,credit card,Returning,1
+221,5/7/2023,CUST221,Male,39,Clothing,2,471,942,347,124,248,credit card,New,4
+222,4/26/2023,CUST222,Male,51,Food,3,449,1347,401,48,144,credit card,New,1
+223,2/2/2023,CUST223,Female,64,Electronics,6,392,2352,290,102,612,online,Returning,4
+224,6/23/2023,CUST224,Female,25,Clothing,7,425,2975,295,130,910,cash,Returning,4
+225,1/11/2023,CUST225,Female,57,Food,10,440,4400,279,161,1610,online,New,3
+226,10/29/2023,CUST226,Female,61,Clothing,2,485,970,381,104,208,cash,New,5
+227,10/11/2023,CUST227,Male,36,Clothing,3,175,525,139,36,108,credit card,Returning,4
+228,4/28/2023,CUST228,Female,59,Clothing,10,364,3640,322,42,420,online,Returning,3
+229,10/29/2023,CUST229,Male,58,Beauty,9,269,2421,191,78,702,online,Returning,2
+230,4/23/2023,CUST230,Male,54,Clothing,1,309,309,197,112,112,online,New,3
+231,1/4/2023,CUST231,Female,23,Clothing,9,412,3708,308,104,936,cash,New,3
+232,2/6/2023,CUST232,Female,43,Food,2,338,676,228,110,220,online,Returning,3
+233,12/29/2023,CUST233,Female,51,Electronics,3,67,201,47,20,60,online,Returning,3
+234,11/20/2023,CUST234,Female,62,Electronics,3,69,207,44,25,75,credit card,Returning,2
+235,1/31/2023,CUST235,Female,23,Food,6,163,978,138,25,150,credit card,New,1
+236,4/28/2023,CUST236,Female,54,Clothing,1,198,198,158,40,40,online,Returning,4
+237,2/4/2023,CUST237,Female,50,Beauty,8,344,2752,273,71,568,online,Returning,1
+238,1/17/2023,CUST238,Female,39,Food,10,107,1070,88,19,190,cash,Returning,3
+239,6/19/2023,CUST239,Male,38,Beauty,1,220,220,124,96,96,online,New,4
+240,2/6/2023,CUST240,Female,23,Electronics,9,408,3672,264,144,1296,credit card,Returning,1
+241,9/21/2023,CUST241,Female,23,Electronics,10,332,3320,243,89,890,online,New,5
+242,5/2/2023,CUST242,Male,21,Food,1,301,301,192,109,109,credit card,New,3
+243,5/23/2023,CUST243,Female,47,Food,8,91,728,80,11,88,online,New,2
+244,12/9/2023,CUST244,Male,28,Clothing,8,207,1656,161,46,368,cash,New,1
+245,9/6/2023,CUST245,Male,47,Food,1,309,309,256,53,53,cash,New,3
+246,4/20/2023,CUST246,Female,48,Food,4,430,1720,216,214,856,online,Returning,3
+247,10/4/2023,CUST247,Male,41,Beauty,7,185,1295,120,65,455,credit card,New,5
+248,3/9/2023,CUST248,Male,26,Clothing,1,146,146,84,62,62,cash,Returning,3
+249,10/20/2023,CUST249,Male,20,Beauty,9,139,1251,122,17,153,online,Returning,5
+250,10/23/2023,CUST250,Male,48,Food,4,135,540,69,66,264,credit card,New,1
+251,8/31/2023,CUST251,Female,57,Food,7,170,1190,97,73,511,credit card,New,1
+252,5/5/2023,CUST252,Male,54,Food,8,54,432,32,22,176,online,Returning,1
+253,8/31/2023,CUST253,Female,53,Food,10,383,3830,265,118,1180,online,Returning,2
+254,7/28/2023,CUST254,Male,41,Clothing,9,211,1899,149,62,558,cash,New,3
+255,4/8/2023,CUST255,Male,48,Beauty,10,276,2760,214,62,620,cash,Returning,4
+256,2/18/2023,CUST256,Male,23,Electronics,5,444,2220,242,202,1010,cash,New,5
+257,2/19/2023,CUST257,Male,19,Electronics,6,498,2988,286,212,1272,credit card,Returning,3
+258,12/4/2023,CUST258,Female,37,Electronics,1,44,44,22,22,22,cash,New,1
+259,8/9/2023,CUST259,Female,45,Beauty,8,470,3760,344,126,1008,online,Returning,2
+260,7/1/2023,CUST260,Male,28,Food,5,131,655,73,58,290,online,Returning,4
+261,8/5/2023,CUST261,Male,21,Food,4,197,788,168,29,116,credit card,New,3
+262,7/30/2023,CUST262,Female,32,Beauty,9,394,3546,312,82,738,online,New,4
+263,8/28/2023,CUST263,Male,23,Electronics,9,62,558,40,22,198,credit card,Returning,1
+264,1/28/2023,CUST264,Male,47,Electronics,4,289,1156,233,56,224,credit card,New,3
+265,12/11/2023,CUST265,Male,55,Food,5,317,1585,236,81,405,online,New,3
+266,12/1/2023,CUST266,Female,19,Electronics,7,277,1939,151,126,882,cash,Returning,4
+267,11/27/2023,CUST267,Female,32,Clothing,10,439,4390,346,93,930,credit card,New,3
+268,2/20/2023,CUST268,Female,28,Beauty,4,238,952,179,59,236,credit card,Returning,4
+269,2/1/2023,CUST269,Male,25,Food,1,445,445,306,139,139,cash,Returning,3
+270,7/26/2023,CUST270,Male,43,Clothing,3,147,441,84,63,189,online,New,1
+271,6/23/2023,CUST271,Female,62,Beauty,6,121,726,106,15,90,online,Returning,3
+272,2/25/2023,CUST272,Female,61,Beauty,6,437,2622,326,111,666,online,New,3
+273,5/8/2023,CUST273,Female,22,Beauty,10,227,2270,188,39,390,cash,New,2
+274,4/9/2023,CUST274,Female,23,Electronics,9,51,459,33,18,162,online,New,1
+275,4/8/2023,CUST275,Male,43,Electronics,4,402,1608,304,98,392,online,Returning,1
+276,10/2/2023,CUST276,Female,21,Electronics,2,333,666,243,90,180,online,New,4
+277,8/18/2023,CUST277,Male,36,Beauty,6,72,432,36,36,216,cash,New,1
+278,3/13/2023,CUST278,Female,37,Food,4,481,1924,379,102,408,cash,Returning,3
+279,8/5/2023,CUST279,Male,50,Food,1,66,66,37,29,29,credit card,Returning,4
+280,4/4/2023,CUST280,Female,37,Clothing,4,156,624,130,26,104,credit card,Returning,3
+281,5/23/2023,CUST281,Female,29,Food,4,42,168,24,18,72,cash,New,4
+282,8/25/2023,CUST282,Female,64,Beauty,9,58,522,51,7,63,cash,Returning,4
+283,5/8/2023,CUST283,Female,18,Clothing,2,231,462,195,36,72,online,New,1
+284,2/8/2023,CUST284,Male,43,Clothing,9,443,3987,364,79,711,online,Returning,4
+285,8/15/2023,CUST285,Female,31,Beauty,10,329,3290,169,160,1600,credit card,New,3
+286,10/9/2023,CUST286,Male,55,Food,9,329,2961,260,69,621,cash,Returning,2
+287,2/20/2023,CUST287,Male,54,Clothing,9,56,504,46,10,90,cash,New,3
+288,1/26/2023,CUST288,Male,28,Beauty,2,473,946,252,221,442,online,Returning,4
+289,11/30/2023,CUST289,Male,53,Clothing,4,163,652,135,28,112,credit card,New,4
+290,10/4/2023,CUST290,Female,30,Beauty,4,296,1184,201,95,380,credit card,New,5
+291,1/8/2023,CUST291,Male,60,Clothing,9,430,3870,239,191,1719,cash,Returning,3
+292,2/17/2023,CUST292,Male,20,Food,6,485,2910,262,223,1338,credit card,New,4
+293,5/2/2023,CUST293,Male,50,Electronics,6,73,438,51,22,132,cash,New,3
+294,3/27/2023,CUST294,Female,23,Electronics,10,497,4970,427,70,700,online,New,2
+295,7/28/2023,CUST295,Female,27,Food,10,352,3520,256,96,960,online,Returning,3
+296,9/6/2023,CUST296,Female,22,Clothing,10,190,1900,132,58,580,cash,New,3
+297,9/4/2023,CUST297,Female,40,Beauty,8,345,2760,183,162,1296,cash,New,2
+298,4/20/2023,CUST298,Male,27,Clothing,7,191,1337,168,23,161,credit card,Returning,5
+299,7/25/2023,CUST299,Male,61,Beauty,7,437,3059,228,209,1463,online,Returning,4
+300,1/31/2023,CUST300,Female,19,Clothing,4,499,1996,406,93,372,cash,Returning,4
+301,3/26/2023,CUST301,Male,30,Beauty,6,286,1716,257,29,174,credit card,New,5
+302,7/14/2023,CUST302,Male,57,Beauty,4,294,1176,164,130,520,credit card,New,3
+303,1/2/2023,CUST303,Male,19,Beauty,6,59,354,35,24,144,online,Returning,2
+304,7/19/2023,CUST304,Female,37,Clothing,10,498,4980,269,229,2290,credit card,New,1
+305,5/16/2023,CUST305,Female,18,Clothing,10,340,3400,255,85,850,online,New,3
+306,8/21/2023,CUST306,Male,54,Electronics,9,90,810,64,26,234,cash,Returning,2
+307,5/27/2023,CUST307,Female,26,Food,1,246,246,160,86,86,online,New,3
+308,8/5/2023,CUST308,Female,34,Food,6,247,1482,164,83,498,online,New,3
+309,12/23/2023,CUST309,Female,26,Clothing,10,302,3020,252,50,500,credit card,Returning,5
+310,10/12/2023,CUST310,Female,28,Clothing,2,477,954,405,72,144,cash,New,3
+311,12/5/2023,CUST311,Female,32,Food,3,252,756,168,84,252,cash,New,1
+312,9/7/2023,CUST312,Male,41,Beauty,7,440,3080,390,50,350,online,Returning,3
+313,3/21/2023,CUST313,Female,55,Clothing,5,99,495,53,46,230,cash,Returning,4
+314,4/8/2023,CUST314,Male,52,Food,4,100,400,53,47,188,credit card,New,3
+315,6/1/2023,CUST315,Male,47,Beauty,5,413,2065,243,170,850,cash,New,3
+316,4/22/2023,CUST316,Female,48,Food,8,321,2568,220,101,808,credit card,New,3
+317,1/30/2023,CUST317,Male,22,Electronics,5,132,660,92,40,200,online,New,4
+318,10/24/2023,CUST318,Male,61,Clothing,8,278,2224,141,137,1096,credit card,New,2
+319,10/5/2023,CUST319,Male,31,Clothing,5,134,670,74,60,300,credit card,New,4
+320,2/1/2023,CUST320,Female,28,Electronics,1,413,413,343,70,70,cash,Returning,1
+321,6/10/2023,CUST321,Female,26,Food,4,222,888,168,54,216,credit card,Returning,5
+322,1/30/2023,CUST322,Male,51,Beauty,6,149,894,133,16,96,cash,New,4
+323,1/26/2023,CUST323,Female,29,Food,4,305,1220,238,67,268,credit card,Returning,1
+324,10/27/2023,CUST324,Female,52,Beauty,2,234,468,204,30,60,online,Returning,1
+325,9/2/2023,CUST325,Female,52,Electronics,6,303,1818,185,118,708,online,New,3
+326,9/15/2023,CUST326,Female,18,Beauty,5,425,2125,229,196,980,online,Returning,2
+327,9/29/2023,CUST327,Male,57,Food,2,163,326,99,64,128,cash,New,5
+328,3/22/2023,CUST328,Male,39,Beauty,9,108,972,66,42,378,cash,New,3
+329,1/30/2023,CUST329,Female,46,Beauty,1,42,42,22,20,20,online,New,3
+330,9/18/2023,CUST330,Female,25,Food,2,255,510,154,101,202,cash,Returning,4
+331,2/11/2023,CUST331,Male,28,Food,10,320,3200,245,75,750,online,New,3
+332,4/6/2023,CUST332,Male,58,Electronics,5,292,1460,185,107,535,cash,New,4
+333,2/5/2023,CUST333,Female,54,Electronics,9,461,4149,265,196,1764,online,Returning,3
+334,11/1/2023,CUST334,Male,31,Beauty,8,365,2920,249,116,928,credit card,New,1
+335,2/4/2023,CUST335,Female,47,Food,7,47,329,28,19,133,online,Returning,4
+336,12/12/2023,CUST336,Female,52,Beauty,9,230,2070,160,70,630,online,New,5
+337,5/1/2023,CUST337,Male,38,Food,7,160,1120,100,60,420,credit card,Returning,3
+338,7/26/2023,CUST338,Male,54,Clothing,10,39,390,24,15,150,cash,Returning,3
+339,3/3/2023,CUST339,Female,22,Beauty,7,333,2331,267,66,462,online,New,4
+340,10/19/2023,CUST340,Female,36,Electronics,6,302,1812,239,63,378,online,Returning,4
+341,5/7/2023,CUST341,Male,31,Clothing,7,162,1134,98,64,448,cash,New,1
+342,10/24/2023,CUST342,Female,43,Beauty,2,297,594,222,75,150,cash,Returning,4
+343,11/1/2023,CUST343,Male,21,Beauty,5,316,1580,224,92,460,online,Returning,4
+344,1/21/2023,CUST344,Female,42,Electronics,8,127,1016,90,37,296,online,Returning,4
+345,11/14/2023,CUST345,Male,62,Electronics,8,178,1424,100,78,624,credit card,New,4
+346,2/11/2023,CUST346,Male,59,Food,10,196,1960,117,79,790,online,New,5
+347,8/3/2023,CUST347,Male,42,Clothing,3,187,561,97,90,270,credit card,Returning,2
+348,12/3/2023,CUST348,Female,35,Beauty,3,229,687,190,39,117,credit card,Returning,1
+349,10/26/2023,CUST349,Female,57,Beauty,1,355,355,296,59,59,online,Returning,4
+350,10/17/2023,CUST350,Male,25,Beauty,10,320,3200,210,110,1100,cash,Returning,4
+351,9/25/2023,CUST351,Female,56,Clothing,5,392,1960,348,44,220,cash,New,5
+352,6/11/2023,CUST352,Male,57,Electronics,2,150,300,110,40,80,cash,New,2
+353,5/14/2023,CUST353,Male,31,Electronics,10,393,3930,221,172,1720,cash,New,1
+354,4/15/2023,CUST354,Female,49,Food,5,203,1015,103,100,500,credit card,New,5
+355,12/9/2023,CUST355,Female,55,Beauty,4,147,588,87,60,240,credit card,Returning,2
+356,6/10/2023,CUST356,Male,50,Clothing,5,500,2500,357,143,715,cash,Returning,2
+357,5/3/2023,CUST357,Female,40,Electronics,4,152,608,96,56,224,credit card,Returning,2
+358,5/16/2023,CUST358,Female,32,Food,8,244,1952,208,36,288,cash,Returning,2
+359,7/22/2023,CUST359,Male,50,Food,9,97,873,52,45,405,credit card,Returning,2
+360,3/9/2023,CUST360,Male,42,Clothing,4,104,416,60,44,176,online,New,3
+361,12/10/2023,CUST361,Female,34,Food,2,91,182,62,29,58,credit card,New,1
+362,11/27/2023,CUST362,Male,50,Food,6,338,2028,270,68,408,online,Returning,2
+363,6/3/2023,CUST363,Male,64,Food,2,315,630,238,77,154,cash,Returning,2
+364,8/23/2023,CUST364,Female,19,Food,10,163,1630,95,68,680,credit card,Returning,1
+365,6/11/2023,CUST365,Male,31,Beauty,5,337,1685,224,113,565,cash,New,3
+366,2/7/2023,CUST366,Male,57,Electronics,9,325,2925,235,90,810,cash,Returning,5
+367,1/5/2023,CUST367,Female,57,Electronics,10,486,4860,252,234,2340,cash,Returning,2
+368,8/23/2023,CUST368,Female,56,Beauty,7,437,3059,301,136,952,online,New,5
+369,11/15/2023,CUST369,Male,23,Electronics,6,126,756,72,54,324,online,New,2
+370,10/16/2023,CUST370,Male,23,Electronics,3,369,1107,210,159,477,cash,Returning,5
+371,2/21/2023,CUST371,Female,20,Clothing,5,190,950,110,80,400,online,New,2
+372,2/7/2023,CUST372,Female,24,Beauty,8,397,3176,309,88,704,credit card,Returning,2
+373,10/3/2023,CUST373,Female,25,Food,10,426,4260,261,165,1650,online,New,2
+374,4/20/2023,CUST374,Female,59,Food,9,469,4221,325,144,1296,cash,Returning,2
+375,9/17/2023,CUST375,Male,32,Beauty,10,78,780,68,10,100,credit card,New,1
+376,5/16/2023,CUST376,Female,64,Clothing,10,480,4800,401,79,790,cash,Returning,2
+377,3/9/2023,CUST377,Female,46,Beauty,10,306,3060,241,65,650,credit card,New,1
+378,6/28/2023,CUST378,Male,50,Food,2,363,726,211,152,304,cash,New,4
+379,2/5/2023,CUST379,Female,47,Beauty,3,149,447,95,54,162,online,New,2
+380,5/6/2023,CUST380,Male,56,Beauty,10,305,3050,269,36,360,online,Returning,3
+381,7/9/2023,CUST381,Female,44,Beauty,10,191,1910,165,26,260,cash,New,5
+382,5/26/2023,CUST382,Female,53,Food,7,475,3325,316,159,1113,cash,Returning,2
+383,3/22/2023,CUST383,Female,46,Clothing,10,421,4210,304,117,1170,credit card,Returning,1
+384,8/13/2023,CUST384,Male,55,Clothing,6,116,696,67,49,294,credit card,Returning,2
+385,10/6/2023,CUST385,Male,50,Beauty,1,209,209,152,57,57,cash,Returning,4
+386,12/27/2023,CUST386,Female,54,Beauty,2,326,652,283,43,86,online,New,4
+387,6/4/2023,CUST387,Male,44,Clothing,4,475,1900,392,83,332,online,Returning,4
+388,11/10/2023,CUST388,Male,50,Beauty,7,157,1099,101,56,392,credit card,Returning,4
+389,12/1/2023,CUST389,Male,21,Beauty,4,444,1776,243,201,804,online,New,4
+390,9/28/2023,CUST390,Male,39,Beauty,10,340,3400,171,169,1690,credit card,New,4
+391,1/5/2023,CUST391,Male,19,Beauty,1,90,90,79,11,11,credit card,New,5
+392,12/8/2023,CUST392,Male,27,Electronics,5,138,690,80,58,290,cash,Returning,5
+393,10/11/2023,CUST393,Female,22,Electronics,5,155,775,82,73,365,credit card,New,1
+394,6/3/2023,CUST394,Female,27,Food,10,433,4330,264,169,1690,online,Returning,1
+395,12/6/2023,CUST395,Male,50,Clothing,9,279,2511,195,84,756,online,New,3
+396,2/23/2023,CUST396,Female,55,Electronics,2,50,100,29,21,42,online,Returning,4
+397,3/10/2023,CUST397,Female,30,Electronics,10,468,4680,410,58,580,credit card,Returning,3
+398,5/16/2023,CUST398,Female,48,Food,1,125,125,105,20,20,cash,New,1
+399,3/1/2023,CUST399,Female,64,Electronics,4,131,524,89,42,168,online,Returning,1
+400,2/24/2023,CUST400,Male,53,Electronics,2,267,534,222,45,90,credit card,New,2
+401,10/11/2023,CUST401,Female,62,Food,9,486,4374,353,133,1197,credit card,Returning,3
+402,3/21/2023,CUST402,Female,41,Electronics,9,352,3168,302,50,450,credit card,Returning,1
+403,5/20/2023,CUST403,Male,32,Electronics,8,284,2272,236,48,384,cash,New,2
+404,5/25/2023,CUST404,Male,46,Electronics,6,99,594,62,37,222,credit card,New,3
+405,11/6/2023,CUST405,Female,25,Food,6,117,702,70,47,282,credit card,Returning,3
+406,4/18/2023,CUST406,Female,22,Clothing,3,286,858,247,39,117,online,New,1
+407,6/25/2023,CUST407,Female,46,Food,2,343,686,308,35,70,cash,Returning,2
+408,4/15/2023,CUST408,Female,64,Food,4,223,892,126,97,388,online,New,2
+409,12/18/2023,CUST409,Female,21,Food,4,128,512,115,13,52,cash,New,1
+410,11/21/2023,CUST410,Female,29,Beauty,5,62,310,33,29,145,cash,New,4
+411,5/16/2023,CUST411,Male,62,Clothing,3,106,318,55,51,153,credit card,Returning,3
+412,9/16/2023,CUST412,Female,19,Food,10,434,4340,355,79,790,online,New,5
+413,9/8/2023,CUST413,Female,44,Electronics,4,207,828,167,40,160,credit card,New,2
+414,5/9/2023,CUST414,Male,48,Food,8,452,3616,250,202,1616,cash,Returning,1
+415,1/27/2023,CUST415,Male,53,Clothing,7,171,1197,149,22,154,credit card,New,1
+416,2/17/2023,CUST416,Male,53,Clothing,7,97,679,49,48,336,credit card,Returning,1
+417,11/21/2023,CUST417,Male,43,Beauty,9,451,4059,368,83,747,credit card,New,2
+418,8/5/2023,CUST418,Female,60,Electronics,5,378,1890,250,128,640,cash,Returning,2
+419,5/22/2023,CUST419,Female,44,Beauty,8,59,472,30,29,232,cash,Returning,5
+420,1/23/2023,CUST420,Female,22,Food,6,377,2262,306,71,426,credit card,Returning,4
+421,1/2/2023,CUST421,Female,37,Beauty,5,451,2255,267,184,920,online,Returning,2
+422,6/20/2023,CUST422,Female,28,Clothing,1,415,415,357,58,58,online,Returning,3
+423,3/8/2023,CUST423,Female,27,Electronics,8,209,1672,131,78,624,credit card,Returning,4
+424,11/23/2023,CUST424,Male,57,Food,8,399,3192,336,63,504,credit card,Returning,4
+425,5/15/2023,CUST425,Female,55,Food,2,500,1000,397,103,206,cash,New,4
+426,3/24/2023,CUST426,Male,23,Food,7,346,2422,311,35,245,credit card,New,2
+427,8/15/2023,CUST427,Male,25,Clothing,8,490,3920,271,219,1752,cash,Returning,4
+428,10/10/2023,CUST428,Female,40,Electronics,6,73,438,62,11,66,cash,Returning,1
+429,12/28/2023,CUST429,Male,64,Clothing,10,463,4630,295,168,1680,online,Returning,5
+430,8/7/2023,CUST430,Female,43,Beauty,9,354,3186,245,109,981,online,New,4
+431,10/15/2023,CUST431,Male,63,Food,6,163,978,138,25,150,credit card,New,1
+432,1/5/2023,CUST432,Female,60,Food,1,457,457,273,184,184,cash,Returning,1
+433,2/27/2023,CUST433,Male,29,Beauty,6,205,1230,159,46,276,online,New,2
+434,2/8/2023,CUST434,Female,43,Clothing,7,37,259,24,13,91,online,Returning,3
+435,12/20/2023,CUST435,Female,30,Clothing,3,489,1467,347,142,426,cash,New,4
+436,3/18/2023,CUST436,Female,57,Electronics,5,324,1620,275,49,245,credit card,Returning,3
+437,10/7/2023,CUST437,Female,35,Food,1,415,415,297,118,118,cash,New,4
+438,1/19/2023,CUST438,Female,42,Electronics,7,237,1659,181,56,392,online,Returning,4
+439,7/9/2023,CUST439,Male,50,Electronics,4,475,1900,401,74,296,cash,Returning,2
+440,10/26/2023,CUST440,Male,64,Electronics,6,292,1752,166,126,756,cash,Returning,5
+441,10/10/2023,CUST441,Male,57,Clothing,1,294,294,171,123,123,online,New,5
+442,3/17/2023,CUST442,Female,60,Beauty,4,74,296,38,36,144,credit card,New,1
+443,8/9/2023,CUST443,Male,29,Food,9,235,2115,165,70,630,cash,Returning,5
+444,3/7/2023,CUST444,Female,61,Clothing,9,310,2790,204,106,954,cash,New,2
+445,1/22/2023,CUST445,Female,53,Clothing,7,45,315,29,16,112,online,New,3
+446,6/7/2023,CUST446,Male,21,Food,4,147,588,132,15,60,credit card,Returning,1
+447,7/6/2023,CUST447,Male,22,Beauty,3,417,1251,286,131,393,cash,New,4
+448,1/21/2023,CUST448,Female,54,Food,1,185,185,158,27,27,credit card,New,5
+449,7/3/2023,CUST449,Male,25,Food,7,106,742,74,32,224,online,Returning,1
+450,4/18/2023,CUST450,Female,59,Food,6,238,1428,192,46,276,credit card,New,5
+451,12/16/2023,CUST451,Female,45,Beauty,7,396,2772,222,174,1218,online,Returning,4
+452,5/8/2023,CUST452,Female,48,Electronics,6,298,1788,244,54,324,cash,New,4
+453,12/8/2023,CUST453,Female,26,Clothing,10,352,3520,294,58,580,online,Returning,5
+454,2/22/2023,CUST454,Female,46,Food,2,389,778,310,79,158,online,Returning,3
+455,7/1/2023,CUST455,Male,31,Food,5,156,780,105,51,255,online,Returning,3
+456,10/14/2023,CUST456,Male,57,Beauty,1,43,43,28,15,15,online,Returning,2
+457,7/28/2023,CUST457,Female,58,Food,7,80,560,48,32,224,online,New,2
+458,11/14/2023,CUST458,Female,39,Electronics,10,480,4800,272,208,2080,online,Returning,4
+459,3/21/2023,CUST459,Male,28,Clothing,7,137,959,76,61,427,online,Returning,2
+460,5/2/2023,CUST460,Male,40,Beauty,3,126,378,107,19,57,credit card,Returning,3
+461,3/25/2023,CUST461,Female,18,Food,10,484,4840,280,204,2040,online,New,4
+462,4/1/2023,CUST462,Male,63,Electronics,1,94,94,69,25,25,online,New,5
+463,7/31/2023,CUST463,Female,54,Electronics,3,199,597,166,33,99,cash,New,5
+464,1/13/2023,CUST464,Male,38,Beauty,3,53,159,41,12,36,credit card,Returning,1
+465,4/2/2023,CUST465,Female,43,Clothing,5,489,2445,355,134,670,credit card,New,3
+466,6/20/2023,CUST466,Male,63,Beauty,6,488,2928,298,190,1140,credit card,Returning,1
+467,7/30/2023,CUST467,Female,53,Food,1,300,300,233,67,67,online,Returning,4
+468,12/9/2023,CUST468,Male,40,Food,10,330,3300,256,74,740,cash,New,1
+469,5/8/2023,CUST469,Male,18,Clothing,10,125,1250,71,54,540,credit card,Returning,1
+470,5/17/2023,CUST470,Female,57,Clothing,6,272,1632,245,27,162,credit card,New,2
+471,3/23/2023,CUST471,Male,32,Electronics,6,499,2994,373,126,756,credit card,New,5
+472,12/26/2023,CUST472,Female,38,Clothing,10,399,3990,225,174,1740,online,Returning,3
+473,2/25/2023,CUST473,Male,64,Food,7,483,3381,284,199,1393,online,New,4
+474,7/15/2023,CUST474,Female,26,Electronics,8,289,2312,255,34,272,cash,Returning,1
+475,1/20/2023,CUST475,Male,26,Electronics,5,70,350,56,14,70,online,New,3
+476,8/29/2023,CUST476,Female,27,Clothing,6,31,186,24,7,42,credit card,New,3
+477,4/24/2023,CUST477,Male,43,Electronics,4,58,232,41,17,68,credit card,New,1
+478,4/13/2023,CUST478,Female,58,Clothing,1,448,448,400,48,48,credit card,Returning,2
+479,8/24/2023,CUST479,Male,52,Beauty,8,127,1016,64,63,504,cash,Returning,2
+480,6/29/2023,CUST480,Female,42,Electronics,5,61,305,40,21,105,cash,Returning,1
+481,6/6/2023,CUST481,Female,43,Clothing,9,128,1152,64,64,576,cash,Returning,2
+482,4/27/2023,CUST482,Female,28,Beauty,10,87,870,74,13,130,cash,Returning,2
+483,4/25/2023,CUST483,Male,55,Electronics,10,237,2370,141,96,960,online,New,3
+484,1/13/2023,CUST484,Female,19,Food,9,101,909,59,42,378,cash,Returning,2
+485,12/4/2023,CUST485,Male,24,Beauty,4,88,352,61,27,108,online,New,4
+486,4/9/2023,CUST486,Female,35,Electronics,4,176,704,115,61,244,cash,New,2
+487,7/24/2023,CUST487,Male,44,Electronics,4,277,1108,202,75,300,credit card,Returning,1
+488,6/18/2023,CUST488,Female,51,Electronics,1,429,429,276,153,153,credit card,Returning,2
+489,5/23/2023,CUST489,Male,44,Beauty,4,179,716,94,85,340,credit card,Returning,4
+490,2/5/2023,CUST490,Male,34,Food,6,285,1710,155,130,780,credit card,New,3
+491,5/23/2023,CUST491,Female,60,Electronics,8,254,2032,188,66,528,online,Returning,1
+492,6/29/2023,CUST492,Male,61,Beauty,6,442,2652,359,83,498,online,New,1
+493,11/25/2023,CUST493,Male,41,Beauty,5,110,550,86,24,120,online,Returning,5
+494,9/18/2023,CUST494,Female,42,Beauty,8,351,2808,252,99,792,credit card,New,4
+495,7/24/2023,CUST495,Male,24,Beauty,4,60,240,37,23,92,credit card,Returning,2
+496,12/14/2023,CUST496,Male,23,Electronics,6,174,1044,118,56,336,cash,New,5
+497,10/2/2023,CUST497,Male,41,Food,4,425,1700,319,106,424,online,New,5
+498,6/19/2023,CUST498,Female,50,Food,8,435,3480,254,181,1448,credit card,Returning,4
+499,1/15/2023,CUST499,Male,46,Electronics,5,364,1820,319,45,225,credit card,New,4
+500,3/1/2023,CUST500,Female,60,Clothing,7,37,259,32,5,35,credit card,Returning,3
+501,5/14/2023,CUST501,Male,39,Clothing,5,233,1165,164,69,345,cash,Returning,3
+502,4/2/2023,CUST502,Male,43,Beauty,8,151,1208,113,38,304,credit card,New,4
+503,10/25/2023,CUST503,Male,45,Clothing,2,373,746,195,178,356,cash,Returning,1
+504,5/16/2023,CUST504,Female,38,Beauty,6,340,2040,229,111,666,online,New,1
+505,1/20/2023,CUST505,Male,24,Beauty,6,486,2916,363,123,738,cash,New,3
+506,2/25/2023,CUST506,Male,34,Beauty,5,42,210,36,6,30,credit card,New,4
+507,11/2/2023,CUST507,Female,37,Electronics,7,42,294,35,7,49,cash,Returning,1
+508,8/11/2023,CUST508,Male,58,Food,6,389,2334,228,161,966,credit card,Returning,5
+509,6/26/2023,CUST509,Female,37,Beauty,5,420,2100,279,141,705,cash,Returning,4
+510,6/10/2023,CUST510,Female,39,Electronics,5,276,1380,167,109,545,credit card,Returning,3
+511,8/12/2023,CUST511,Male,45,Beauty,8,109,872,78,31,248,cash,New,5
+512,11/7/2023,CUST512,Female,57,Beauty,8,448,3584,272,176,1408,credit card,Returning,2
+513,9/19/2023,CUST513,Male,24,Clothing,6,328,1968,192,136,816,credit card,Returning,3
+514,3/1/2023,CUST514,Female,18,Beauty,2,109,218,98,11,22,online,Returning,5
+515,7/17/2023,CUST515,Female,49,Beauty,7,187,1309,155,32,224,credit card,Returning,5
+516,10/23/2023,CUST516,Male,30,Food,5,138,690,94,44,220,cash,New,4
+517,4/8/2023,CUST517,Female,47,Clothing,6,67,402,43,24,144,cash,Returning,5
+518,5/11/2023,CUST518,Female,40,Electronics,10,128,1280,73,55,550,cash,New,2
+519,1/23/2023,CUST519,Female,36,Beauty,5,100,500,52,48,240,credit card,Returning,5
+520,12/29/2023,CUST520,Female,49,Electronics,1,461,461,380,81,81,cash,New,5
+521,8/12/2023,CUST521,Female,47,Beauty,6,102,612,72,30,180,credit card,New,2
+522,1/1/2023,CUST522,Male,46,Beauty,9,35,315,30,5,45,cash,Returning,2
+523,9/24/2023,CUST523,Female,62,Electronics,7,364,2548,314,50,350,cash,Returning,5
+524,10/3/2023,CUST524,Male,46,Electronics,1,444,444,253,191,191,online,New,5
+525,12/18/2023,CUST525,Female,47,Clothing,9,99,891,66,33,297,cash,Returning,5
+526,12/10/2023,CUST526,Male,33,Food,2,429,858,272,157,314,online,Returning,3
+527,4/11/2023,CUST527,Male,57,Food,10,338,3380,278,60,600,credit card,Returning,2
+528,7/6/2023,CUST528,Female,36,Electronics,1,253,253,176,77,77,cash,Returning,2
+529,8/9/2023,CUST529,Female,35,Electronics,10,314,3140,231,83,830,credit card,Returning,3
+530,2/5/2023,CUST530,Female,18,Beauty,1,378,378,310,68,68,credit card,New,1
+531,12/7/2023,CUST531,Male,31,Clothing,7,463,3241,236,227,1589,cash,Returning,1
+532,6/19/2023,CUST532,Female,64,Clothing,9,209,1881,140,69,621,cash,Returning,4
+533,11/16/2023,CUST533,Male,19,Clothing,3,262,786,198,64,192,cash,New,5
+534,6/10/2023,CUST534,Male,45,Beauty,10,344,3440,232,112,1120,credit card,New,2
+535,12/6/2023,CUST535,Male,47,Food,8,473,3784,262,211,1688,credit card,New,5
+536,3/5/2023,CUST536,Female,55,Clothing,10,171,1710,107,64,640,cash,New,1
+537,6/3/2023,CUST537,Female,21,Food,2,179,358,90,89,178,credit card,New,1
+538,9/17/2023,CUST538,Male,18,Electronics,2,427,854,275,152,304,credit card,New,3
+539,6/8/2023,CUST539,Male,25,Electronics,8,317,2536,195,122,976,cash,Returning,1
+540,12/8/2023,CUST540,Female,46,Food,1,364,364,228,136,136,online,Returning,5
+541,7/29/2023,CUST541,Male,56,Beauty,4,221,884,144,77,308,credit card,New,5
+542,6/17/2023,CUST542,Female,20,Clothing,10,336,3360,177,159,1590,online,New,2
+543,7/26/2023,CUST543,Male,49,Clothing,3,205,615,126,79,237,cash,New,2
+544,12/23/2023,CUST544,Female,27,Food,10,299,2990,173,126,1260,cash,Returning,3
+545,6/1/2023,CUST545,Male,27,Beauty,9,248,2232,151,97,873,online,New,3
+546,10/11/2023,CUST546,Female,36,Food,8,226,1808,201,25,200,cash,Returning,1
+547,3/7/2023,CUST547,Male,63,Electronics,8,62,496,53,9,72,cash,Returning,2
+548,4/9/2023,CUST548,Female,51,Clothing,5,109,545,85,24,120,online,Returning,3
+549,8/4/2023,CUST549,Female,50,Clothing,10,312,3120,162,150,1500,online,Returning,1
+550,12/7/2023,CUST550,Male,40,Clothing,1,414,414,242,172,172,credit card,New,2
+551,7/14/2023,CUST551,Male,45,Beauty,5,349,1745,221,128,640,online,Returning,5
+552,12/13/2023,CUST552,Female,49,Clothing,7,100,700,85,15,105,credit card,New,5
+553,3/31/2023,CUST553,Male,24,Clothing,5,195,975,160,35,175,credit card,Returning,3
+554,11/12/2023,CUST554,Female,46,Food,8,472,3776,243,229,1832,credit card,Returning,4
+555,10/19/2023,CUST555,Male,25,Clothing,6,287,1722,145,142,852,credit card,New,4
+556,6/4/2023,CUST556,Female,18,Electronics,8,195,1560,115,80,640,credit card,New,5
+557,7/27/2023,CUST557,Female,20,Clothing,6,312,1872,220,92,552,credit card,New,5
+558,10/8/2023,CUST558,Female,41,Electronics,6,459,2754,277,182,1092,online,Returning,1
+559,1/1/2023,CUST559,Female,40,Food,5,123,615,83,40,200,online,New,2
+560,6/5/2023,CUST560,Female,25,Beauty,1,313,313,260,53,53,online,Returning,3
+561,5/27/2023,CUST561,Female,64,Food,10,350,3500,252,98,980,cash,New,1
+562,4/18/2023,CUST562,Male,54,Beauty,9,449,4041,318,131,1179,cash,Returning,2
+563,8/9/2023,CUST563,Male,20,Clothing,4,352,1408,288,64,256,cash,New,4
+564,10/24/2023,CUST564,Male,50,Beauty,6,352,2112,290,62,372,credit card,Returning,5
+565,11/7/2023,CUST565,Female,45,Electronics,5,489,2445,390,99,495,credit card,New,3
+566,12/2/2023,CUST566,Female,64,Clothing,2,214,428,191,23,46,credit card,New,4
+567,6/14/2023,CUST567,Female,25,Food,1,331,331,242,89,89,credit card,New,2
+568,8/27/2023,CUST568,Female,51,Clothing,3,221,663,112,109,327,online,New,2
+569,8/15/2023,CUST569,Male,52,Beauty,9,431,3879,349,82,738,online,New,5
+570,8/15/2023,CUST570,Male,49,Food,4,216,864,188,28,112,online,Returning,2
+571,12/12/2023,CUST571,Female,41,Electronics,2,122,244,71,51,102,credit card,Returning,2
+572,4/20/2023,CUST572,Male,31,Electronics,7,244,1708,190,54,378,cash,Returning,1
+573,9/19/2023,CUST573,Male,49,Beauty,6,363,2178,326,37,222,credit card,Returning,1
+574,8/31/2023,CUST574,Female,63,Clothing,2,103,206,79,24,48,online,New,1
+575,3/28/2023,CUST575,Male,60,Beauty,5,31,155,16,15,75,credit card,Returning,5
+576,12/4/2023,CUST576,Female,33,Clothing,1,231,231,185,46,46,online,New,4
+577,2/13/2023,CUST577,Male,21,Clothing,4,348,1392,305,43,172,cash,Returning,2
+578,5/26/2023,CUST578,Female,54,Clothing,8,271,2168,238,33,264,credit card,New,2
+579,9/21/2023,CUST579,Female,38,Clothing,5,461,2305,327,134,670,online,Returning,2
+580,12/6/2023,CUST580,Female,31,Clothing,2,215,430,185,30,60,cash,New,5
+581,11/21/2023,CUST581,Female,48,Clothing,5,298,1490,245,53,265,online,Returning,3
+582,11/14/2023,CUST582,Male,35,Electronics,1,92,92,74,18,18,online,New,1
+583,6/21/2023,CUST583,Female,24,Clothing,4,332,1328,256,76,304,online,New,5
+584,2/17/2023,CUST584,Female,27,Beauty,7,163,1141,146,17,119,online,New,5
+585,5/1/2023,CUST585,Female,24,Food,8,419,3352,361,58,464,credit card,Returning,1
+586,12/11/2023,CUST586,Male,50,Food,1,100,100,53,47,47,online,New,3
+587,6/8/2023,CUST587,Female,40,Food,3,115,345,64,51,153,online,Returning,1
+588,4/26/2023,CUST588,Male,38,Beauty,9,189,1701,128,61,549,online,Returning,2
+589,4/12/2023,CUST589,Female,36,Electronics,2,398,796,319,79,158,online,New,3
+590,3/17/2023,CUST590,Male,36,Electronics,10,127,1270,64,63,630,cash,New,3
+591,1/13/2023,CUST591,Male,53,Clothing,4,139,556,100,39,156,cash,New,5
+592,1/24/2023,CUST592,Female,46,Electronics,10,93,930,78,15,150,credit card,Returning,3
+593,5/6/2023,CUST593,Male,35,Electronics,4,76,304,53,23,92,cash,New,4
+594,9/1/2023,CUST594,Female,19,Food,1,340,340,225,115,115,online,New,3
+595,11/9/2023,CUST595,Female,18,Beauty,5,254,1270,196,58,290,cash,Returning,2
+596,2/7/2023,CUST596,Female,64,Beauty,10,134,1340,110,24,240,cash,Returning,1
+597,8/22/2023,CUST597,Male,22,Beauty,8,297,2376,212,85,680,credit card,Returning,3
+598,8/1/2023,CUST598,Male,37,Electronics,10,77,770,56,21,210,cash,Returning,3
+599,11/19/2023,CUST599,Female,28,Food,4,307,1228,186,121,484,credit card,Returning,3
+600,10/22/2023,CUST600,Female,59,Beauty,10,268,2680,238,30,300,online,Returning,4
+601,4/10/2023,CUST601,Male,19,Clothing,3,93,279,48,45,135,cash,Returning,5
+602,12/23/2023,CUST602,Female,20,Electronics,4,387,1548,273,114,456,credit card,Returning,3
+603,7/16/2023,CUST603,Female,40,Clothing,6,226,1356,118,108,648,online,Returning,3
+604,9/11/2023,CUST604,Female,29,Beauty,8,173,1384,106,67,536,credit card,Returning,1
+605,7/24/2023,CUST605,Male,37,Food,5,212,1060,111,101,505,credit card,New,5
+606,5/5/2023,CUST606,Male,22,Food,6,384,2304,202,182,1092,credit card,Returning,3
+607,3/17/2023,CUST607,Male,54,Beauty,6,203,1218,126,77,462,online,New,2
+608,12/2/2023,CUST608,Female,55,Electronics,10,150,1500,91,59,590,credit card,Returning,4
+609,12/19/2023,CUST609,Female,47,Electronics,1,247,247,204,43,43,cash,New,5
+610,1/3/2023,CUST610,Female,26,Electronics,9,74,666,47,27,243,cash,Returning,1
+611,2/24/2023,CUST611,Male,51,Electronics,5,267,1335,136,131,655,credit card,New,5
+612,8/6/2023,CUST612,Female,61,Electronics,10,355,3550,257,98,980,cash,New,1
+613,4/23/2023,CUST613,Female,52,Food,7,476,3332,308,168,1176,cash,New,3
+614,4/1/2023,CUST614,Female,39,Electronics,8,430,3440,294,136,1088,cash,Returning,4
+615,12/23/2023,CUST615,Female,61,Electronics,4,194,776,108,86,344,cash,Returning,3
+616,9/23/2023,CUST616,Male,41,Food,8,303,2424,197,106,848,cash,Returning,4
+617,8/26/2023,CUST617,Male,34,Food,1,180,180,124,56,56,credit card,Returning,4
+618,1/26/2023,CUST618,Female,27,Beauty,4,142,568,73,69,276,online,Returning,3
+619,10/13/2023,CUST619,Male,47,Clothing,5,241,1205,180,61,305,online,New,1
+620,5/8/2023,CUST620,Male,63,Food,9,418,3762,229,189,1701,cash,New,3
+621,3/4/2023,CUST621,Female,40,Beauty,6,290,1740,206,84,504,online,Returning,1
+622,8/22/2023,CUST622,Female,49,Beauty,5,479,2395,428,51,255,cash,Returning,5
+623,3/10/2023,CUST623,Male,34,Electronics,5,328,1640,186,142,710,cash,Returning,2
+624,8/26/2023,CUST624,Female,34,Beauty,5,145,725,81,64,320,cash,Returning,5
+625,12/8/2023,CUST625,Male,31,Electronics,1,89,89,49,40,40,cash,Returning,4
+626,9/29/2023,CUST626,Female,26,Electronics,7,80,560,66,14,98,credit card,Returning,5
+627,10/14/2023,CUST627,Male,57,Beauty,8,83,664,72,11,88,credit card,Returning,3
+628,11/1/2023,CUST628,Female,19,Beauty,7,233,1631,159,74,518,cash,Returning,4
+629,6/12/2023,CUST629,Male,62,Electronics,1,287,287,181,106,106,online,Returning,3
+630,8/15/2023,CUST630,Male,42,Clothing,4,194,776,173,21,84,cash,New,1
+631,11/10/2023,CUST631,Male,56,Food,1,206,206,171,35,35,online,Returning,5
+632,9/16/2023,CUST632,Female,26,Beauty,3,259,777,139,120,360,credit card,Returning,1
+633,8/7/2023,CUST633,Male,39,Food,9,77,693,51,26,234,credit card,Returning,3
+634,10/8/2023,CUST634,Male,60,Beauty,4,388,1552,295,93,372,cash,New,4
+635,8/17/2023,CUST635,Female,63,Clothing,5,146,730,86,60,300,online,New,5
+636,3/23/2023,CUST636,Female,21,Beauty,4,300,1200,178,122,488,online,Returning,4
+637,9/1/2023,CUST637,Male,43,Food,1,462,462,234,228,228,credit card,New,1
+638,8/19/2023,CUST638,Male,46,Electronics,9,310,2790,163,147,1323,cash,Returning,1
+639,5/13/2023,CUST639,Female,62,Electronics,10,355,3550,232,123,1230,online,Returning,5
+640,5/7/2023,CUST640,Female,51,Beauty,8,279,2232,170,109,872,cash,Returning,2
+641,11/23/2023,CUST641,Female,40,Electronics,5,364,1820,190,174,870,cash,New,4
+642,5/22/2023,CUST642,Female,54,Beauty,5,253,1265,146,107,535,online,Returning,3
+643,9/24/2023,CUST643,Female,28,Food,4,234,936,211,23,92,online,New,4
+644,9/6/2023,CUST644,Male,23,Food,7,140,980,78,62,434,credit card,New,1
+645,11/17/2023,CUST645,Female,35,Food,7,212,1484,129,83,581,credit card,New,1
+646,5/3/2023,CUST646,Male,38,Clothing,4,219,876,163,56,224,online,New,4
+647,5/21/2023,CUST647,Male,59,Beauty,5,479,2395,373,106,530,cash,New,5
+648,8/14/2023,CUST648,Male,53,Beauty,9,468,4212,389,79,711,online,Returning,1
+649,2/9/2023,CUST649,Female,58,Clothing,6,386,2316,268,118,708,cash,Returning,5
+650,1/1/2024,CUST650,Male,55,Food,7,365,2555,255,110,770,online,New,5
+651,5/27/2023,CUST651,Male,51,Clothing,8,324,2592,187,137,1096,cash,New,4
+652,5/1/2023,CUST652,Female,34,Electronics,8,236,1888,118,118,944,online,New,4
+653,5/20/2023,CUST653,Male,54,Clothing,5,333,1665,265,68,340,credit card,New,5
+654,6/21/2023,CUST654,Male,42,Electronics,7,116,812,104,12,84,online,Returning,2
+655,6/13/2023,CUST655,Female,55,Beauty,8,151,1208,116,35,280,online,Returning,1
+656,10/4/2023,CUST656,Male,29,Beauty,10,452,4520,376,76,760,online,Returning,4
+657,2/11/2023,CUST657,Male,40,Clothing,3,336,1008,171,165,495,cash,Returning,2
+658,3/12/2023,CUST658,Male,59,Food,1,177,177,120,57,57,credit card,Returning,4
+659,3/19/2023,CUST659,Female,39,Electronics,9,83,747,68,15,135,online,Returning,3
+660,4/29/2023,CUST660,Female,38,Food,5,488,2440,371,117,585,cash,New,5
+661,7/16/2023,CUST661,Female,44,Beauty,8,466,3728,321,145,1160,credit card,New,3
+662,12/22/2023,CUST662,Male,48,Clothing,4,335,1340,197,138,552,cash,Returning,2
+663,3/20/2023,CUST663,Male,23,Food,2,186,372,101,85,170,cash,Returning,4
+664,12/28/2023,CUST664,Female,44,Beauty,1,348,348,258,90,90,online,New,4
+665,4/20/2023,CUST665,Male,57,Beauty,4,285,1140,146,139,556,online,New,3
+666,2/2/2023,CUST666,Male,51,Food,6,455,2730,403,52,312,cash,New,5
+667,8/1/2023,CUST667,Female,29,Electronics,6,259,1554,211,48,288,credit card,New,1
+668,7/28/2023,CUST668,Female,62,Food,5,143,715,128,15,75,online,Returning,5
+669,6/19/2023,CUST669,Male,24,Food,7,499,3493,285,214,1498,credit card,Returning,4
+670,10/5/2023,CUST670,Male,27,Clothing,10,132,1320,70,62,620,cash,Returning,3
+671,8/27/2023,CUST671,Male,62,Clothing,4,70,280,42,28,112,cash,New,1
+672,8/1/2023,CUST672,Female,34,Food,1,251,251,152,99,99,cash,New,1
+673,2/1/2023,CUST673,Female,43,Electronics,10,146,1460,114,32,320,cash,Returning,1
+674,4/16/2023,CUST674,Female,38,Food,7,298,2086,228,70,490,credit card,Returning,1
+675,8/4/2023,CUST675,Female,45,Food,9,498,4482,255,243,2187,cash,Returning,1
+676,7/19/2023,CUST676,Male,63,Clothing,2,159,318,107,52,104,credit card,Returning,5
+677,10/27/2023,CUST677,Female,19,Food,10,179,1790,90,89,890,cash,Returning,4
+678,12/23/2023,CUST678,Female,60,Beauty,7,384,2688,282,102,714,cash,New,1
+679,1/11/2023,CUST679,Female,18,Beauty,1,124,124,80,44,44,online,New,5
+680,10/22/2023,CUST680,Female,53,Electronics,3,406,1218,231,175,525,cash,Returning,5
+681,7/14/2023,CUST681,Female,43,Electronics,1,275,275,157,118,118,online,New,3
+682,9/2/2023,CUST682,Male,46,Food,5,435,2175,268,167,835,online,New,5
+683,1/4/2023,CUST683,Male,38,Clothing,2,435,870,299,136,272,credit card,Returning,1
+684,6/30/2023,CUST684,Female,28,Electronics,6,215,1290,182,33,198,credit card,Returning,2
+685,6/2/2023,CUST685,Male,57,Electronics,8,384,3072,262,122,976,online,Returning,5
+686,7/19/2023,CUST686,Female,28,Electronics,9,274,2466,164,110,990,online,New,1
+687,8/3/2023,CUST687,Female,53,Electronics,3,176,528,113,63,189,cash,New,5
+688,10/3/2023,CUST688,Male,56,Clothing,8,475,3800,260,215,1720,cash,New,1
+689,10/7/2023,CUST689,Male,57,Beauty,1,384,384,251,133,133,cash,Returning,3
+690,11/5/2023,CUST690,Female,52,Clothing,1,265,265,200,65,65,cash,New,5
+691,4/23/2023,CUST691,Female,51,Beauty,6,409,2454,238,171,1026,cash,Returning,2
+692,9/7/2023,CUST692,Female,64,Electronics,2,366,732,252,114,228,online,New,4
+693,4/23/2023,CUST693,Male,41,Electronics,3,278,834,188,90,270,cash,Returning,3
+694,5/20/2023,CUST694,Female,39,Beauty,4,450,1800,264,186,744,online,New,5
+695,8/12/2023,CUST695,Female,22,Electronics,5,203,1015,150,53,265,credit card,New,2
+696,9/6/2023,CUST696,Female,50,Clothing,3,379,1137,264,115,345,credit card,Returning,3
+697,1/15/2023,CUST697,Male,53,Food,6,83,498,47,36,216,online,New,4
+698,7/19/2023,CUST698,Female,64,Food,9,327,2943,199,128,1152,credit card,New,2
+699,6/22/2023,CUST699,Female,37,Food,4,228,912,199,29,116,online,New,1
+700,12/9/2023,CUST700,Male,36,Beauty,9,59,531,44,15,135,credit card,New,2
+701,12/14/2023,CUST701,Female,52,Beauty,8,405,3240,301,104,832,credit card,Returning,1
+702,7/27/2023,CUST702,Female,60,Food,3,451,1353,385,66,198,online,Returning,2
+703,3/26/2023,CUST703,Male,34,Beauty,2,339,678,188,151,302,credit card,New,3
+704,8/28/2023,CUST704,Female,62,Clothing,7,235,1645,144,91,637,online,New,1
+705,3/7/2023,CUST705,Male,60,Clothing,4,480,1920,346,134,536,credit card,New,5
+706,11/15/2023,CUST706,Male,51,Electronics,5,231,1155,189,42,210,credit card,Returning,4
+707,10/1/2023,CUST707,Female,26,Electronics,10,444,4440,254,190,1900,credit card,Returning,4
+708,1/14/2023,CUST708,Female,43,Food,6,207,1242,139,68,408,cash,Returning,1
+709,7/21/2023,CUST709,Female,19,Electronics,6,286,1716,216,70,420,cash,New,5
+710,10/31/2023,CUST710,Female,26,Food,7,70,490,58,12,84,cash,New,2
+711,10/16/2023,CUST711,Male,26,Food,6,254,1524,142,112,672,cash,Returning,5
+712,12/6/2023,CUST712,Female,57,Food,7,408,2856,244,164,1148,credit card,Returning,3
+713,1/14/2023,CUST713,Male,34,Clothing,6,202,1212,139,63,378,online,Returning,5
+714,2/12/2023,CUST714,Female,18,Food,10,460,4600,288,172,1720,online,New,2
+715,11/26/2023,CUST715,Female,42,Beauty,1,68,68,38,30,30,credit card,New,4
+716,8/8/2023,CUST716,Female,60,Clothing,3,483,1449,338,145,435,online,Returning,5
+717,3/11/2023,CUST717,Male,57,Electronics,3,145,435,95,50,150,cash,New,5
+718,8/25/2023,CUST718,Female,59,Electronics,6,415,2490,344,71,426,credit card,New,5
+719,4/4/2023,CUST719,Female,42,Food,7,170,1190,142,28,196,credit card,Returning,4
+720,1/26/2023,CUST720,Female,56,Food,9,57,513,48,9,81,cash,New,3
+721,5/14/2023,CUST721,Female,52,Clothing,8,144,1152,120,24,192,online,New,5
+722,7/14/2023,CUST722,Male,20,Electronics,5,126,630,65,61,305,cash,Returning,2
+723,6/17/2023,CUST723,Female,54,Electronics,9,183,1647,104,79,711,credit card,New,5
+724,4/19/2023,CUST724,Male,61,Electronics,9,399,3591,258,141,1269,online,Returning,1
+725,8/21/2023,CUST725,Male,61,Electronics,10,384,3840,216,168,1680,online,Returning,4
+726,6/17/2023,CUST726,Male,47,Clothing,3,336,1008,260,76,228,online,New,2
+727,6/22/2023,CUST727,Male,55,Beauty,6,142,852,75,67,402,online,Returning,3
+728,7/14/2023,CUST728,Male,51,Food,9,408,3672,331,77,693,credit card,Returning,2
+729,5/23/2023,CUST729,Male,29,Food,8,452,3616,312,140,1120,credit card,New,2
+730,8/4/2023,CUST730,Female,36,Electronics,2,52,104,33,19,38,online,Returning,2
+731,5/10/2023,CUST731,Male,54,Electronics,7,400,2800,265,135,945,credit card,Returning,2
+732,2/11/2023,CUST732,Male,61,Electronics,9,312,2808,202,110,990,online,Returning,4
+733,8/29/2023,CUST733,Male,34,Beauty,10,191,1910,140,51,510,cash,New,1
+734,1/10/2023,CUST734,Female,27,Clothing,1,290,290,168,122,122,cash,New,2
+735,10/4/2023,CUST735,Female,64,Clothing,1,273,273,195,78,78,cash,Returning,2
+736,1/27/2023,CUST736,Male,29,Electronics,10,130,1300,73,57,570,online,New,5
+737,6/29/2023,CUST737,Female,33,Electronics,2,403,806,356,47,94,online,New,2
+738,4/25/2023,CUST738,Male,41,Electronics,6,256,1536,141,115,690,credit card,Returning,3
+739,11/29/2023,CUST739,Male,36,Electronics,3,57,171,48,9,27,online,New,1
+740,2/5/2023,CUST740,Female,25,Clothing,8,262,2096,204,58,464,online,New,5
+741,11/30/2023,CUST741,Male,48,Beauty,5,136,680,73,63,315,credit card,New,3
+742,1/21/2023,CUST742,Female,38,Food,4,354,1416,255,99,396,online,Returning,4
+743,1/16/2023,CUST743,Female,34,Food,9,400,3600,261,139,1251,credit card,New,1
+744,5/7/2023,CUST744,Male,40,Beauty,6,73,438,60,13,78,online,Returning,5
+745,4/13/2023,CUST745,Male,54,Beauty,2,418,836,227,191,382,online,Returning,5
+746,1/11/2023,CUST746,Female,33,Clothing,5,382,1910,217,165,825,cash,New,2
+747,11/15/2023,CUST747,Male,23,Clothing,3,313,939,180,133,399,online,New,5
+748,3/20/2023,CUST748,Male,25,Clothing,9,228,2052,159,69,621,credit card,Returning,3
+749,5/3/2023,CUST749,Male,42,Food,4,370,1480,198,172,688,cash,New,1
+750,3/6/2023,CUST750,Female,35,Beauty,5,458,2290,288,170,850,online,Returning,1
+751,8/31/2023,CUST751,Female,42,Clothing,1,334,334,191,143,143,credit card,Returning,4
+752,12/9/2023,CUST752,Male,29,Clothing,9,492,4428,336,156,1404,credit card,Returning,1
+753,2/28/2023,CUST753,Female,32,Beauty,8,284,2272,175,109,872,credit card,Returning,1
+754,10/16/2023,CUST754,Female,43,Beauty,3,129,387,98,31,93,online,Returning,3
+755,4/22/2023,CUST755,Female,58,Clothing,7,95,665,67,28,196,cash,New,5
+756,8/27/2023,CUST756,Female,62,Electronics,8,219,1752,188,31,248,online,Returning,2
+757,12/25/2023,CUST757,Female,43,Beauty,4,318,1272,235,83,332,credit card,New,2
+758,5/12/2023,CUST758,Male,64,Electronics,2,437,874,315,122,244,credit card,New,2
+759,7/8/2023,CUST759,Male,49,Electronics,9,339,3051,191,148,1332,cash,Returning,2
+760,3/27/2023,CUST760,Male,27,Food,3,406,1218,216,190,570,credit card,Returning,4
+761,11/7/2023,CUST761,Female,33,Beauty,5,361,1805,229,132,660,cash,Returning,1
+762,11/7/2023,CUST762,Female,24,Electronics,4,154,616,105,49,196,online,Returning,5
+763,2/28/2023,CUST763,Male,34,Clothing,1,385,385,305,80,80,cash,Returning,2
+764,3/25/2023,CUST764,Female,40,Electronics,1,183,183,144,39,39,credit card,New,4
+765,6/9/2023,CUST765,Male,43,Clothing,6,219,1314,188,31,186,cash,New,1
+766,2/25/2023,CUST766,Male,38,Beauty,1,264,264,213,51,51,online,Returning,4
+767,10/24/2023,CUST767,Male,39,Clothing,7,180,1260,140,40,280,cash,New,1
+768,1/14/2023,CUST768,Female,24,Electronics,1,201,201,133,68,68,online,New,2
+769,6/9/2023,CUST769,Female,31,Electronics,1,357,357,246,111,111,cash,Returning,3
+770,10/22/2023,CUST770,Male,32,Clothing,9,127,1143,66,61,549,credit card,Returning,5
+771,12/13/2023,CUST771,Male,24,Food,5,231,1155,132,99,495,credit card,New,2
+772,7/12/2023,CUST772,Male,26,Clothing,5,259,1295,174,85,425,online,New,3
+773,7/23/2023,CUST773,Male,25,Beauty,4,328,1312,252,76,304,credit card,New,4
+774,4/12/2023,CUST774,Female,40,Clothing,6,352,2112,301,51,306,cash,New,4
+775,2/8/2023,CUST775,Female,46,Clothing,9,439,3951,337,102,918,online,New,2
+776,10/31/2023,CUST776,Male,35,Food,3,272,816,201,71,213,credit card,Returning,4
+777,12/20/2023,CUST777,Male,48,Clothing,2,190,380,120,70,140,online,New,4
+778,11/18/2023,CUST778,Female,47,Clothing,8,55,440,33,22,176,online,New,4
+779,5/5/2023,CUST779,Female,56,Beauty,5,147,735,121,26,130,credit card,New,1
+780,2/22/2023,CUST780,Male,52,Beauty,6,181,1086,133,48,288,cash,New,2
+781,12/23/2023,CUST781,Male,35,Electronics,3,91,273,53,38,114,online,Returning,5
+782,6/4/2023,CUST782,Male,59,Food,5,31,155,23,8,40,cash,New,5
+783,12/17/2023,CUST783,Female,56,Clothing,4,468,1872,320,148,592,cash,Returning,3
+784,11/4/2023,CUST784,Female,34,Electronics,7,346,2422,259,87,609,online,New,2
+785,3/3/2023,CUST785,Female,31,Clothing,9,443,3987,292,151,1359,cash,New,1
+786,10/17/2023,CUST786,Male,48,Food,4,421,1684,270,151,604,cash,Returning,2
+787,1/22/2023,CUST787,Male,41,Electronics,7,123,861,62,61,427,cash,Returning,4
+788,6/27/2023,CUST788,Female,52,Clothing,3,496,1488,347,149,447,online,New,3
+789,9/30/2023,CUST789,Female,61,Beauty,8,212,1696,126,86,688,cash,New,4
+790,8/8/2023,CUST790,Male,62,Clothing,9,490,4410,269,221,1989,credit card,New,2
+791,12/5/2023,CUST791,Female,51,Electronics,4,153,612,106,47,188,credit card,New,1
+792,7/9/2023,CUST792,Female,20,Beauty,9,466,4194,376,90,810,credit card,Returning,5
+793,2/5/2023,CUST793,Male,54,Food,4,77,308,68,9,36,credit card,New,2
+794,9/17/2023,CUST794,Female,60,Clothing,2,473,946,315,158,316,credit card,Returning,1
+795,11/28/2023,CUST795,Male,57,Clothing,9,402,3618,264,138,1242,credit card,New,5
+796,6/24/2023,CUST796,Male,43,Clothing,10,205,2050,148,57,570,online,Returning,3
+797,1/7/2023,CUST797,Male,40,Food,1,316,316,230,86,86,cash,Returning,2
+798,8/4/2023,CUST798,Male,61,Beauty,5,495,2475,409,86,430,credit card,Returning,2
+799,9/8/2023,CUST799,Male,56,Electronics,4,254,1016,211,43,172,online,New,4
+800,2/24/2023,CUST800,Male,32,Food,1,287,287,153,134,134,cash,New,3
+801,8/10/2023,CUST801,Male,21,Clothing,10,498,4980,354,144,1440,credit card,New,5
+802,7/5/2023,CUST802,Female,46,Clothing,8,275,2200,174,101,808,cash,New,4
+803,11/22/2023,CUST803,Male,39,Beauty,3,65,195,51,14,42,credit card,New,5
+804,8/24/2023,CUST804,Male,42,Beauty,5,147,735,75,72,360,credit card,Returning,4
+805,12/29/2023,CUST805,Female,30,Clothing,7,121,847,67,54,378,cash,New,4
+806,3/20/2023,CUST806,Female,35,Beauty,5,264,1320,222,42,210,cash,New,5
+807,8/11/2023,CUST807,Female,50,Beauty,5,263,1315,164,99,495,cash,New,3
+808,4/1/2023,CUST808,Male,33,Clothing,10,362,3620,316,46,460,online,New,2
+809,9/25/2023,CUST809,Female,62,Electronics,2,384,768,278,106,212,online,Returning,2
+810,11/30/2023,CUST810,Male,59,Clothing,10,462,4620,332,130,1300,cash,Returning,3
+811,5/19/2023,CUST811,Male,61,Electronics,8,278,2224,193,85,680,cash,New,3
+812,11/12/2023,CUST812,Male,19,Food,10,292,2920,146,146,1460,online,New,2
+813,10/3/2023,CUST813,Male,52,Food,6,495,2970,432,63,378,cash,Returning,2
+814,9/5/2023,CUST814,Female,59,Beauty,3,64,192,56,8,24,online,Returning,3
+815,8/27/2023,CUST815,Female,51,Beauty,2,181,362,107,74,148,cash,Returning,3
+816,8/12/2023,CUST816,Male,47,Food,7,408,2856,313,95,665,credit card,Returning,3
+817,10/31/2023,CUST817,Male,30,Food,6,280,1680,215,65,390,online,Returning,3
+818,5/18/2023,CUST818,Male,30,Clothing,9,221,1989,169,52,468,credit card,New,5
+819,6/15/2023,CUST819,Female,35,Beauty,1,52,52,38,14,14,credit card,Returning,5
+820,5/6/2023,CUST820,Male,49,Food,7,469,3283,286,183,1281,online,New,5
+821,2/14/2023,CUST821,Male,49,Electronics,10,439,4390,355,84,840,cash,Returning,2
+822,5/23/2023,CUST822,Female,52,Electronics,5,231,1155,200,31,155,credit card,Returning,5
+823,8/19/2023,CUST823,Female,56,Beauty,9,258,2322,177,81,729,cash,New,3
+824,5/5/2023,CUST824,Male,63,Electronics,10,98,980,74,24,240,online,New,4
+825,8/26/2023,CUST825,Female,46,Clothing,7,202,1414,134,68,476,credit card,New,4
+826,10/19/2023,CUST826,Female,46,Electronics,10,359,3590,214,145,1450,cash,New,1
+827,11/9/2023,CUST827,Male,61,Beauty,6,91,546,74,17,102,cash,Returning,1
+828,12/9/2023,CUST828,Female,33,Food,3,205,615,103,102,306,credit card,Returning,2
+829,7/14/2023,CUST829,Male,61,Beauty,10,229,2290,140,89,890,credit card,New,1
+830,6/22/2023,CUST830,Female,64,Clothing,6,452,2712,356,96,576,online,Returning,3
+831,1/15/2023,CUST831,Male,27,Clothing,10,193,1930,166,27,270,cash,Returning,4
+832,9/11/2023,CUST832,Male,47,Food,1,492,492,417,75,75,cash,New,1
+833,6/16/2023,CUST833,Male,42,Beauty,1,375,375,235,140,140,cash,Returning,4
+834,4/4/2023,CUST834,Female,56,Electronics,3,305,915,252,53,159,credit card,Returning,1
+835,9/7/2023,CUST835,Male,37,Clothing,3,133,399,102,31,93,credit card,New,5
+836,4/19/2023,CUST836,Female,22,Electronics,3,460,1380,269,191,573,cash,New,4
+837,7/1/2023,CUST837,Male,18,Beauty,5,94,470,62,32,160,online,Returning,3
+838,5/13/2023,CUST838,Male,47,Food,7,455,3185,263,192,1344,cash,Returning,1
+839,6/24/2023,CUST839,Female,20,Food,3,290,870,145,145,435,credit card,Returning,4
+840,5/24/2023,CUST840,Male,62,Electronics,1,207,207,184,23,23,cash,New,2
+841,11/2/2023,CUST841,Male,31,Beauty,5,334,1670,218,116,580,cash,New,5
+842,12/26/2023,CUST842,Female,47,Electronics,3,425,1275,358,67,201,online,New,4
+843,5/22/2023,CUST843,Male,21,Food,2,392,784,256,136,272,cash,Returning,3
+844,10/12/2023,CUST844,Male,35,Beauty,2,95,190,82,13,26,cash,Returning,2
+845,1/6/2023,CUST845,Male,54,Beauty,6,114,684,91,23,138,online,New,4
+846,9/22/2023,CUST846,Male,42,Clothing,6,237,1422,162,75,450,credit card,New,1
+847,4/8/2023,CUST847,Female,18,Food,7,229,1603,180,49,343,cash,Returning,5
+848,2/13/2023,CUST848,Female,63,Clothing,1,440,440,290,150,150,cash,New,3
+849,5/4/2023,CUST849,Male,32,Food,5,146,730,120,26,130,cash,Returning,2
+850,7/28/2023,CUST850,Female,26,Electronics,9,379,3411,245,134,1206,credit card,New,2
+851,9/8/2023,CUST851,Male,32,Food,5,491,2455,317,174,870,cash,New,2
+852,10/12/2023,CUST852,Female,41,Food,6,134,804,69,65,390,cash,New,1
+853,5/4/2023,CUST853,Male,21,Beauty,9,341,3069,180,161,1449,cash,Returning,1
+854,12/20/2023,CUST854,Male,29,Electronics,10,226,2260,168,58,580,cash,New,3
+855,9/1/2023,CUST855,Male,54,Beauty,7,454,3178,311,143,1001,online,Returning,2
+856,11/27/2023,CUST856,Male,54,Clothing,2,466,932,398,68,136,cash,Returning,3
+857,12/31/2023,CUST857,Male,60,Electronics,8,139,1112,73,66,528,credit card,New,4
+858,9/9/2023,CUST858,Male,23,Electronics,10,410,4100,352,58,580,credit card,New,5
+859,8/18/2023,CUST859,Female,56,Clothing,9,72,648,40,32,288,online,Returning,5
+860,1/9/2023,CUST860,Male,63,Beauty,8,353,2824,228,125,1000,cash,Returning,4
+861,2/17/2023,CUST861,Female,41,Electronics,8,372,2976,323,49,392,credit card,New,2
+862,5/31/2023,CUST862,Male,28,Electronics,9,415,3735,362,53,477,credit card,New,4
+863,4/24/2023,CUST863,Female,30,Beauty,4,299,1196,184,115,460,credit card,New,1
+864,7/27/2023,CUST864,Female,51,Electronics,1,230,230,166,64,64,cash,New,2
+865,12/21/2023,CUST865,Female,42,Food,9,294,2646,181,113,1017,online,Returning,3
+866,5/5/2023,CUST866,Male,24,Food,8,488,3904,435,53,424,cash,New,1
+867,6/6/2023,CUST867,Male,21,Food,5,405,2025,336,69,345,cash,Returning,3
+868,12/6/2023,CUST868,Female,25,Food,3,244,732,194,50,150,cash,Returning,4
+869,10/25/2023,CUST869,Male,37,Beauty,4,322,1288,201,121,484,online,New,1
+870,7/8/2023,CUST870,Female,46,Electronics,1,102,102,65,37,37,credit card,New,1
+871,8/31/2023,CUST871,Male,62,Beauty,1,270,270,193,77,77,online,Returning,3
+872,10/11/2023,CUST872,Female,63,Electronics,6,120,720,60,60,360,credit card,New,2
+873,9/29/2023,CUST873,Female,27,Clothing,6,281,1686,179,102,612,cash,Returning,3
+874,6/26/2023,CUST874,Male,60,Food,9,467,4203,271,196,1764,credit card,Returning,3
+875,8/6/2023,CUST875,Female,51,Clothing,10,384,3840,332,52,520,credit card,New,2
+876,10/9/2023,CUST876,Male,43,Electronics,3,211,633,179,32,96,online,Returning,3
+877,6/19/2023,CUST877,Female,58,Clothing,8,141,1128,82,59,472,cash,New,1
+878,6/30/2023,CUST878,Female,20,Electronics,8,216,1728,180,36,288,credit card,New,2
+879,12/26/2023,CUST879,Male,23,Beauty,8,471,3768,309,162,1296,online,Returning,3
+880,8/21/2023,CUST880,Male,22,Clothing,8,314,2512,240,74,592,cash,Returning,3
+881,5/19/2023,CUST881,Male,22,Beauty,1,72,72,57,15,15,online,Returning,5
+882,6/6/2023,CUST882,Female,64,Beauty,4,74,296,43,31,124,cash,New,1
+883,5/9/2023,CUST883,Male,40,Food,5,68,340,55,13,65,credit card,New,1
+884,4/29/2023,CUST884,Female,26,Electronics,10,233,2330,140,93,930,credit card,New,3
+885,3/3/2023,CUST885,Female,52,Clothing,7,114,798,96,18,126,online,Returning,5
+886,4/9/2023,CUST886,Male,37,Beauty,6,466,2796,270,196,1176,credit card,Returning,2
+887,6/11/2023,CUST887,Male,59,Electronics,8,477,3816,331,146,1168,credit card,New,1
+888,3/3/2023,CUST888,Female,52,Electronics,4,269,1076,158,111,444,cash,Returning,3
+889,10/2/2023,CUST889,Female,35,Electronics,5,370,1850,215,155,775,online,New,1
+890,12/20/2023,CUST890,Male,34,Electronics,7,309,2163,201,108,756,cash,Returning,3
+891,4/5/2023,CUST891,Male,41,Food,9,464,4176,327,137,1233,credit card,New,1
+892,4/9/2023,CUST892,Male,20,Clothing,4,365,1460,329,36,144,cash,New,4
+893,4/21/2023,CUST893,Male,49,Electronics,7,392,2744,210,182,1274,online,Returning,4
+894,9/5/2023,CUST894,Male,52,Electronics,4,335,1340,190,145,580,cash,New,1
+895,5/22/2023,CUST895,Female,55,Beauty,3,339,1017,173,166,498,online,Returning,5
+896,10/29/2023,CUST896,Female,30,Food,6,175,1050,158,17,102,credit card,Returning,5
+897,9/26/2023,CUST897,Female,64,Clothing,5,36,180,30,6,30,cash,New,5
+898,11/2/2023,CUST898,Female,42,Beauty,5,225,1125,128,97,485,online,New,5
+899,5/25/2023,CUST899,Male,26,Electronics,1,478,478,292,186,186,online,New,4
+900,2/21/2023,CUST900,Male,21,Clothing,10,169,1690,133,36,360,credit card,New,3
+901,4/10/2023,CUST901,Male,31,Beauty,1,151,151,128,23,23,cash,Returning,4
+902,6/1/2023,CUST902,Female,54,Beauty,6,192,1152,126,66,396,cash,New,3
+903,4/27/2023,CUST903,Female,51,Beauty,7,424,2968,293,131,917,cash,New,5
+904,7/4/2023,CUST904,Male,28,Food,8,307,2456,238,69,552,online,Returning,5
+905,4/2/2023,CUST905,Male,58,Beauty,10,251,2510,131,120,1200,credit card,Returning,1
+906,6/4/2023,CUST906,Female,20,Electronics,8,119,952,76,43,344,online,Returning,3
+907,1/8/2023,CUST907,Female,45,Beauty,2,310,620,162,148,296,online,Returning,3
+908,12/29/2023,CUST908,Male,46,Electronics,1,217,217,125,92,92,cash,New,4
+909,10/1/2023,CUST909,Male,26,Electronics,4,242,968,148,94,376,online,New,4
+910,3/6/2023,CUST910,Female,20,Electronics,4,145,580,91,54,216,online,Returning,2
+911,5/21/2023,CUST911,Male,42,Electronics,4,395,1580,339,56,224,cash,New,1
+912,1/24/2023,CUST912,Male,51,Beauty,7,262,1834,229,33,231,credit card,New,5
+913,1/28/2023,CUST913,Male,29,Beauty,1,492,492,375,117,117,online,New,5
+914,10/11/2023,CUST914,Female,59,Food,3,30,90,16,14,42,cash,New,5
+915,5/30/2023,CUST915,Female,26,Food,2,71,142,48,23,46,cash,New,2
+916,12/24/2023,CUST916,Female,32,Beauty,8,301,2408,263,38,304,online,New,1
+917,3/6/2023,CUST917,Female,57,Electronics,4,402,1608,323,79,316,credit card,New,5
+918,11/23/2023,CUST918,Female,42,Clothing,3,140,420,107,33,99,online,Returning,5
+919,9/9/2023,CUST919,Female,22,Food,5,451,2255,283,168,840,online,New,5
+920,2/22/2023,CUST920,Female,28,Food,3,337,1011,217,120,360,credit card,Returning,3
+921,1/7/2023,CUST921,Male,51,Clothing,4,147,588,108,39,156,online,New,2
+922,10/21/2023,CUST922,Male,41,Clothing,8,384,3072,273,111,888,credit card,New,1
+923,5/26/2023,CUST923,Male,32,Clothing,3,80,240,46,34,102,cash,Returning,3
+924,8/29/2023,CUST924,Male,55,Electronics,4,210,840,184,26,104,credit card,New,2
+925,9/3/2023,CUST925,Male,25,Food,9,251,2259,176,75,675,cash,New,3
+926,8/14/2023,CUST926,Male,22,Beauty,10,55,550,29,26,260,online,Returning,5
+927,6/24/2023,CUST927,Male,43,Food,2,355,710,282,73,146,cash,New,1
+928,4/5/2023,CUST928,Female,35,Beauty,10,98,980,87,11,110,credit card,New,4
+929,1/27/2023,CUST929,Female,23,Electronics,7,426,2982,296,130,910,credit card,New,5
+930,5/10/2023,CUST930,Male,54,Food,3,301,903,194,107,321,credit card,New,2
+931,9/2/2023,CUST931,Male,30,Food,9,173,1557,92,81,729,online,Returning,3
+932,2/28/2023,CUST932,Female,45,Electronics,5,297,1485,164,133,665,online,Returning,2
+933,2/3/2023,CUST933,Male,22,Electronics,2,464,928,352,112,224,online,Returning,5
+934,7/25/2023,CUST934,Male,30,Beauty,10,186,1860,151,35,350,credit card,Returning,4
+935,9/9/2023,CUST935,Female,34,Beauty,6,174,1044,145,29,174,online,New,5
+936,2/7/2023,CUST936,Male,57,Electronics,10,42,420,22,20,200,cash,New,2
+937,10/23/2023,CUST937,Female,62,Clothing,9,184,1656,159,25,225,cash,New,2
+938,11/19/2023,CUST938,Male,49,Electronics,4,258,1032,202,56,224,cash,New,1
+939,12/18/2023,CUST939,Female,46,Beauty,3,297,891,211,86,258,online,New,1
+940,1/28/2023,CUST940,Female,20,Clothing,4,234,936,138,96,384,online,New,3
+941,3/19/2023,CUST941,Female,57,Food,2,464,928,267,197,394,cash,Returning,2
+942,3/18/2023,CUST942,Male,51,Food,6,361,2166,241,120,720,cash,Returning,4
+943,10/16/2023,CUST943,Female,57,Electronics,6,490,2940,284,206,1236,cash,New,1
+944,6/5/2023,CUST944,Male,44,Clothing,9,387,3483,258,129,1161,cash,New,4
+945,2/13/2023,CUST945,Male,30,Beauty,5,321,1605,246,75,375,cash,New,2
+946,5/8/2023,CUST946,Male,62,Beauty,9,30,270,25,5,45,credit card,New,4
+947,3/2/2023,CUST947,Male,50,Clothing,7,451,3157,315,136,952,cash,New,3
+948,10/13/2023,CUST948,Female,23,Beauty,6,344,2064,229,115,690,online,New,4
+949,8/2/2023,CUST949,Female,41,Food,3,348,1044,186,162,486,credit card,Returning,3
+950,11/7/2023,CUST950,Male,36,Clothing,6,272,1632,190,82,492,credit card,Returning,4
+951,11/2/2023,CUST951,Male,33,Electronics,2,144,288,92,52,104,cash,New,3
+952,11/13/2023,CUST952,Female,57,Food,5,131,655,94,37,185,cash,Returning,5
+953,4/26/2023,CUST953,Male,45,Clothing,7,423,2961,258,165,1155,cash,New,5
+954,9/25/2023,CUST954,Female,50,Food,4,97,388,60,37,148,credit card,New,2
+955,7/14/2023,CUST955,Male,58,Clothing,1,249,249,169,80,80,cash,Returning,4
+956,8/19/2023,CUST956,Male,30,Beauty,9,128,1152,115,13,117,cash,New,3
+957,8/15/2023,CUST957,Female,60,Beauty,4,427,1708,321,106,424,cash,New,4
+958,6/2/2023,CUST958,Male,62,Electronics,4,210,840,174,36,144,cash,New,4
+959,10/29/2023,CUST959,Female,42,Food,5,181,905,155,26,130,cash,New,5
+960,8/8/2023,CUST960,Male,59,Food,3,365,1095,309,56,168,cash,Returning,1
+961,6/6/2023,CUST961,Male,53,Electronics,3,55,165,45,10,30,online,Returning,3
+962,10/19/2023,CUST962,Male,44,Clothing,4,34,136,21,13,52,credit card,Returning,2
+963,11/14/2023,CUST963,Female,55,Food,9,212,1908,161,51,459,credit card,Returning,2
+964,1/31/2023,CUST964,Male,24,Beauty,8,310,2480,186,124,992,credit card,New,2
+965,11/9/2023,CUST965,Male,22,Electronics,9,293,2637,218,75,675,online,New,4
+966,2/20/2023,CUST966,Male,60,Clothing,3,114,342,92,22,66,cash,New,3
+967,4/17/2023,CUST967,Male,62,Food,1,446,446,289,157,157,online,Returning,1
+968,11/17/2023,CUST968,Female,48,Electronics,1,270,270,238,32,32,credit card,New,5
+969,4/19/2023,CUST969,Female,40,Food,6,389,2334,283,106,636,online,New,3
+970,5/16/2023,CUST970,Male,59,Food,3,94,282,83,11,33,cash,New,2
+971,12/5/2023,CUST971,Female,27,Clothing,3,64,192,38,26,78,cash,New,1
+972,2/11/2023,CUST972,Male,49,Electronics,10,115,1150,64,51,510,cash,Returning,1
+973,3/22/2023,CUST973,Male,60,Clothing,2,482,964,245,237,474,cash,New,4
+974,5/3/2023,CUST974,Male,47,Electronics,5,339,1695,298,41,205,credit card,Returning,4
+975,3/30/2023,CUST975,Female,56,Clothing,3,482,1446,281,201,603,credit card,New,2
+976,10/10/2023,CUST976,Female,48,Electronics,10,84,840,72,12,120,online,Returning,5
+977,2/8/2023,CUST977,Female,35,Food,10,381,3810,222,159,1590,credit card,Returning,1
+978,3/22/2023,CUST978,Female,53,Clothing,4,83,332,54,29,116,cash,Returning,5
+979,1/2/2023,CUST979,Female,19,Electronics,4,79,316,70,9,36,cash,Returning,5
+980,7/29/2023,CUST980,Female,31,Electronics,2,432,864,351,81,162,cash,Returning,4
+981,8/19/2023,CUST981,Female,30,Beauty,10,131,1310,73,58,580,cash,Returning,5
+982,12/19/2023,CUST982,Female,46,Food,10,340,3400,297,43,430,credit card,New,4
+983,11/1/2023,CUST983,Female,29,Electronics,4,418,1672,243,175,700,credit card,Returning,2
+984,8/29/2023,CUST984,Male,56,Food,4,278,1112,208,70,280,online,New,2
+985,5/30/2023,CUST985,Female,19,Food,9,482,4338,315,167,1503,credit card,New,2
+986,1/17/2023,CUST986,Female,49,Beauty,5,471,2355,250,221,1105,online,Returning,1
+987,4/29/2023,CUST987,Female,30,Food,6,323,1938,172,151,906,cash,New,5
+988,5/28/2023,CUST988,Female,63,Beauty,9,36,324,18,18,162,credit card,Returning,4
+989,12/28/2023,CUST989,Female,44,Clothing,4,144,576,101,43,172,online,New,5
+990,5/25/2023,CUST990,Female,58,Beauty,2,273,546,230,43,86,cash,New,5
+991,12/26/2023,CUST991,Female,34,Clothing,7,179,1253,105,74,518,cash,New,2
+992,8/21/2023,CUST992,Female,57,Clothing,4,46,184,27,19,76,online,New,5
+993,2/6/2023,CUST993,Female,48,Clothing,5,106,530,89,17,85,online,Returning,3
+994,12/18/2023,CUST994,Female,51,Beauty,10,168,1680,113,55,550,cash,Returning,5
+995,4/30/2023,CUST995,Female,41,Beauty,3,342,1026,307,35,105,cash,Returning,5
+996,5/16/2023,CUST996,Male,62,Electronics,6,379,2274,210,169,1014,online,Returning,2
+997,11/17/2023,CUST997,Male,52,Food,2,215,430,150,65,130,credit card,Returning,5
+998,10/29/2023,CUST998,Female,23,Food,4,300,1200,166,134,536,online,New,1
+999,12/5/2023,CUST999,Female,36,Electronics,1,352,352,247,105,105,credit card,New,4
+1000,4/12/2023,CUST1000,Male,47,Food,3,378,1134,214,164,492,credit card,New,4
+1001,11/1/2024,CUST1001,Female,63,Clothing,7,325,2275,242,83,581,online,Returning,3
+1002,10/4/2024,CUST1002,Female,38,Clothing,8,159,1272,137,22,176,credit card,New,3
+1003,10/19/2024,CUST1003,Male,61,Electronics,5,251,1255,216,35,175,credit card,New,3
+1004,10/31/2024,CUST1004,Female,44,Electronics,8,57,456,46,11,88,online,Returning,2
+1005,9/7/2024,CUST1005,Female,86,Clothing,9,89,801,46,43,387,online,Returning,5
+1006,9/25/2024,CUST1006,Female,53,Clothing,4,424,1696,230,194,776,online,Returning,1
+1007,5/10/2024,CUST1007,Male,33,Electronics,6,66,396,51,15,90,credit card,Returning,5
+1008,6/19/2024,CUST1008,Female,89,Electronics,4,87,348,50,37,148,online,Returning,5
+1009,7/23/2024,CUST1009,Female,73,Electronics,8,299,2392,262,37,296,online,New,1
+1010,9/5/2024,CUST1010,Male,37,Electronics,7,423,2961,321,102,714,cash,Returning,5
+1011,2/12/2024,CUST1011,Female,68,Clothing,7,91,637,59,32,224,online,New,5
+1012,11/14/2024,CUST1012,Male,78,Clothing,7,175,1225,152,23,161,cash,Returning,1
+1013,10/6/2024,CUST1013,Female,29,Clothing,10,103,1030,79,24,240,online,Returning,3
+1014,7/10/2024,CUST1014,Female,60,Clothing,9,293,2637,205,88,792,online,New,3
+1015,5/12/2024,CUST1015,Female,65,Food,3,88,264,52,36,108,cash,New,5
+1016,3/15/2024,CUST1016,Male,77,Clothing,5,472,2360,278,194,970,cash,Returning,5
+1017,3/20/2024,CUST1017,Male,57,Clothing,3,215,645,158,57,171,online,New,4
+1018,10/11/2024,CUST1018,Male,71,Food,5,455,2275,346,109,545,cash,Returning,2
+1019,5/29/2024,CUST1019,Male,46,Electronics,7,427,2989,316,111,777,cash,Returning,1
+1020,8/20/2024,CUST1020,Male,73,Food,3,499,1497,368,131,393,online,New,4
+1021,12/9/2024,CUST1021,Male,31,Clothing,1,141,141,91,50,50,cash,Returning,4
+1022,3/30/2024,CUST1022,Male,68,Food,9,157,1413,121,36,324,credit card,New,5
+1023,9/10/2024,CUST1023,Female,54,Food,9,290,2610,206,84,756,online,Returning,2
+1024,9/17/2024,CUST1024,Male,38,Electronics,2,499,998,324,175,350,online,New,3
+1025,12/21/2024,CUST1025,Male,41,Food,10,338,3380,294,44,440,online,Returning,5
+1026,8/11/2024,CUST1026,Female,43,Clothing,3,118,354,88,30,90,credit card,New,4
+1027,1/13/2024,CUST1027,Female,35,Food,2,232,464,154,78,156,cash,Returning,3
+1028,5/24/2024,CUST1028,Male,38,Clothing,1,347,347,266,81,81,online,New,5
+1029,1/20/2024,CUST1029,Male,67,Clothing,1,480,480,404,76,76,credit card,Returning,3
+1030,5/5/2024,CUST1030,Male,67,Clothing,10,211,2110,124,87,870,online,New,3
+1031,12/12/2024,CUST1031,Male,50,Electronics,6,207,1242,129,78,468,cash,New,2
+1032,10/11/2024,CUST1032,Male,37,Clothing,5,208,1040,174,34,170,credit card,New,1
+1033,12/2/2024,CUST1033,Female,64,Clothing,8,347,2776,177,170,1360,credit card,Returning,5
+1034,10/17/2024,CUST1034,Female,65,Food,1,196,196,98,98,98,credit card,Returning,3
+1035,12/21/2024,CUST1035,Male,50,Electronics,10,405,4050,335,70,700,credit card,New,5
+1036,10/14/2024,CUST1036,Male,37,Clothing,2,223,446,120,103,206,online,New,4
+1037,10/17/2024,CUST1037,Male,72,Clothing,4,261,1044,155,106,424,credit card,Returning,4
+1038,3/5/2024,CUST1038,Male,73,Electronics,9,271,2439,179,92,828,credit card,New,5
+1039,3/27/2024,CUST1039,Male,81,Clothing,10,446,4460,345,101,1010,cash,New,2
+1040,6/17/2024,CUST1040,Female,71,Food,4,420,1680,298,122,488,cash,Returning,5
+1041,6/15/2024,CUST1041,Male,68,Clothing,6,46,276,27,19,114,credit card,Returning,1
+1042,5/13/2024,CUST1042,Female,32,Clothing,5,61,305,52,9,45,credit card,Returning,3
+1043,8/4/2024,CUST1043,Male,33,Electronics,7,373,2611,230,143,1001,cash,Returning,5
+1044,5/4/2024,CUST1044,Male,23,Clothing,10,197,1970,141,56,560,cash,New,2
+1045,8/16/2024,CUST1045,Female,65,Clothing,10,35,350,25,10,100,cash,Returning,2
+1046,1/15/2024,CUST1046,Female,20,Clothing,10,204,2040,105,99,990,online,New,4
+1047,5/19/2024,CUST1047,Female,31,Clothing,3,266,798,164,102,306,cash,Returning,5
+1048,3/10/2024,CUST1048,Female,41,Clothing,5,264,1320,163,101,505,cash,New,4
+1049,12/1/2024,CUST1049,Female,23,Electronics,5,96,480,69,27,135,cash,Returning,1
+1050,2/18/2024,CUST1050,Male,31,Electronics,9,469,4221,394,75,675,credit card,Returning,1
+1051,2/17/2024,CUST1051,Male,47,Clothing,5,482,2410,273,209,1045,cash,New,4
+1052,8/8/2024,CUST1052,Male,71,Electronics,3,235,705,125,110,330,online,Returning,3
+1053,9/17/2024,CUST1053,Female,50,Clothing,7,87,609,71,16,112,credit card,Returning,5
+1054,11/6/2024,CUST1054,Male,33,Electronics,10,453,4530,346,107,1070,credit card,Returning,1
+1055,1/4/2024,CUST1055,Male,52,Food,8,198,1584,113,85,680,credit card,New,2
+1056,3/4/2024,CUST1056,Female,52,Food,9,274,2466,242,32,288,credit card,New,3
+1057,3/25/2024,CUST1057,Male,52,Clothing,8,55,440,31,24,192,online,Returning,3
+1058,3/25/2024,CUST1058,Male,58,Electronics,9,212,1908,126,86,774,online,Returning,5
+1059,1/23/2024,CUST1059,Female,68,Clothing,5,308,1540,236,72,360,credit card,Returning,2
+1060,2/21/2024,CUST1060,Male,65,Clothing,6,307,1842,172,135,810,cash,Returning,1
+1061,5/26/2024,CUST1061,Female,63,Clothing,8,180,1440,159,21,168,credit card,Returning,4
+1062,8/4/2024,CUST1062,Female,22,Food,5,92,460,52,40,200,cash,New,1
+1063,5/21/2024,CUST1063,Male,71,Clothing,2,144,288,120,24,48,online,New,2
+1064,5/29/2024,CUST1064,Male,71,Clothing,4,327,1308,291,36,144,online,Returning,3
+1065,1/11/2024,CUST1065,Female,27,Food,1,124,124,62,62,62,cash,Returning,3
+1066,2/7/2024,CUST1066,Male,35,Electronics,8,121,968,83,38,304,cash,Returning,5
+1067,5/9/2024,CUST1067,Male,70,Clothing,6,42,252,21,21,126,online,New,2
+1068,5/25/2024,CUST1068,Female,60,Electronics,2,500,1000,299,201,402,online,Returning,3
+1069,12/15/2024,CUST1069,Female,79,Clothing,1,328,328,182,146,146,online,New,3
+1070,5/14/2024,CUST1070,Male,35,Clothing,6,242,1452,216,26,156,online,New,2
+1071,1/15/2024,CUST1071,Male,32,Food,8,108,864,67,41,328,cash,New,4
+1072,1/8/2024,CUST1072,Female,60,Food,10,206,2060,130,76,760,credit card,Returning,2
+1073,4/15/2024,CUST1073,Female,23,Electronics,5,492,2460,407,85,425,credit card,Returning,5
+1074,4/22/2024,CUST1074,Female,47,Electronics,3,334,1002,208,126,378,cash,Returning,4
+1075,9/29/2024,CUST1075,Male,52,Electronics,7,235,1645,125,110,770,credit card,Returning,5
+1076,8/31/2024,CUST1076,Male,75,Clothing,8,146,1168,79,67,536,online,Returning,4
+1077,4/3/2024,CUST1077,Male,34,Electronics,5,413,2065,279,134,670,online,New,5
+1078,12/8/2024,CUST1078,Female,22,Clothing,10,195,1950,164,31,310,credit card,New,1
+1079,3/17/2024,CUST1079,Male,52,Clothing,1,332,332,167,165,165,cash,New,3
+1080,12/4/2024,CUST1080,Male,75,Electronics,3,128,384,93,35,105,cash,Returning,5
+1081,6/8/2024,CUST1081,Female,74,Clothing,6,489,2934,329,160,960,cash,Returning,4
+1082,2/19/2024,CUST1082,Female,56,Clothing,9,68,612,47,21,189,online,New,1
+1083,6/27/2024,CUST1083,Female,35,Electronics,5,388,1940,263,125,625,cash,New,1
+1084,4/9/2024,CUST1084,Male,55,Food,1,344,344,174,170,170,online,New,4
+1085,8/9/2024,CUST1085,Female,72,Clothing,6,355,2130,209,146,876,cash,Returning,4
+1086,4/6/2024,CUST1086,Male,42,Clothing,2,232,464,173,59,118,cash,New,3
+1087,10/12/2024,CUST1087,Male,77,Clothing,6,157,942,81,76,456,credit card,Returning,2
+1088,1/3/2024,CUST1088,Female,28,Clothing,4,138,552,106,32,128,credit card,New,1
+1089,5/29/2024,CUST1089,Female,75,Clothing,9,293,2637,226,67,603,credit card,Returning,4
+1090,10/21/2024,CUST1090,Female,44,Food,8,140,1120,81,59,472,credit card,New,1
+1091,8/30/2024,CUST1091,Female,66,Clothing,5,339,1695,211,128,640,cash,New,5
+1092,8/12/2024,CUST1092,Female,86,Food,6,115,690,90,25,150,cash,Returning,2
+1093,3/31/2024,CUST1093,Female,33,Food,6,133,798,74,59,354,credit card,Returning,4
+1094,5/14/2024,CUST1094,Female,50,Electronics,9,197,1773,137,60,540,credit card,New,2
+1095,2/26/2024,CUST1095,Female,31,Clothing,4,257,1028,171,86,344,online,Returning,5
+1096,4/4/2024,CUST1096,Female,56,Clothing,5,44,220,28,16,80,cash,Returning,3
+1097,5/5/2024,CUST1097,Female,56,Food,4,95,380,77,18,72,credit card,New,2
+1098,6/24/2024,CUST1098,Male,59,Food,6,436,2616,305,131,786,online,Returning,4
+1099,9/15/2024,CUST1099,Male,20,Clothing,2,462,924,411,51,102,online,New,2
+1100,2/18/2024,CUST1100,Male,28,Food,9,249,2241,224,25,225,credit card,Returning,4
+1101,7/8/2024,CUST1101,Male,32,Food,7,92,644,70,22,154,credit card,New,5
+1102,2/12/2024,CUST1102,Male,78,Clothing,10,457,4570,281,176,1760,online,Returning,2
+1103,2/23/2024,CUST1103,Male,56,Clothing,4,35,140,18,17,68,cash,Returning,2
+1104,3/29/2024,CUST1104,Female,85,Food,9,234,2106,139,95,855,credit card,Returning,3
+1105,6/15/2024,CUST1105,Female,43,Food,2,353,706,284,69,138,online,New,5
+1106,1/5/2024,CUST1106,Female,76,Clothing,5,371,1855,244,127,635,cash,Returning,1
+1107,7/3/2024,CUST1107,Female,84,Electronics,4,35,140,25,10,40,cash,New,1
+1108,6/3/2024,CUST1108,Female,74,Food,2,272,544,166,106,212,cash,Returning,1
+1109,6/20/2024,CUST1109,Male,40,Clothing,4,489,1956,285,204,816,online,Returning,4
+1110,4/19/2024,CUST1110,Male,87,Clothing,8,153,1224,86,67,536,credit card,Returning,1
+1111,3/15/2024,CUST1111,Male,46,Clothing,2,119,238,101,18,36,online,New,2
+1112,2/16/2024,CUST1112,Male,52,Food,9,64,576,53,11,99,online,Returning,2
+1113,11/19/2024,CUST1113,Female,46,Clothing,5,76,380,64,12,60,cash,New,1
+1114,11/1/2024,CUST1114,Female,25,Clothing,3,459,1377,397,62,186,credit card,Returning,1
+1115,10/16/2024,CUST1115,Female,43,Clothing,1,248,248,128,120,120,credit card,Returning,1
+1116,1/8/2024,CUST1116,Female,55,Food,2,296,592,220,76,152,credit card,Returning,3
+1117,11/22/2024,CUST1117,Male,36,Food,4,255,1020,171,84,336,cash,Returning,1
+1118,9/10/2024,CUST1118,Male,33,Electronics,8,76,608,42,34,272,cash,New,5
+1119,7/30/2024,CUST1119,Female,70,Clothing,8,446,3568,261,185,1480,cash,New,5
+1120,9/6/2024,CUST1120,Female,20,Food,4,478,1912,240,238,952,online,New,1
+1121,11/3/2024,CUST1121,Female,76,Clothing,10,262,2620,147,115,1150,online,New,5
+1122,8/23/2024,CUST1122,Male,81,Clothing,3,153,459,104,49,147,online,Returning,2
+1123,7/18/2024,CUST1123,Male,36,Clothing,6,255,1530,139,116,696,online,New,1
+1124,2/27/2024,CUST1124,Female,56,Electronics,8,43,344,28,15,120,online,New,3
+1125,9/21/2024,CUST1125,Male,38,Clothing,1,463,463,339,124,124,credit card,New,3
+1126,12/1/2024,CUST1126,Female,27,Food,9,52,468,42,10,90,credit card,New,3
+1127,5/7/2024,CUST1127,Male,71,Food,5,460,2300,317,143,715,credit card,New,5
+1128,8/14/2024,CUST1128,Female,63,Clothing,4,78,312,55,23,92,credit card,New,3
+1129,4/6/2024,CUST1129,Male,31,Clothing,9,251,2259,128,123,1107,cash,New,4
+1130,6/30/2024,CUST1130,Male,42,Electronics,8,322,2576,194,128,1024,credit card,Returning,5
+1131,11/17/2024,CUST1131,Female,35,Clothing,1,86,86,73,13,13,credit card,Returning,5
+1132,10/27/2024,CUST1132,Female,67,Food,3,204,612,133,71,213,cash,Returning,1
+1133,5/17/2024,CUST1133,Female,48,Electronics,9,296,2664,233,63,567,credit card,Returning,5
+1134,9/23/2024,CUST1134,Female,65,Food,2,404,808,358,46,92,online,New,4
+1135,6/25/2024,CUST1135,Female,77,Clothing,1,348,348,271,77,77,online,Returning,5
+1136,1/14/2024,CUST1136,Female,65,Electronics,3,328,984,281,47,141,cash,New,2
+1137,10/19/2024,CUST1137,Male,33,Food,8,388,3104,341,47,376,online,Returning,5
+1138,12/12/2024,CUST1138,Male,79,Clothing,7,197,1379,166,31,217,online,Returning,2
+1139,3/17/2024,CUST1139,Female,75,Food,8,221,1768,140,81,648,online,New,5
+1140,8/29/2024,CUST1140,Female,46,Clothing,6,316,1896,245,71,426,online,New,1
+1141,2/17/2024,CUST1141,Female,72,Clothing,2,463,926,254,209,418,online,Returning,1
+1142,1/20/2024,CUST1142,Female,81,Clothing,6,473,2838,307,166,996,cash,New,2
+1143,5/25/2024,CUST1143,Male,29,Clothing,4,340,1360,299,41,164,cash,New,3
+1144,8/17/2024,CUST1144,Male,67,Clothing,9,313,2817,240,73,657,credit card,Returning,4
+1145,1/18/2024,CUST1145,Male,50,Electronics,5,313,1565,270,43,215,cash,Returning,2
+1146,7/8/2024,CUST1146,Male,88,Electronics,5,93,465,75,18,90,credit card,Returning,1
+1147,9/4/2024,CUST1147,Male,41,Food,1,390,390,346,44,44,cash,New,1
+1148,2/22/2024,CUST1148,Female,38,Food,8,336,2688,248,88,704,cash,Returning,1
+1149,8/28/2024,CUST1149,Male,90,Clothing,5,332,1660,182,150,750,credit card,Returning,3
+1150,12/14/2024,CUST1150,Male,87,Clothing,7,286,2002,213,73,511,online,Returning,4
+1151,3/25/2024,CUST1151,Male,68,Clothing,6,106,636,65,41,246,cash,New,3
+1152,4/14/2024,CUST1152,Male,45,Electronics,7,116,812,102,14,98,cash,Returning,3
+1153,12/3/2024,CUST1153,Female,23,Clothing,4,381,1524,294,87,348,credit card,New,2
+1154,9/9/2024,CUST1154,Female,24,Clothing,4,295,1180,163,132,528,credit card,New,4
+1155,4/5/2024,CUST1155,Female,29,Clothing,10,460,4600,357,103,1030,cash,Returning,1
+1156,5/21/2024,CUST1156,Female,33,Clothing,10,120,1200,98,22,220,credit card,Returning,5
+1157,6/9/2024,CUST1157,Male,21,Clothing,7,60,420,47,13,91,cash,Returning,2
+1158,10/12/2024,CUST1158,Female,33,Clothing,9,210,1890,143,67,603,credit card,Returning,1
+1159,7/23/2024,CUST1159,Female,64,Clothing,5,421,2105,302,119,595,credit card,New,3
+1160,6/30/2024,CUST1160,Female,64,Clothing,10,97,970,63,34,340,online,Returning,4
+1161,1/31/2024,CUST1161,Female,60,Clothing,5,297,1485,161,136,680,online,New,4
+1162,5/1/2024,CUST1162,Male,72,Food,2,259,518,213,46,92,cash,New,4
+1163,8/3/2024,CUST1163,Male,87,Food,2,408,816,234,174,348,online,Returning,3
+1164,12/17/2024,CUST1164,Male,61,Electronics,3,475,1425,295,180,540,online,New,2
+1165,4/20/2024,CUST1165,Male,87,Electronics,5,477,2385,425,52,260,online,New,1
+1166,7/11/2024,CUST1166,Female,44,Clothing,2,148,296,77,71,142,credit card,Returning,5
+1167,6/1/2024,CUST1167,Male,37,Electronics,5,379,1895,297,82,410,cash,Returning,5
+1168,7/3/2024,CUST1168,Male,76,Food,9,497,4473,417,80,720,cash,New,3
+1169,7/24/2024,CUST1169,Male,66,Food,5,365,1825,203,162,810,online,Returning,4
+1170,2/17/2024,CUST1170,Male,85,Electronics,5,382,1910,230,152,760,cash,New,5
+1171,9/11/2024,CUST1171,Female,70,Clothing,5,309,1545,264,45,225,credit card,Returning,3
+1172,6/26/2024,CUST1172,Male,20,Clothing,7,37,259,31,6,42,cash,Returning,5
+1173,1/2/2024,CUST1173,Female,81,Food,2,124,248,78,46,92,cash,Returning,4
+1174,3/26/2024,CUST1174,Female,81,Food,7,426,2982,383,43,301,online,New,5
+1175,12/13/2024,CUST1175,Male,27,Food,1,479,479,288,191,191,online,Returning,1
+1176,1/25/2024,CUST1176,Female,85,Clothing,3,308,924,157,151,453,online,New,1
+1177,3/24/2024,CUST1177,Female,83,Food,6,78,468,53,25,150,online,Returning,3
+1178,6/2/2024,CUST1178,Female,66,Clothing,3,96,288,55,41,123,online,Returning,5
+1179,11/17/2024,CUST1179,Male,58,Food,10,266,2660,214,52,520,online,New,4
+1180,5/3/2024,CUST1180,Female,83,Clothing,9,332,2988,291,41,369,cash,New,4
+1181,10/23/2024,CUST1181,Female,53,Clothing,5,415,2075,330,85,425,online,New,1
+1182,8/22/2024,CUST1182,Male,78,Clothing,2,348,696,220,128,256,credit card,Returning,3
+1183,11/14/2024,CUST1183,Male,39,Clothing,4,358,1432,244,114,456,online,Returning,1
+1184,7/26/2024,CUST1184,Male,37,Clothing,10,123,1230,108,15,150,online,Returning,5
+1185,4/21/2024,CUST1185,Female,57,Food,6,342,2052,204,138,828,credit card,Returning,5
+1186,2/25/2024,CUST1186,Female,47,Food,7,50,350,38,12,84,online,New,4
+1187,7/25/2024,CUST1187,Female,77,Electronics,7,330,2310,265,65,455,credit card,New,5
+1188,9/28/2024,CUST1188,Male,83,Food,6,247,1482,199,48,288,online,New,5
+1189,1/20/2024,CUST1189,Male,68,Electronics,6,444,2664,240,204,1224,credit card,New,5
+1190,7/29/2024,CUST1190,Male,78,Clothing,8,447,3576,240,207,1656,online,Returning,5
+1191,8/11/2024,CUST1191,Female,86,Clothing,6,200,1200,133,67,402,credit card,New,2
+1192,7/27/2024,CUST1192,Female,48,Food,2,32,64,20,12,24,credit card,New,2
+1193,1/2/2024,CUST1193,Female,82,Clothing,6,91,546,54,37,222,credit card,Returning,3
+1194,2/6/2024,CUST1194,Female,48,Clothing,6,108,648,80,28,168,credit card,New,5
+1195,8/18/2024,CUST1195,Female,43,Food,6,274,1644,157,117,702,cash,Returning,2
+1196,7/6/2024,CUST1196,Male,38,Clothing,8,203,1624,180,23,184,cash,New,1
+1197,3/30/2024,CUST1197,Male,44,Food,10,353,3530,292,61,610,credit card,Returning,4
+1198,1/24/2024,CUST1198,Male,43,Electronics,2,89,178,52,37,74,online,New,4
+1199,7/4/2024,CUST1199,Male,31,Electronics,4,457,1828,325,132,528,cash,Returning,5
+1200,3/29/2024,CUST1200,Female,24,Clothing,1,499,499,356,143,143,online,New,4
+1201,4/29/2024,CUST1201,Male,65,Food,3,448,1344,225,223,669,cash,Returning,4
+1202,12/1/2024,CUST1202,Male,48,Clothing,4,268,1072,239,29,116,cash,Returning,4
+1203,2/26/2024,CUST1203,Female,26,Electronics,1,423,423,324,99,99,cash,New,3
+1204,10/15/2024,CUST1204,Female,88,Electronics,5,274,1370,152,122,610,credit card,New,4
+1205,10/30/2024,CUST1205,Male,50,Clothing,5,227,1135,199,28,140,online,Returning,4
+1206,6/28/2024,CUST1206,Male,24,Clothing,1,114,114,99,15,15,online,New,2
+1207,3/15/2024,CUST1207,Male,48,Clothing,10,120,1200,78,42,420,online,New,2
+1208,6/24/2024,CUST1208,Female,50,Clothing,8,277,2216,204,73,584,online,Returning,3
+1209,2/26/2024,CUST1209,Male,26,Electronics,8,38,304,24,14,112,credit card,Returning,5
+1210,5/29/2024,CUST1210,Female,69,Electronics,2,292,584,167,125,250,online,New,4
+1211,8/15/2024,CUST1211,Female,39,Clothing,5,42,210,32,10,50,credit card,New,1
+1212,6/24/2024,CUST1212,Female,52,Clothing,1,481,481,372,109,109,credit card,Returning,5
+1213,3/2/2024,CUST1213,Female,67,Clothing,8,159,1272,108,51,408,online,Returning,5
+1214,1/27/2024,CUST1214,Female,87,Food,1,46,46,36,10,10,cash,Returning,1
+1215,4/1/2024,CUST1215,Male,47,Clothing,9,461,4149,301,160,1440,cash,Returning,2
+1216,12/10/2024,CUST1216,Male,79,Clothing,2,102,204,71,31,62,online,Returning,5
+1217,10/29/2024,CUST1217,Female,24,Clothing,2,156,312,92,64,128,cash,New,3
+1218,10/5/2024,CUST1218,Female,79,Clothing,7,260,1820,200,60,420,cash,New,2
+1219,9/30/2024,CUST1219,Male,51,Food,2,395,790,343,52,104,credit card,New,2
+1220,7/31/2024,CUST1220,Male,67,Electronics,3,399,1197,242,157,471,credit card,New,5
+1221,7/16/2024,CUST1221,Female,58,Electronics,9,334,3006,177,157,1413,credit card,Returning,5
+1222,2/15/2024,CUST1222,Male,41,Food,5,405,2025,330,75,375,online,Returning,1
+1223,1/20/2024,CUST1223,Female,27,Clothing,5,220,1100,161,59,295,credit card,New,1
+1224,11/18/2024,CUST1224,Female,44,Clothing,3,176,528,111,65,195,credit card,New,5
+1225,1/31/2024,CUST1225,Female,75,Food,6,405,2430,229,176,1056,credit card,New,1
+1226,6/13/2024,CUST1226,Female,70,Food,3,45,135,37,8,24,online,New,3
+1227,1/13/2024,CUST1227,Female,71,Electronics,2,197,394,157,40,80,credit card,Returning,2
+1228,9/8/2024,CUST1228,Male,40,Clothing,9,495,4455,260,235,2115,cash,New,5
+1229,2/20/2024,CUST1229,Female,27,Electronics,9,120,1080,62,58,522,cash,Returning,4
+1230,9/3/2024,CUST1230,Male,80,Clothing,4,370,1480,274,96,384,cash,Returning,3
+1231,2/23/2024,CUST1231,Male,40,Clothing,9,211,1899,116,95,855,cash,New,1
+1232,10/5/2024,CUST1232,Male,62,Clothing,6,463,2778,406,57,342,cash,New,5
+1233,2/3/2024,CUST1233,Female,47,Clothing,6,397,2382,200,197,1182,cash,New,3
+1234,2/20/2024,CUST1234,Female,77,Clothing,10,290,2900,247,43,430,credit card,New,1
+1235,11/25/2024,CUST1235,Female,75,Electronics,3,375,1125,316,59,177,online,New,5
+1236,5/21/2024,CUST1236,Female,83,Electronics,9,244,2196,211,33,297,credit card,Returning,4
+1237,2/17/2024,CUST1237,Female,58,Clothing,7,247,1729,220,27,189,online,New,1
+1238,9/13/2024,CUST1238,Female,29,Electronics,6,47,282,32,15,90,credit card,New,5
+1239,10/6/2024,CUST1239,Female,81,Clothing,4,179,716,104,75,300,cash,Returning,2
+1240,5/25/2024,CUST1240,Male,79,Electronics,5,134,670,119,15,75,online,New,1
+1241,11/27/2024,CUST1241,Male,87,Food,4,413,1652,325,88,352,online,New,4
+1242,5/21/2024,CUST1242,Male,52,Food,8,138,1104,70,68,544,cash,Returning,1
+1243,11/25/2024,CUST1243,Female,52,Clothing,2,135,270,78,57,114,credit card,New,2
+1244,8/29/2024,CUST1244,Female,79,Food,4,472,1888,248,224,896,online,New,1
+1245,2/29/2024,CUST1245,Male,74,Clothing,8,274,2192,241,33,264,credit card,Returning,3
+1246,10/28/2024,CUST1246,Male,44,Electronics,5,471,2355,387,84,420,cash,New,4
+1247,11/3/2024,CUST1247,Male,80,Clothing,7,366,2562,244,122,854,credit card,New,1
+1248,11/27/2024,CUST1248,Male,42,Food,8,89,712,66,23,184,cash,New,2
+1249,4/12/2024,CUST1249,Female,89,Clothing,8,265,2120,154,111,888,credit card,New,2
+1250,6/1/2024,CUST1250,Male,31,Electronics,6,72,432,36,36,216,cash,New,5
+1251,8/20/2024,CUST1251,Male,30,Food,6,487,2922,402,85,510,credit card,New,3
+1252,10/8/2024,CUST1252,Female,80,Electronics,10,123,1230,62,61,610,online,New,3
+1253,1/17/2024,CUST1253,Female,30,Electronics,8,234,1872,151,83,664,online,New,4
+1254,4/13/2024,CUST1254,Male,27,Electronics,5,144,720,127,17,85,online,Returning,5
+1255,5/17/2024,CUST1255,Male,36,Clothing,9,304,2736,227,77,693,credit card,Returning,3
+1256,5/1/2024,CUST1256,Female,44,Electronics,2,442,884,229,213,426,online,Returning,2
+1257,7/15/2024,CUST1257,Female,62,Clothing,1,138,138,113,25,25,cash,Returning,2
+1258,11/7/2024,CUST1258,Male,36,Electronics,4,368,1472,263,105,420,cash,New,5
+1259,8/12/2024,CUST1259,Male,31,Electronics,1,454,454,335,119,119,online,Returning,5
+1260,7/20/2024,CUST1260,Male,32,Electronics,10,319,3190,251,68,680,online,Returning,3
+1261,1/18/2024,CUST1261,Female,27,Clothing,5,474,2370,374,100,500,credit card,New,1
+1262,1/15/2024,CUST1262,Female,26,Electronics,5,498,2490,358,140,700,credit card,Returning,5
+1263,6/3/2024,CUST1263,Female,80,Food,7,467,3269,362,105,735,cash,Returning,2
+1264,4/28/2024,CUST1264,Male,72,Clothing,2,338,676,242,96,192,cash,New,3
+1265,1/21/2024,CUST1265,Male,59,Clothing,2,187,374,104,83,166,credit card,New,4
+1266,12/4/2024,CUST1266,Male,83,Clothing,2,150,300,134,16,32,online,New,1
+1267,1/31/2024,CUST1267,Female,55,Electronics,1,316,316,273,43,43,credit card,New,5
+1268,4/6/2024,CUST1268,Male,34,Electronics,5,387,1935,238,149,745,credit card,Returning,3
+1269,10/5/2024,CUST1269,Female,51,Clothing,2,146,292,108,38,76,cash,New,3
+1270,6/30/2024,CUST1270,Male,80,Clothing,1,57,57,38,19,19,online,Returning,4
+1271,9/26/2024,CUST1271,Male,78,Electronics,5,410,2050,217,193,965,cash,Returning,5
+1272,3/25/2024,CUST1272,Male,72,Clothing,2,296,592,205,91,182,credit card,New,3
+1273,2/15/2024,CUST1273,Male,71,Clothing,2,430,860,349,81,162,online,Returning,5
+1274,10/20/2024,CUST1274,Male,24,Food,2,292,584,164,128,256,credit card,New,3
+1275,10/2/2024,CUST1275,Female,27,Electronics,10,35,350,23,12,120,credit card,New,3
+1276,12/15/2024,CUST1276,Male,22,Clothing,9,238,2142,210,28,252,online,Returning,3
+1277,8/23/2024,CUST1277,Female,65,Electronics,2,425,850,291,134,268,credit card,Returning,1
+1278,12/13/2024,CUST1278,Male,71,Clothing,6,309,1854,219,90,540,cash,Returning,1
+1279,2/21/2024,CUST1279,Female,80,Food,3,374,1122,333,41,123,credit card,Returning,1
+1280,5/31/2024,CUST1280,Female,88,Food,10,460,4600,412,48,480,credit card,New,3
+1281,2/9/2024,CUST1281,Female,33,Clothing,8,383,3064,292,91,728,credit card,Returning,4
+1282,3/5/2024,CUST1282,Male,65,Clothing,7,331,2317,167,164,1148,online,New,1
+1283,8/6/2024,CUST1283,Female,22,Clothing,5,75,375,66,9,45,cash,Returning,5
+1284,10/3/2024,CUST1284,Female,34,Food,10,131,1310,86,45,450,online,Returning,4
+1285,4/3/2024,CUST1285,Male,49,Clothing,8,48,384,29,19,152,credit card,Returning,4
+1286,5/12/2024,CUST1286,Female,32,Clothing,4,267,1068,174,93,372,cash,Returning,5
+1287,8/2/2024,CUST1287,Female,25,Food,5,203,1015,122,81,405,credit card,New,4
+1288,11/12/2024,CUST1288,Female,65,Clothing,9,45,405,26,19,171,credit card,New,1
+1289,10/12/2024,CUST1289,Male,72,Clothing,1,162,162,98,64,64,online,New,1
+1290,7/18/2024,CUST1290,Female,62,Food,4,382,1528,241,141,564,online,New,4
+1291,8/30/2024,CUST1291,Female,66,Electronics,2,382,764,290,92,184,online,New,5
+1292,6/28/2024,CUST1292,Male,84,Food,5,198,990,157,41,205,cash,New,2
+1293,7/5/2024,CUST1293,Male,58,Clothing,6,88,528,79,9,54,online,New,4
+1294,7/26/2024,CUST1294,Male,82,Food,4,212,848,139,73,292,online,New,4
+1295,9/28/2024,CUST1295,Male,68,Clothing,10,72,720,37,35,350,cash,New,2
+1296,12/19/2024,CUST1296,Male,67,Electronics,5,320,1600,170,150,750,cash,New,2
+1297,4/16/2024,CUST1297,Female,38,Electronics,9,231,2079,129,102,918,cash,Returning,2
+1298,9/23/2024,CUST1298,Female,69,Clothing,5,302,1510,240,62,310,cash,Returning,4
+1299,1/1/2024,CUST1299,Male,50,Clothing,7,317,2219,260,57,399,credit card,Returning,1
+1300,3/13/2024,CUST1300,Female,31,Clothing,7,422,2954,275,147,1029,cash,Returning,1
+1301,7/15/2024,CUST1301,Male,61,Electronics,8,120,960,73,47,376,credit card,New,5
+1302,11/18/2024,CUST1302,Male,38,Clothing,1,333,333,200,133,133,online,Returning,2
+1303,4/21/2024,CUST1303,Male,74,Clothing,9,96,864,69,27,243,online,New,1
+1304,12/19/2024,CUST1304,Female,76,Clothing,6,297,1782,237,60,360,cash,New,3
+1305,3/14/2024,CUST1305,Male,41,Food,1,216,216,141,75,75,credit card,New,4
+1306,7/7/2024,CUST1306,Male,26,Electronics,7,131,917,98,33,231,cash,Returning,5
+1307,9/9/2024,CUST1307,Female,22,Clothing,10,277,2770,157,120,1200,credit card,New,5
+1308,10/26/2024,CUST1308,Male,65,Clothing,3,443,1329,229,214,642,online,Returning,4
+1309,10/15/2024,CUST1309,Male,86,Clothing,1,114,114,86,28,28,cash,Returning,3
+1310,10/17/2024,CUST1310,Female,47,Electronics,8,201,1608,103,98,784,online,Returning,4
+1311,10/19/2024,CUST1311,Male,88,Electronics,10,246,2460,192,54,540,online,New,4
+1312,10/12/2024,CUST1312,Male,50,Electronics,2,69,138,45,24,48,cash,Returning,1
+1313,4/3/2024,CUST1313,Male,74,Electronics,6,295,1770,214,81,486,cash,New,3
+1314,12/19/2024,CUST1314,Female,70,Electronics,3,174,522,144,30,90,credit card,Returning,5
+1315,2/17/2024,CUST1315,Female,54,Clothing,7,406,2842,221,185,1295,online,Returning,1
+1316,10/22/2024,CUST1316,Male,70,Electronics,1,398,398,333,65,65,cash,New,2
+1317,2/6/2024,CUST1317,Male,25,Clothing,2,176,352,89,87,174,online,New,2
+1318,10/25/2024,CUST1318,Female,38,Food,6,469,2814,283,186,1116,online,New,4
+1319,7/27/2024,CUST1319,Male,53,Clothing,5,473,2365,295,178,890,cash,Returning,5
+1320,2/28/2024,CUST1320,Male,79,Clothing,8,489,3912,352,137,1096,cash,Returning,2
+1321,5/11/2024,CUST1321,Female,37,Clothing,5,294,1470,256,38,190,credit card,New,4
+1322,11/9/2024,CUST1322,Female,67,Electronics,3,235,705,209,26,78,online,Returning,4
+1323,5/31/2024,CUST1323,Female,59,Clothing,7,439,3073,262,177,1239,credit card,Returning,1
+1324,8/4/2024,CUST1324,Female,67,Electronics,7,368,2576,223,145,1015,cash,New,4
+1325,6/17/2024,CUST1325,Female,29,Food,10,121,1210,95,26,260,online,New,2
+1326,4/28/2024,CUST1326,Female,44,Clothing,9,365,3285,325,40,360,cash,New,2
+1327,1/18/2024,CUST1327,Male,53,Clothing,8,99,792,51,48,384,cash,New,1
+1328,6/6/2024,CUST1328,Male,71,Food,6,54,324,37,17,102,cash,Returning,1
+1329,8/28/2024,CUST1329,Male,27,Clothing,2,322,644,191,131,262,credit card,New,4
+1330,11/28/2024,CUST1330,Female,78,Electronics,1,476,476,286,190,190,credit card,Returning,4
+1331,9/13/2024,CUST1331,Male,83,Food,2,456,912,292,164,328,online,New,3
+1332,3/23/2024,CUST1332,Female,83,Clothing,2,243,486,162,81,162,credit card,New,2
+1333,12/3/2024,CUST1333,Male,20,Clothing,8,395,3160,343,52,416,cash,Returning,1
+1334,7/25/2024,CUST1334,Male,49,Clothing,1,180,180,154,26,26,online,Returning,2
+1335,10/23/2024,CUST1335,Male,74,Food,2,491,982,380,111,222,cash,Returning,5
+1336,11/4/2024,CUST1336,Female,67,Clothing,2,135,270,107,28,56,online,Returning,4
+1337,11/28/2024,CUST1337,Female,89,Clothing,6,313,1878,183,130,780,credit card,New,1
+1338,9/12/2024,CUST1338,Male,70,Clothing,10,356,3560,179,177,1770,online,New,3
+1339,4/5/2024,CUST1339,Male,42,Clothing,1,163,163,121,42,42,credit card,Returning,4
+1340,2/23/2024,CUST1340,Male,33,Electronics,7,332,2324,292,40,280,online,Returning,2
+1341,7/2/2024,CUST1341,Male,71,Clothing,3,261,783,138,123,369,credit card,Returning,4
+1342,8/28/2024,CUST1342,Female,79,Clothing,3,37,111,29,8,24,cash,New,1
+1343,2/27/2024,CUST1343,Female,59,Electronics,7,60,420,37,23,161,cash,Returning,2
+1344,11/26/2024,CUST1344,Male,71,Food,10,94,940,56,38,380,credit card,Returning,4
+1345,3/18/2024,CUST1345,Female,48,Clothing,3,470,1410,404,66,198,credit card,Returning,5
+1346,7/26/2024,CUST1346,Female,88,Clothing,10,325,3250,222,103,1030,credit card,New,4
+1347,10/18/2024,CUST1347,Male,47,Clothing,9,78,702,54,24,216,cash,New,1
+1348,10/5/2024,CUST1348,Male,81,Clothing,6,463,2778,292,171,1026,cash,Returning,2
+1349,4/21/2024,CUST1349,Female,74,Electronics,7,464,3248,283,181,1267,cash,New,5
+1350,1/22/2024,CUST1350,Male,54,Clothing,3,233,699,171,62,186,online,Returning,2
+1351,9/20/2024,CUST1351,Female,21,Electronics,6,163,978,145,18,108,online,New,2
+1352,5/26/2024,CUST1352,Female,69,Food,9,247,2223,200,47,423,credit card,Returning,2
+1353,11/16/2024,CUST1353,Male,21,Food,6,477,2862,332,145,870,cash,Returning,2
+1354,12/23/2024,CUST1354,Female,78,Clothing,5,247,1235,211,36,180,cash,Returning,5
+1355,2/7/2024,CUST1355,Female,67,Clothing,6,383,2298,264,119,714,credit card,New,5
+1356,6/3/2024,CUST1356,Female,53,Electronics,8,447,3576,351,96,768,credit card,Returning,3
+1357,4/19/2024,CUST1357,Male,72,Clothing,3,120,360,67,53,159,credit card,Returning,1
+1358,5/21/2024,CUST1358,Male,35,Clothing,4,209,836,187,22,88,cash,New,3
+1359,3/12/2024,CUST1359,Female,25,Clothing,2,175,350,150,25,50,credit card,Returning,5
+1360,5/1/2024,CUST1360,Female,37,Clothing,1,335,335,241,94,94,cash,Returning,5
+1361,9/12/2024,CUST1361,Male,44,Food,3,221,663,118,103,309,credit card,New,1
+1362,6/4/2024,CUST1362,Female,65,Electronics,3,300,900,178,122,366,cash,Returning,5
+1363,8/30/2024,CUST1363,Female,84,Electronics,6,404,2424,235,169,1014,credit card,New,3
+1364,2/12/2024,CUST1364,Female,42,Food,3,260,780,221,39,117,credit card,New,2
+1365,5/30/2024,CUST1365,Female,62,Clothing,1,288,288,257,31,31,online,Returning,5
+1366,10/19/2024,CUST1366,Male,87,Food,9,436,3924,313,123,1107,cash,New,3
+1367,8/6/2024,CUST1367,Male,90,Electronics,3,492,1476,360,132,396,cash,Returning,2
+1368,11/26/2024,CUST1368,Male,83,Clothing,4,256,1024,143,113,452,online,New,1
+1369,11/4/2024,CUST1369,Female,67,Clothing,5,144,720,97,47,235,online,New,1
+1370,11/15/2024,CUST1370,Female,21,Food,7,165,1155,93,72,504,credit card,New,4
+1371,12/27/2024,CUST1371,Male,71,Clothing,9,491,4419,288,203,1827,cash,Returning,1
+1372,1/2/2024,CUST1372,Female,70,Food,5,107,535,64,43,215,online,Returning,4
+1373,10/28/2024,CUST1373,Male,61,Clothing,9,208,1872,178,30,270,credit card,New,2
+1374,11/9/2024,CUST1374,Female,48,Clothing,5,127,635,98,29,145,cash,New,1
+1375,8/30/2024,CUST1375,Female,32,Food,7,348,2436,251,97,679,credit card,Returning,1
+1376,5/3/2024,CUST1376,Female,88,Clothing,3,349,1047,302,47,141,online,New,1
+1377,2/28/2024,CUST1377,Male,51,Clothing,10,371,3710,211,160,1600,online,Returning,5
+1378,2/23/2024,CUST1378,Male,56,Food,8,454,3632,392,62,496,cash,Returning,5
+1379,3/11/2024,CUST1379,Male,70,Food,7,448,3136,262,186,1302,cash,New,2
+1380,5/24/2024,CUST1380,Male,57,Clothing,2,116,232,85,31,62,online,New,2
+1381,11/20/2024,CUST1381,Male,22,Food,7,449,3143,326,123,861,credit card,New,2
+1382,2/7/2024,CUST1382,Male,45,Food,7,449,3143,385,64,448,credit card,New,1
+1383,2/18/2024,CUST1383,Male,64,Clothing,1,492,492,379,113,113,online,Returning,4
+1384,12/3/2024,CUST1384,Female,35,Electronics,5,416,2080,359,57,285,credit card,New,5
+1385,5/24/2024,CUST1385,Female,47,Electronics,3,389,1167,220,169,507,credit card,New,4
+1386,10/10/2024,CUST1386,Female,39,Clothing,5,402,2010,248,154,770,online,Returning,2
+1387,7/1/2024,CUST1387,Male,46,Clothing,2,295,590,203,92,184,online,Returning,4
+1388,12/4/2024,CUST1388,Male,70,Electronics,8,381,3048,274,107,856,cash,Returning,1
+1389,7/21/2024,CUST1389,Male,25,Clothing,6,458,2748,375,83,498,credit card,Returning,3
+1390,8/12/2024,CUST1390,Male,46,Food,4,187,748,149,38,152,credit card,Returning,1
+1391,1/21/2024,CUST1391,Male,78,Clothing,6,299,1794,160,139,834,online,New,5
+1392,10/19/2024,CUST1392,Female,44,Electronics,9,204,1836,171,33,297,cash,Returning,3
+1393,5/11/2024,CUST1393,Male,71,Clothing,5,496,2480,433,63,315,cash,New,3
+1394,5/26/2024,CUST1394,Male,54,Clothing,4,232,928,173,59,236,online,Returning,4
+1395,12/4/2024,CUST1395,Male,53,Clothing,9,468,4212,246,222,1998,credit card,Returning,2
+1396,2/23/2024,CUST1396,Female,50,Food,5,375,1875,203,172,860,cash,New,3
+1397,10/4/2024,CUST1397,Male,59,Clothing,9,291,2619,188,103,927,cash,Returning,4
+1398,6/5/2024,CUST1398,Male,77,Clothing,8,347,2776,219,128,1024,online,New,5
+1399,7/9/2024,CUST1399,Male,65,Clothing,1,202,202,150,52,52,cash,Returning,5
+1400,4/21/2024,CUST1400,Male,46,Electronics,2,410,820,319,91,182,cash,Returning,3
+1401,9/11/2024,CUST1401,Male,22,Food,2,434,868,218,216,432,credit card,New,2
+1402,5/18/2024,CUST1402,Male,90,Clothing,4,367,1468,273,94,376,credit card,New,4
+1403,5/9/2024,CUST1403,Male,65,Electronics,7,276,1932,218,58,406,online,Returning,2
+1404,2/4/2024,CUST1404,Female,50,Food,5,422,2110,223,199,995,online,Returning,2
+1405,6/27/2024,CUST1405,Female,66,Clothing,10,495,4950,278,217,2170,credit card,New,5
+1406,6/21/2024,CUST1406,Male,28,Food,3,372,1116,235,137,411,credit card,Returning,4
+1407,8/4/2024,CUST1407,Female,76,Electronics,10,35,350,31,4,40,credit card,Returning,3
+1408,8/26/2024,CUST1408,Female,60,Clothing,5,451,2255,404,47,235,credit card,New,4
+1409,1/16/2024,CUST1409,Male,86,Clothing,3,328,984,247,81,243,online,Returning,5
+1410,11/13/2024,CUST1410,Male,51,Electronics,5,50,250,42,8,40,online,New,5
+1411,9/24/2024,CUST1411,Male,27,Electronics,10,482,4820,423,59,590,cash,New,3
+1412,7/22/2024,CUST1412,Male,75,Clothing,5,475,2375,414,61,305,credit card,Returning,4
+1413,4/11/2024,CUST1413,Female,40,Food,10,154,1540,79,75,750,online,New,3
+1414,11/21/2024,CUST1414,Male,84,Clothing,5,493,2465,309,184,920,online,Returning,5
+1415,5/7/2024,CUST1415,Female,41,Clothing,4,277,1108,249,28,112,online,Returning,4
+1416,9/24/2024,CUST1416,Male,55,Clothing,4,323,1292,188,135,540,cash,New,2
+1417,6/13/2024,CUST1417,Male,78,Clothing,3,370,1110,219,151,453,online,Returning,4
+1418,11/13/2024,CUST1418,Female,89,Clothing,9,432,3888,344,88,792,online,Returning,4
+1419,4/4/2024,CUST1419,Male,29,Food,2,282,564,195,87,174,credit card,Returning,3
+1420,12/25/2024,CUST1420,Female,22,Clothing,5,367,1835,184,183,915,credit card,New,5
+1421,4/13/2024,CUST1421,Female,63,Electronics,6,240,1440,155,85,510,credit card,New,4
+1422,3/9/2024,CUST1422,Male,72,Food,8,387,3096,210,177,1416,online,Returning,4
+1423,5/8/2024,CUST1423,Male,89,Clothing,10,188,1880,167,21,210,credit card,New,2
+1424,2/18/2024,CUST1424,Female,83,Electronics,1,357,357,190,167,167,online,Returning,1
+1425,8/6/2024,CUST1425,Male,40,Clothing,3,352,1056,308,44,132,cash,Returning,4
+1426,12/20/2024,CUST1426,Female,30,Clothing,7,285,1995,157,128,896,online,New,4
+1427,6/22/2024,CUST1427,Male,44,Electronics,10,149,1490,101,48,480,online,Returning,3
+1428,11/29/2024,CUST1428,Female,82,Clothing,6,107,642,93,14,84,online,Returning,5
+1429,4/25/2024,CUST1429,Female,86,Clothing,5,136,680,112,24,120,credit card,New,3
+1430,7/3/2024,CUST1430,Male,30,Electronics,3,350,1050,312,38,114,credit card,New,4
+1431,2/29/2024,CUST1431,Male,45,Food,10,296,2960,177,119,1190,cash,New,4
+1432,7/19/2024,CUST1432,Male,22,Electronics,4,188,752,165,23,92,cash,Returning,2
+1433,11/17/2024,CUST1433,Male,24,Clothing,8,232,1856,118,114,912,online,New,3
+1434,7/17/2024,CUST1434,Female,66,Electronics,4,434,1736,370,64,256,cash,New,2
+1435,2/19/2024,CUST1435,Female,63,Food,2,184,368,154,30,60,cash,New,4
+1436,5/5/2024,CUST1436,Female,31,Food,8,395,3160,273,122,976,online,Returning,1
+1437,4/17/2024,CUST1437,Male,31,Electronics,2,432,864,259,173,346,credit card,New,1
+1438,5/27/2024,CUST1438,Female,22,Electronics,10,204,2040,144,60,600,credit card,New,5
+1439,10/19/2024,CUST1439,Female,85,Clothing,5,117,585,92,25,125,cash,New,2
+1440,10/4/2024,CUST1440,Male,60,Clothing,8,239,1912,182,57,456,cash,New,2
+1441,11/5/2024,CUST1441,Male,49,Clothing,10,411,4110,214,197,1970,credit card,Returning,2
+1442,6/13/2024,CUST1442,Male,74,Food,2,448,896,237,211,422,credit card,New,4
+1443,5/9/2024,CUST1443,Male,29,Food,10,387,3870,253,134,1340,credit card,Returning,3
+1444,5/20/2024,CUST1444,Female,47,Electronics,6,80,480,56,24,144,credit card,New,4
+1445,12/17/2024,CUST1445,Male,43,Food,6,266,1596,135,131,786,online,New,4
+1446,6/21/2024,CUST1446,Female,66,Electronics,6,56,336,44,12,72,credit card,Returning,4
+1447,5/12/2024,CUST1447,Female,69,Electronics,2,261,522,196,65,130,online,Returning,1
+1448,12/18/2024,CUST1448,Female,39,Clothing,9,259,2331,216,43,387,credit card,New,3
+1449,12/16/2024,CUST1449,Female,70,Electronics,2,227,454,125,102,204,online,New,5
+1450,3/3/2024,CUST1450,Male,61,Clothing,4,52,208,41,11,44,online,New,2
+1451,7/28/2024,CUST1451,Female,44,Electronics,9,263,2367,156,107,963,online,Returning,3
+1452,7/20/2024,CUST1452,Female,72,Food,2,382,764,256,126,252,cash,New,5
+1453,3/2/2024,CUST1453,Female,60,Clothing,3,348,1044,245,103,309,online,Returning,4
+1454,12/25/2024,CUST1454,Female,38,Electronics,5,247,1235,134,113,565,online,New,3
+1455,12/5/2024,CUST1455,Female,42,Clothing,7,69,483,48,21,147,credit card,New,2
+1456,7/23/2024,CUST1456,Female,86,Clothing,7,287,2009,253,34,238,credit card,New,2
+1457,8/7/2024,CUST1457,Female,44,Food,6,409,2454,354,55,330,online,Returning,4
+1458,8/29/2024,CUST1458,Female,81,Clothing,7,356,2492,228,128,896,cash,New,2
+1459,12/27/2024,CUST1459,Female,85,Food,8,87,696,46,41,328,credit card,Returning,3
+1460,8/15/2024,CUST1460,Male,21,Food,1,98,98,84,14,14,online,Returning,1
+1461,6/16/2024,CUST1461,Female,85,Electronics,4,48,192,27,21,84,cash,New,4
+1462,9/24/2024,CUST1462,Male,63,Clothing,9,465,4185,271,194,1746,credit card,New,1
+1463,8/18/2024,CUST1463,Male,64,Electronics,6,160,960,113,47,282,credit card,Returning,3
+1464,8/2/2024,CUST1464,Male,82,Clothing,10,34,340,17,17,170,credit card,Returning,4
+1465,3/13/2024,CUST1465,Female,84,Clothing,4,144,576,82,62,248,cash,Returning,2
+1466,2/14/2024,CUST1466,Male,34,Clothing,1,192,192,158,34,34,cash,Returning,1
+1467,5/3/2024,CUST1467,Male,42,Clothing,1,478,478,297,181,181,credit card,Returning,4
+1468,9/18/2024,CUST1468,Male,31,Electronics,1,200,200,167,33,33,online,New,2
+1469,12/11/2024,CUST1469,Male,21,Food,6,190,1140,122,68,408,cash,Returning,4
+1470,7/10/2024,CUST1470,Male,75,Clothing,3,371,1113,197,174,522,online,New,4
+1471,1/16/2024,CUST1471,Male,67,Clothing,3,144,432,106,38,114,online,Returning,5
+1472,1/25/2024,CUST1472,Male,59,Electronics,6,389,2334,236,153,918,credit card,Returning,3
+1473,12/6/2024,CUST1473,Male,75,Food,1,372,372,309,63,63,credit card,Returning,5
+1474,6/9/2024,CUST1474,Male,66,Food,9,256,2304,184,72,648,credit card,Returning,2
+1475,9/6/2024,CUST1475,Male,67,Electronics,10,396,3960,204,192,1920,credit card,New,4
+1476,2/17/2024,CUST1476,Male,90,Clothing,5,359,1795,253,106,530,cash,Returning,3
+1477,2/16/2024,CUST1477,Male,37,Clothing,8,83,664,48,35,280,cash,Returning,1
+1478,3/12/2024,CUST1478,Male,40,Clothing,4,110,440,90,20,80,credit card,Returning,5
+1479,2/18/2024,CUST1479,Male,78,Clothing,5,402,2010,351,51,255,cash,New,5
+1480,4/20/2024,CUST1480,Male,33,Clothing,4,235,940,191,44,176,credit card,Returning,1
+1481,5/19/2024,CUST1481,Female,66,Clothing,1,226,226,173,53,53,cash,New,3
+1482,11/15/2024,CUST1482,Female,54,Food,2,422,844,338,84,168,online,Returning,5
+1483,8/28/2024,CUST1483,Male,37,Electronics,3,204,612,109,95,285,credit card,New,5
+1484,7/2/2024,CUST1484,Male,86,Clothing,5,241,1205,211,30,150,cash,Returning,4
+1485,8/17/2024,CUST1485,Male,49,Food,6,108,648,54,54,324,cash,Returning,5
+1486,11/14/2024,CUST1486,Male,61,Clothing,2,380,760,305,75,150,cash,New,1
+1487,7/11/2024,CUST1487,Male,50,Electronics,5,224,1120,129,95,475,cash,Returning,1
+1488,11/2/2024,CUST1488,Female,69,Electronics,8,438,3504,301,137,1096,credit card,Returning,2
+1489,3/24/2024,CUST1489,Male,26,Clothing,5,276,1380,234,42,210,cash,Returning,4
+1490,12/6/2024,CUST1490,Male,55,Food,2,112,224,99,13,26,credit card,New,2
+1491,9/16/2024,CUST1491,Male,72,Clothing,2,141,282,116,25,50,online,New,3
+1492,12/5/2024,CUST1492,Male,20,Clothing,10,290,2900,235,55,550,online,New,5
+1493,1/4/2024,CUST1493,Female,35,Clothing,3,231,693,188,43,129,credit card,Returning,2
+1494,5/30/2024,CUST1494,Male,47,Clothing,4,388,1552,324,64,256,cash,New,1
+1495,10/19/2024,CUST1495,Male,62,Electronics,1,478,478,264,214,214,credit card,Returning,1
+1496,6/19/2024,CUST1496,Male,85,Food,4,456,1824,374,82,328,credit card,Returning,4
+1497,8/19/2024,CUST1497,Male,24,Electronics,2,48,96,36,12,24,credit card,New,3
+1498,12/30/2024,CUST1498,Male,42,Clothing,7,251,1757,207,44,308,cash,New,3
+1499,12/5/2024,CUST1499,Female,87,Electronics,4,386,1544,293,93,372,credit card,New,2
+1500,11/13/2024,CUST1500,Male,28,Clothing,5,83,415,57,26,130,credit card,Returning,4
+1501,12/22/2024,CUST1501,Male,83,Clothing,10,191,1910,137,54,540,online,New,1
+1502,7/24/2024,CUST1502,Male,64,Electronics,3,41,123,27,14,42,online,New,4
+1503,9/10/2024,CUST1503,Female,38,Food,6,230,1380,183,47,282,credit card,Returning,4
+1504,4/21/2024,CUST1504,Female,88,Clothing,10,285,2850,241,44,440,online,New,5
+1505,1/11/2024,CUST1505,Female,79,Clothing,6,477,2862,376,101,606,cash,Returning,1
+1506,3/6/2024,CUST1506,Female,63,Electronics,2,231,462,157,74,148,credit card,New,3
+1507,4/14/2024,CUST1507,Female,24,Electronics,4,132,528,88,44,176,credit card,New,3
+1508,2/16/2024,CUST1508,Male,20,Electronics,6,327,1962,258,69,414,online,Returning,5
+1509,10/9/2024,CUST1509,Female,22,Clothing,8,203,1624,118,85,680,online,Returning,2
+1510,5/19/2024,CUST1510,Male,62,Clothing,7,456,3192,271,185,1295,credit card,New,3
+1511,5/30/2024,CUST1511,Female,58,Clothing,1,250,250,202,48,48,credit card,New,4
+1512,3/3/2024,CUST1512,Male,83,Electronics,5,93,465,52,41,205,credit card,New,1
+1513,8/2/2024,CUST1513,Female,61,Food,8,215,1720,147,68,544,cash,New,1
+1514,4/7/2024,CUST1514,Male,63,Clothing,5,156,780,83,73,365,cash,New,3
+1515,6/30/2024,CUST1515,Female,77,Clothing,8,384,3072,265,119,952,cash,Returning,1
+1516,6/14/2024,CUST1516,Female,82,Electronics,2,207,414,154,53,106,credit card,Returning,2
+1517,10/31/2024,CUST1517,Female,45,Food,9,80,720,51,29,261,online,New,2
+1518,5/7/2024,CUST1518,Male,54,Clothing,4,143,572,119,24,96,cash,Returning,5
+1519,2/15/2024,CUST1519,Male,76,Food,4,257,1028,151,106,424,online,New,5
+1520,10/30/2024,CUST1520,Female,63,Clothing,8,223,1784,154,69,552,online,New,1
+1521,3/12/2024,CUST1521,Female,34,Food,1,99,99,74,25,25,online,Returning,2
+1522,1/6/2024,CUST1522,Female,46,Clothing,7,303,2121,231,72,504,cash,Returning,3
+1523,1/9/2024,CUST1523,Female,83,Clothing,5,214,1070,193,21,105,credit card,Returning,2
+1524,7/17/2024,CUST1524,Female,78,Clothing,5,172,860,153,19,95,online,New,5
+1525,6/7/2024,CUST1525,Female,65,Clothing,5,342,1710,306,36,180,online,Returning,5
+1526,5/21/2024,CUST1526,Male,47,Food,3,465,1395,359,106,318,cash,New,4
+1527,2/16/2024,CUST1527,Male,41,Food,6,54,324,41,13,78,cash,New,3
+1528,11/21/2024,CUST1528,Male,63,Clothing,4,171,684,116,55,220,cash,New,5
+1529,3/9/2024,CUST1529,Male,52,Electronics,2,56,112,47,9,18,online,New,2
+1530,6/23/2024,CUST1530,Female,22,Clothing,4,360,1440,275,85,340,credit card,Returning,3
+1531,8/18/2024,CUST1531,Female,54,Clothing,4,487,1948,365,122,488,cash,Returning,3
+1532,5/26/2024,CUST1532,Female,85,Food,3,91,273,50,41,123,cash,Returning,5
+1533,7/10/2024,CUST1533,Male,34,Clothing,9,425,3825,313,112,1008,cash,Returning,2
+1534,1/26/2024,CUST1534,Female,25,Food,1,64,64,58,6,6,credit card,New,1
+1535,2/5/2024,CUST1535,Female,33,Food,8,319,2552,226,93,744,cash,Returning,4
+1536,7/21/2024,CUST1536,Female,56,Clothing,6,60,360,41,19,114,online,Returning,5
+1537,11/28/2024,CUST1537,Female,87,Clothing,3,126,378,113,13,39,cash,Returning,1
+1538,11/5/2024,CUST1538,Female,59,Food,5,79,395,68,11,55,credit card,New,2
+1539,8/16/2024,CUST1539,Female,56,Food,6,128,768,107,21,126,credit card,New,1
+1540,11/3/2024,CUST1540,Male,50,Electronics,2,288,576,181,107,214,online,Returning,2
+1541,7/25/2024,CUST1541,Male,44,Electronics,8,107,856,72,35,280,cash,Returning,2
+1542,9/15/2024,CUST1542,Female,42,Clothing,6,198,1188,178,20,120,online,Returning,1
+1543,2/21/2024,CUST1543,Female,70,Clothing,1,76,76,48,28,28,cash,New,1
+1544,9/21/2024,CUST1544,Male,26,Clothing,2,89,178,45,44,88,cash,Returning,4
+1545,10/31/2024,CUST1545,Male,75,Clothing,10,450,4500,356,94,940,credit card,Returning,3
+1546,1/20/2024,CUST1546,Female,21,Clothing,8,375,3000,205,170,1360,cash,Returning,4
+1547,3/5/2024,CUST1547,Male,39,Food,4,147,588,104,43,172,online,New,4
+1548,1/24/2024,CUST1548,Female,68,Clothing,2,281,562,156,125,250,cash,New,2
+1549,12/6/2024,CUST1549,Male,44,Clothing,5,446,2230,299,147,735,online,New,3
+1550,12/8/2024,CUST1550,Female,67,Electronics,9,233,2097,164,69,621,online,New,5
+1551,5/10/2024,CUST1551,Male,77,Electronics,10,265,2650,229,36,360,online,Returning,3
+1552,2/24/2024,CUST1552,Male,64,Electronics,6,311,1866,185,126,756,cash,Returning,3
+1553,11/10/2024,CUST1553,Male,82,Clothing,8,418,3344,290,128,1024,credit card,Returning,2
+1554,9/2/2024,CUST1554,Male,76,Electronics,3,362,1086,213,149,447,cash,Returning,2
+1555,2/4/2024,CUST1555,Male,62,Clothing,3,368,1104,257,111,333,cash,New,1
+1556,8/21/2024,CUST1556,Male,20,Clothing,5,401,2005,346,55,275,online,New,5
+1557,5/25/2024,CUST1557,Female,86,Electronics,9,88,792,58,30,270,credit card,New,4
+1558,11/25/2024,CUST1558,Female,29,Electronics,4,453,1812,238,215,860,credit card,New,3
+1559,8/19/2024,CUST1559,Female,21,Electronics,8,418,3344,348,70,560,credit card,Returning,1
+1560,8/16/2024,CUST1560,Female,59,Clothing,8,40,320,21,19,152,online,New,2
+1561,5/26/2024,CUST1561,Male,71,Clothing,8,100,800,61,39,312,cash,Returning,1
+1562,4/7/2024,CUST1562,Female,31,Electronics,6,159,954,140,19,114,cash,New,5
+1563,8/25/2024,CUST1563,Male,27,Food,3,104,312,94,10,30,credit card,Returning,3
+1564,11/8/2024,CUST1564,Female,80,Electronics,10,67,670,54,13,130,cash,New,2
+1565,9/1/2024,CUST1565,Male,79,Food,5,197,985,161,36,180,credit card,New,2
+1566,8/9/2024,CUST1566,Male,45,Clothing,5,199,995,154,45,225,credit card,Returning,3
+1567,4/11/2024,CUST1567,Female,28,Clothing,8,114,912,81,33,264,online,Returning,4
+1568,12/18/2024,CUST1568,Female,60,Electronics,5,274,1370,169,105,525,credit card,Returning,2
+1569,8/3/2024,CUST1569,Male,73,Clothing,6,190,1140,130,60,360,cash,Returning,4
+1570,1/25/2024,CUST1570,Male,34,Clothing,6,288,1728,192,96,576,credit card,New,5
+1571,11/28/2024,CUST1571,Male,53,Clothing,4,105,420,77,28,112,credit card,New,5
+1572,6/15/2024,CUST1572,Male,81,Clothing,3,120,360,102,18,54,cash,New,5
+1573,10/22/2024,CUST1573,Male,82,Clothing,8,167,1336,112,55,440,credit card,Returning,4
+1574,2/20/2024,CUST1574,Female,66,Food,1,157,157,96,61,61,online,New,1
+1575,11/18/2024,CUST1575,Female,70,Electronics,10,192,1920,100,92,920,credit card,Returning,1
+1576,12/7/2024,CUST1576,Male,42,Clothing,6,101,606,60,41,246,online,New,2
+1577,1/31/2024,CUST1577,Female,24,Clothing,7,305,2135,225,80,560,online,Returning,5
+1578,7/28/2024,CUST1578,Male,64,Food,5,384,1920,267,117,585,online,New,4
+1579,2/19/2024,CUST1579,Female,33,Electronics,8,379,3032,257,122,976,online,New,2
+1580,5/18/2024,CUST1580,Female,54,Clothing,1,71,71,45,26,26,online,Returning,1
+1581,10/25/2024,CUST1581,Female,60,Clothing,8,304,2432,167,137,1096,cash,Returning,1
+1582,7/29/2024,CUST1582,Female,29,Food,3,127,381,98,29,87,online,Returning,5
+1583,6/14/2024,CUST1583,Female,47,Clothing,9,40,360,22,18,162,cash,Returning,5
+1584,3/9/2024,CUST1584,Male,57,Clothing,7,183,1281,134,49,343,cash,Returning,1
+1585,8/14/2024,CUST1585,Male,83,Electronics,10,352,3520,248,104,1040,credit card,Returning,2
+1586,11/6/2024,CUST1586,Male,60,Clothing,2,55,110,46,9,18,cash,New,5
+1587,12/3/2024,CUST1587,Female,44,Electronics,1,235,235,154,81,81,cash,Returning,1
+1588,5/23/2024,CUST1588,Female,87,Food,7,228,1596,165,63,441,credit card,New,5
+1589,1/31/2024,CUST1589,Male,83,Electronics,8,475,3800,380,95,760,online,Returning,5
+1590,4/13/2024,CUST1590,Male,32,Electronics,6,291,1746,187,104,624,credit card,Returning,5
+1591,10/8/2024,CUST1591,Male,34,Clothing,4,370,1480,332,38,152,cash,Returning,4
+1592,11/21/2024,CUST1592,Female,44,Food,4,467,1868,395,72,288,cash,New,1
+1593,12/13/2024,CUST1593,Female,66,Clothing,5,411,2055,238,173,865,online,New,3
+1594,8/5/2024,CUST1594,Male,52,Food,9,227,2043,163,64,576,credit card,New,1
+1595,6/26/2024,CUST1595,Female,73,Food,4,271,1084,179,92,368,cash,Returning,1
+1596,5/1/2024,CUST1596,Female,36,Clothing,8,241,1928,144,97,776,cash,New,3
+1597,7/11/2024,CUST1597,Female,43,Electronics,2,268,536,215,53,106,cash,Returning,5
+1598,10/29/2024,CUST1598,Female,63,Clothing,9,141,1269,82,59,531,online,Returning,4
+1599,3/12/2024,CUST1599,Male,24,Clothing,3,91,273,70,21,63,cash,New,4
+1600,11/7/2024,CUST1600,Male,43,Clothing,10,164,1640,135,29,290,online,New,3
+1601,9/11/2024,CUST1601,Female,22,Clothing,6,392,2352,263,129,774,cash,New,4
+1602,3/10/2024,CUST1602,Female,42,Electronics,9,81,729,59,22,198,cash,New,1
+1603,10/23/2024,CUST1603,Male,83,Food,2,460,920,341,119,238,cash,New,2
+1604,9/7/2024,CUST1604,Female,65,Clothing,4,488,1952,349,139,556,online,New,5
+1605,8/7/2024,CUST1605,Male,81,Food,1,461,461,243,218,218,cash,Returning,3
+1606,11/11/2024,CUST1606,Female,55,Food,4,230,920,167,63,252,online,Returning,2
+1607,8/31/2024,CUST1607,Female,24,Clothing,1,345,345,275,70,70,credit card,Returning,1
+1608,7/16/2024,CUST1608,Male,83,Clothing,7,377,2639,329,48,336,cash,Returning,1
+1609,9/5/2024,CUST1609,Male,22,Food,6,497,2982,431,66,396,online,New,3
+1610,4/27/2024,CUST1610,Female,68,Clothing,3,284,852,181,103,309,online,New,3
+1611,3/19/2024,CUST1611,Male,42,Clothing,5,240,1200,130,110,550,cash,Returning,3
+1612,2/15/2024,CUST1612,Female,37,Clothing,9,158,1422,108,50,450,credit card,New,1
+1613,5/14/2024,CUST1613,Female,70,Food,7,309,2163,233,76,532,online,Returning,4
+1614,11/29/2024,CUST1614,Female,35,Clothing,1,89,89,73,16,16,credit card,New,5
+1615,8/16/2024,CUST1615,Male,54,Food,5,489,2445,302,187,935,cash,New,1
+1616,8/22/2024,CUST1616,Male,65,Food,10,127,1270,88,39,390,online,Returning,1
+1617,5/17/2024,CUST1617,Female,30,Food,8,116,928,81,35,280,credit card,New,4
+1618,9/22/2024,CUST1618,Male,90,Clothing,3,165,495,145,20,60,online,Returning,3
+1619,3/24/2024,CUST1619,Male,49,Electronics,10,425,4250,341,84,840,online,New,2
+1620,12/11/2024,CUST1620,Female,75,Food,10,65,650,42,23,230,online,New,1
+1621,2/13/2024,CUST1621,Male,51,Electronics,6,302,1812,177,125,750,credit card,Returning,4
+1622,5/31/2024,CUST1622,Male,71,Electronics,5,43,215,28,15,75,credit card,New,3
+1623,12/19/2024,CUST1623,Male,72,Clothing,7,201,1407,169,32,224,credit card,New,3
+1624,2/19/2024,CUST1624,Male,43,Electronics,9,174,1566,89,85,765,online,Returning,5
+1625,8/20/2024,CUST1625,Female,78,Clothing,9,434,3906,242,192,1728,credit card,New,3
+1626,7/29/2024,CUST1626,Female,57,Food,4,500,2000,253,247,988,cash,Returning,2
+1627,1/11/2024,CUST1627,Male,61,Electronics,3,359,1077,196,163,489,online,New,1
+1628,6/26/2024,CUST1628,Female,43,Clothing,6,316,1896,185,131,786,credit card,New,1
+1629,12/20/2024,CUST1629,Male,56,Food,3,157,471,140,17,51,online,New,2
+1630,2/15/2024,CUST1630,Female,54,Clothing,3,262,786,235,27,81,cash,Returning,5
+1631,3/27/2024,CUST1631,Female,89,Clothing,6,182,1092,161,21,126,credit card,New,3
+1632,11/23/2024,CUST1632,Female,39,Clothing,10,420,4200,354,66,660,credit card,New,1
+1633,10/11/2024,CUST1633,Female,37,Clothing,5,499,2495,265,234,1170,credit card,New,3
+1634,3/10/2024,CUST1634,Female,48,Electronics,2,388,776,298,90,180,online,New,3
+1635,6/24/2024,CUST1635,Male,30,Food,8,476,3808,255,221,1768,online,Returning,1
+1636,8/30/2024,CUST1636,Male,89,Clothing,3,58,174,40,18,54,online,New,4
+1637,1/18/2024,CUST1637,Male,24,Clothing,2,477,954,255,222,444,credit card,New,4
+1638,9/9/2024,CUST1638,Male,28,Clothing,6,59,354,31,28,168,online,Returning,2
+1639,1/19/2024,CUST1639,Female,78,Clothing,6,344,2064,224,120,720,cash,Returning,5
+1640,5/26/2024,CUST1640,Male,58,Clothing,9,362,3258,229,133,1197,credit card,New,3
+1641,6/3/2024,CUST1641,Female,56,Clothing,5,201,1005,132,69,345,online,New,4
+1642,10/23/2024,CUST1642,Male,32,Electronics,1,450,450,281,169,169,cash,New,1
+1643,6/8/2024,CUST1643,Male,42,Clothing,2,421,842,337,84,168,credit card,New,2
+1644,5/29/2024,CUST1644,Female,62,Clothing,10,397,3970,250,147,1470,cash,New,3
+1645,8/11/2024,CUST1645,Male,48,Clothing,2,385,770,232,153,306,cash,Returning,5
+1646,4/20/2024,CUST1646,Male,79,Electronics,3,327,981,237,90,270,cash,New,2
+1647,7/30/2024,CUST1647,Female,48,Clothing,1,477,477,392,85,85,cash,Returning,2
+1648,8/31/2024,CUST1648,Female,84,Clothing,7,385,2695,254,131,917,cash,New,1
+1649,1/13/2024,CUST1649,Male,25,Clothing,7,415,2905,291,124,868,credit card,New,3
+1650,4/20/2024,CUST1650,Female,26,Food,10,200,2000,102,98,980,online,Returning,4
+1651,3/30/2024,CUST1651,Female,63,Food,7,71,497,56,15,105,online,Returning,2
+1652,4/2/2024,CUST1652,Female,39,Food,7,227,1589,139,88,616,credit card,Returning,4
+1653,10/10/2024,CUST1653,Male,48,Electronics,4,278,1112,146,132,528,credit card,Returning,3
+1654,9/13/2024,CUST1654,Male,38,Electronics,1,297,297,267,30,30,online,New,5
+1655,8/22/2024,CUST1655,Female,70,Clothing,4,450,1800,236,214,856,online,Returning,1
+1656,10/13/2024,CUST1656,Male,24,Clothing,2,321,642,216,105,210,online,Returning,1
+1657,12/14/2024,CUST1657,Female,75,Food,10,282,2820,160,122,1220,credit card,New,5
+1658,7/24/2024,CUST1658,Male,30,Clothing,3,140,420,122,18,54,online,Returning,5
+1659,6/1/2024,CUST1659,Male,53,Electronics,6,229,1374,191,38,228,cash,Returning,1
+1660,3/16/2024,CUST1660,Female,77,Clothing,8,35,280,30,5,40,online,New,3
+1661,7/23/2024,CUST1661,Female,31,Food,7,30,210,22,8,56,online,New,5
+1662,8/31/2024,CUST1662,Male,79,Clothing,4,296,1184,169,127,508,cash,New,5
+1663,8/22/2024,CUST1663,Male,70,Food,4,53,212,37,16,64,credit card,New,1
+1664,11/4/2024,CUST1664,Male,44,Clothing,4,101,404,70,31,124,credit card,New,5
+1665,7/24/2024,CUST1665,Female,78,Clothing,1,154,154,91,63,63,cash,New,3
+1666,7/1/2024,CUST1666,Female,60,Electronics,3,375,1125,260,115,345,cash,New,1
+1667,5/8/2024,CUST1667,Female,86,Electronics,4,144,576,101,43,172,online,Returning,3
+1668,2/23/2024,CUST1668,Female,66,Electronics,6,282,1692,237,45,270,credit card,New,4
+1669,4/14/2024,CUST1669,Female,85,Clothing,4,362,1448,276,86,344,credit card,New,5
+1670,12/18/2024,CUST1670,Male,45,Clothing,6,259,1554,202,57,342,credit card,Returning,1
+1671,5/19/2024,CUST1671,Male,36,Electronics,6,99,594,77,22,132,cash,New,4
+1672,3/5/2024,CUST1672,Female,64,Food,5,292,1460,232,60,300,online,Returning,2
+1673,7/21/2024,CUST1673,Male,48,Food,8,165,1320,134,31,248,online,New,4
+1674,12/26/2024,CUST1674,Male,22,Electronics,10,264,2640,142,122,1220,cash,Returning,2
+1675,2/24/2024,CUST1675,Male,64,Clothing,3,34,102,18,16,48,credit card,New,3
+1676,8/11/2024,CUST1676,Male,62,Clothing,8,192,1536,168,24,192,cash,New,4
+1677,5/1/2024,CUST1677,Female,89,Clothing,8,382,3056,329,53,424,online,Returning,2
+1678,1/4/2024,CUST1678,Female,45,Clothing,4,275,1100,139,136,544,online,Returning,3
+1679,3/31/2024,CUST1679,Female,46,Clothing,7,185,1295,158,27,189,online,Returning,1
+1680,1/25/2024,CUST1680,Female,81,Food,9,203,1827,123,80,720,cash,Returning,5
+1681,9/5/2024,CUST1681,Male,39,Clothing,3,344,1032,275,69,207,cash,New,4
+1682,3/22/2024,CUST1682,Female,83,Electronics,6,293,1758,250,43,258,credit card,Returning,5
+1683,10/17/2024,CUST1683,Female,23,Food,2,435,870,236,199,398,credit card,New,4
+1684,6/19/2024,CUST1684,Male,75,Clothing,3,221,663,146,75,225,credit card,New,5
+1685,2/22/2024,CUST1685,Male,32,Clothing,4,152,608,132,20,80,online,Returning,3
+1686,6/26/2024,CUST1686,Male,69,Electronics,9,38,342,24,14,126,online,Returning,4
+1687,12/3/2024,CUST1687,Male,81,Food,5,211,1055,115,96,480,cash,New,4
+1688,4/4/2024,CUST1688,Male,58,Electronics,9,457,4113,407,50,450,credit card,New,3
+1689,6/17/2024,CUST1689,Female,53,Clothing,4,197,788,140,57,228,cash,Returning,5
+1690,6/2/2024,CUST1690,Male,34,Electronics,5,192,960,155,37,185,cash,New,5
+1691,12/22/2024,CUST1691,Male,57,Clothing,1,258,258,203,55,55,cash,Returning,2
+1692,12/1/2024,CUST1692,Male,76,Clothing,9,393,3537,312,81,729,cash,New,3
+1693,8/16/2024,CUST1693,Female,90,Electronics,6,104,624,58,46,276,online,New,5
+1694,5/26/2024,CUST1694,Male,51,Electronics,8,169,1352,149,20,160,credit card,Returning,2
+1695,10/9/2024,CUST1695,Male,53,Food,1,320,320,284,36,36,online,New,3
+1696,9/28/2024,CUST1696,Female,59,Clothing,9,211,1899,176,35,315,online,Returning,4
+1697,7/5/2024,CUST1697,Female,79,Clothing,9,363,3267,306,57,513,credit card,Returning,5
+1698,10/17/2024,CUST1698,Male,80,Clothing,10,270,2700,217,53,530,online,Returning,5
+1699,10/8/2024,CUST1699,Male,79,Electronics,2,91,182,78,13,26,credit card,New,1
+1700,10/16/2024,CUST1700,Female,86,Food,5,48,240,26,22,110,cash,New,2
+1701,6/1/2024,CUST1701,Male,64,Clothing,7,352,2464,290,62,434,credit card,Returning,3
+1702,10/26/2024,CUST1702,Male,87,Food,8,172,1376,139,33,264,online,Returning,5
+1703,5/12/2024,CUST1703,Male,50,Food,7,200,1400,134,66,462,cash,New,3
+1704,4/25/2024,CUST1704,Female,60,Electronics,10,410,4100,287,123,1230,credit card,Returning,2
+1705,11/20/2024,CUST1705,Male,29,Clothing,7,290,2030,220,70,490,credit card,Returning,5
+1706,11/12/2024,CUST1706,Female,81,Food,4,373,1492,188,185,740,cash,Returning,3
+1707,9/23/2024,CUST1707,Female,80,Electronics,7,419,2933,339,80,560,credit card,Returning,1
+1708,12/23/2024,CUST1708,Male,43,Clothing,6,358,2148,308,50,300,cash,Returning,5
+1709,7/27/2024,CUST1709,Female,25,Electronics,4,214,856,169,45,180,cash,Returning,5
+1710,10/18/2024,CUST1710,Female,70,Clothing,10,59,590,48,11,110,online,Returning,4
+1711,6/10/2024,CUST1711,Female,31,Clothing,5,160,800,134,26,130,cash,New,1
+1712,8/17/2024,CUST1712,Female,81,Food,6,378,2268,192,186,1116,cash,Returning,1
+1713,1/18/2024,CUST1713,Female,41,Electronics,7,118,826,94,24,168,credit card,Returning,1
+1714,4/11/2024,CUST1714,Female,23,Clothing,10,436,4360,221,215,2150,online,Returning,1
+1715,1/29/2024,CUST1715,Female,85,Clothing,1,232,232,185,47,47,credit card,Returning,5
+1716,2/15/2024,CUST1716,Female,48,Clothing,5,305,1525,195,110,550,credit card,New,3
+1717,1/20/2024,CUST1717,Female,89,Clothing,6,261,1566,195,66,396,credit card,New,5
+1718,1/22/2024,CUST1718,Male,70,Clothing,6,255,1530,181,74,444,credit card,New,1
+1719,8/10/2024,CUST1719,Male,63,Clothing,4,230,920,133,97,388,online,Returning,4
+1720,6/23/2024,CUST1720,Female,54,Food,6,270,1620,237,33,198,online,Returning,3
+1721,8/25/2024,CUST1721,Female,48,Food,1,335,335,227,108,108,online,New,1
+1722,7/14/2024,CUST1722,Male,47,Electronics,1,280,280,159,121,121,credit card,New,3
+1723,3/4/2024,CUST1723,Female,81,Clothing,5,273,1365,159,114,570,credit card,New,3
+1724,12/7/2024,CUST1724,Male,62,Clothing,9,455,4095,360,95,855,credit card,Returning,3
+1725,5/21/2024,CUST1725,Female,33,Food,6,124,744,74,50,300,online,New,2
+1726,8/19/2024,CUST1726,Female,66,Clothing,5,306,1530,221,85,425,online,Returning,1
+1727,12/8/2024,CUST1727,Female,57,Clothing,5,258,1290,171,87,435,credit card,New,3
+1728,9/13/2024,CUST1728,Female,30,Clothing,6,289,1734,251,38,228,cash,New,2
+1729,6/3/2024,CUST1729,Male,26,Clothing,9,283,2547,250,33,297,online,New,1
+1730,6/29/2024,CUST1730,Female,69,Electronics,2,467,934,366,101,202,credit card,New,2
+1731,8/13/2024,CUST1731,Female,76,Clothing,7,181,1267,103,78,546,online,New,3
+1732,5/20/2024,CUST1732,Male,27,Clothing,6,495,2970,301,194,1164,online,Returning,4
+1733,8/7/2024,CUST1733,Female,52,Food,9,240,2160,185,55,495,cash,Returning,3
+1734,9/18/2024,CUST1734,Female,33,Food,5,342,1710,233,109,545,credit card,Returning,2
+1735,9/6/2024,CUST1735,Female,49,Clothing,10,81,810,48,33,330,online,New,5
+1736,1/14/2024,CUST1736,Male,42,Clothing,6,298,1788,160,138,828,online,Returning,5
+1737,5/8/2024,CUST1737,Female,31,Clothing,9,292,2628,178,114,1026,credit card,New,3
+1738,6/2/2024,CUST1738,Male,50,Electronics,5,70,350,36,34,170,credit card,New,4
+1739,2/14/2024,CUST1739,Female,77,Clothing,7,456,3192,257,199,1393,online,New,2
+1740,12/19/2024,CUST1740,Female,75,Clothing,1,259,259,157,102,102,online,New,2
+1741,2/6/2024,CUST1741,Female,66,Electronics,4,181,724,146,35,140,online,Returning,1
+1742,3/4/2024,CUST1742,Female,60,Clothing,1,346,346,277,69,69,credit card,New,1
+1743,6/18/2024,CUST1743,Female,33,Food,1,85,85,47,38,38,online,Returning,5
+1744,7/11/2024,CUST1744,Male,43,Food,5,250,1250,221,29,145,cash,Returning,1
+1745,4/17/2024,CUST1745,Male,44,Clothing,6,367,2202,272,95,570,online,Returning,3
+1746,5/18/2024,CUST1746,Male,45,Clothing,7,88,616,67,21,147,online,New,5
+1747,1/13/2024,CUST1747,Female,36,Food,10,231,2310,184,47,470,cash,New,1
+1748,3/2/2024,CUST1748,Male,22,Food,9,89,801,72,17,153,online,Returning,1
+1749,2/23/2024,CUST1749,Female,54,Food,10,500,5000,385,115,1150,credit card,Returning,2
+1750,1/23/2024,CUST1750,Female,64,Electronics,4,407,1628,255,152,608,credit card,New,4
+1751,8/14/2024,CUST1751,Male,65,Clothing,4,179,716,108,71,284,credit card,Returning,5
+1752,2/27/2024,CUST1752,Female,76,Clothing,7,421,2947,357,64,448,credit card,New,5
+1753,3/14/2024,CUST1753,Male,41,Food,6,411,2466,275,136,816,credit card,Returning,3
+1754,8/24/2024,CUST1754,Female,84,Electronics,4,308,1232,216,92,368,credit card,Returning,2
+1755,12/7/2024,CUST1755,Male,23,Electronics,7,424,2968,336,88,616,cash,Returning,3
+1756,5/9/2024,CUST1756,Female,28,Clothing,5,204,1020,135,69,345,cash,Returning,5
+1757,3/24/2024,CUST1757,Female,63,Clothing,10,492,4920,398,94,940,cash,Returning,1
+1758,11/13/2024,CUST1758,Male,27,Food,2,428,856,301,127,254,credit card,New,2
+1759,7/6/2024,CUST1759,Female,48,Electronics,5,205,1025,131,74,370,credit card,New,5
+1760,11/30/2024,CUST1760,Female,26,Clothing,2,272,544,223,49,98,credit card,Returning,5
+1761,4/1/2024,CUST1761,Female,56,Clothing,1,33,33,22,11,11,credit card,Returning,5
+1762,11/2/2024,CUST1762,Female,64,Electronics,9,51,459,46,5,45,credit card,New,5
+1763,3/7/2024,CUST1763,Male,83,Clothing,6,362,2172,208,154,924,online,Returning,2
+1764,7/4/2024,CUST1764,Female,34,Electronics,9,313,2817,245,68,612,cash,New,3
+1765,7/15/2024,CUST1765,Male,81,Electronics,5,172,860,142,30,150,credit card,New,3
+1766,2/2/2024,CUST1766,Male,72,Food,4,427,1708,253,174,696,online,Returning,2
+1767,4/2/2024,CUST1767,Male,85,Clothing,3,461,1383,297,164,492,cash,Returning,3
+1768,2/10/2024,CUST1768,Female,68,Food,3,52,156,29,23,69,cash,Returning,5
+1769,11/7/2024,CUST1769,Male,69,Electronics,7,191,1337,158,33,231,credit card,New,1
+1770,11/29/2024,CUST1770,Female,76,Food,6,241,1446,140,101,606,online,New,5
+1771,10/30/2024,CUST1771,Male,33,Food,10,456,4560,341,115,1150,online,New,5
+1772,6/15/2024,CUST1772,Female,83,Clothing,4,484,1936,282,202,808,online,New,4
+1773,7/27/2024,CUST1773,Male,86,Food,10,77,770,61,16,160,credit card,New,2
+1774,8/4/2024,CUST1774,Female,53,Clothing,2,135,270,91,44,88,credit card,Returning,3
+1775,8/13/2024,CUST1775,Male,59,Food,6,275,1650,146,129,774,cash,New,1
+1776,9/5/2024,CUST1776,Female,43,Electronics,3,350,1050,298,52,156,online,New,3
+1777,6/20/2024,CUST1777,Male,72,Clothing,2,186,372,95,91,182,credit card,New,3
+1778,6/8/2024,CUST1778,Male,26,Clothing,2,429,858,270,159,318,cash,Returning,3
+1779,1/23/2024,CUST1779,Female,38,Food,5,390,1950,205,185,925,online,New,2
+1780,7/31/2024,CUST1780,Male,29,Clothing,5,226,1130,133,93,465,cash,New,2
+1781,11/21/2024,CUST1781,Female,54,Clothing,10,269,2690,135,134,1340,credit card,New,1
+1782,11/25/2024,CUST1782,Female,23,Clothing,2,421,842,247,174,348,online,Returning,5
+1783,4/29/2024,CUST1783,Male,24,Clothing,6,40,240,32,8,48,online,Returning,5
+1784,8/1/2024,CUST1784,Male,83,Clothing,3,33,99,17,16,48,online,Returning,4
+1785,6/1/2024,CUST1785,Male,20,Clothing,3,436,1308,253,183,549,online,Returning,4
+1786,5/2/2024,CUST1786,Male,68,Clothing,1,143,143,82,61,61,online,Returning,1
+1787,2/21/2024,CUST1787,Female,22,Food,7,173,1211,105,68,476,online,Returning,1
+1788,1/7/2024,CUST1788,Male,44,Clothing,9,469,4221,348,121,1089,cash,Returning,5
+1789,4/2/2024,CUST1789,Male,28,Food,7,333,2331,298,35,245,cash,New,2
+1790,6/13/2024,CUST1790,Female,55,Clothing,3,316,948,282,34,102,online,New,5
+1791,6/28/2024,CUST1791,Male,29,Food,1,66,66,56,10,10,online,Returning,2
+1792,10/1/2024,CUST1792,Female,70,Electronics,10,45,450,28,17,170,online,Returning,3
+1793,7/4/2024,CUST1793,Female,83,Food,10,441,4410,232,209,2090,online,Returning,5
+1794,4/6/2024,CUST1794,Female,46,Food,5,409,2045,312,97,485,online,Returning,3
+1795,6/16/2024,CUST1795,Female,54,Electronics,6,235,1410,156,79,474,online,New,1
+1796,6/19/2024,CUST1796,Female,30,Food,9,94,846,68,26,234,cash,Returning,1
+1797,11/30/2024,CUST1797,Male,62,Food,6,33,198,24,9,54,cash,Returning,3
+1798,10/1/2024,CUST1798,Male,24,Electronics,1,269,269,168,101,101,online,Returning,5
+1799,7/19/2024,CUST1799,Female,31,Clothing,7,188,1316,113,75,525,online,New,4
+1800,10/1/2024,CUST1800,Female,24,Electronics,6,161,966,95,66,396,online,New,1
+1801,6/18/2024,CUST1801,Female,84,Clothing,4,333,1332,170,163,652,cash,New,5
+1802,4/18/2024,CUST1802,Male,77,Food,2,282,564,248,34,68,cash,New,4
+1803,4/5/2024,CUST1803,Male,67,Electronics,2,390,780,321,69,138,credit card,New,1
+1804,1/24/2024,CUST1804,Male,72,Electronics,10,100,1000,69,31,310,cash,Returning,1
+1805,7/8/2024,CUST1805,Female,68,Clothing,9,428,3852,218,210,1890,cash,Returning,3
+1806,11/9/2024,CUST1806,Male,21,Electronics,5,363,1815,278,85,425,credit card,Returning,1
+1807,3/13/2024,CUST1807,Male,22,Food,2,284,568,212,72,144,credit card,New,1
+1808,1/13/2024,CUST1808,Female,30,Clothing,5,379,1895,286,93,465,online,New,4
+1809,2/21/2024,CUST1809,Female,32,Clothing,3,296,888,181,115,345,online,Returning,2
+1810,12/5/2024,CUST1810,Male,58,Food,5,62,310,41,21,105,cash,New,4
+1811,6/24/2024,CUST1811,Male,89,Electronics,3,424,1272,349,75,225,cash,New,3
+1812,2/29/2024,CUST1812,Female,55,Electronics,6,217,1302,183,34,204,online,Returning,5
+1813,12/13/2024,CUST1813,Male,21,Electronics,9,322,2898,234,88,792,credit card,New,5
+1814,2/14/2024,CUST1814,Male,21,Food,1,99,99,70,29,29,credit card,Returning,1
+1815,10/3/2024,CUST1815,Female,60,Clothing,3,498,1494,276,222,666,cash,Returning,4
+1816,5/18/2024,CUST1816,Female,68,Food,5,80,400,57,23,115,online,New,2
+1817,4/6/2024,CUST1817,Female,41,Electronics,6,250,1500,131,119,714,cash,Returning,1
+1818,5/11/2024,CUST1818,Male,79,Electronics,2,230,460,150,80,160,credit card,Returning,5
+1819,9/8/2024,CUST1819,Male,37,Clothing,6,162,972,142,20,120,credit card,Returning,3
+1820,10/19/2024,CUST1820,Male,41,Clothing,3,298,894,166,132,396,credit card,Returning,5
+1821,3/14/2024,CUST1821,Male,84,Clothing,8,166,1328,108,58,464,cash,New,1
+1822,10/10/2024,CUST1822,Female,75,Food,2,338,676,240,98,196,credit card,New,3
+1823,3/1/2024,CUST1823,Male,59,Electronics,1,155,155,133,22,22,credit card,New,2
+1824,10/26/2024,CUST1824,Male,32,Clothing,1,39,39,34,5,5,credit card,New,5
+1825,3/7/2024,CUST1825,Male,27,Clothing,9,160,1440,80,80,720,credit card,New,3
+1826,4/12/2024,CUST1826,Male,36,Clothing,2,172,344,100,72,144,credit card,New,3
+1827,10/18/2024,CUST1827,Female,62,Clothing,3,267,801,181,86,258,cash,New,1
+1828,3/7/2024,CUST1828,Male,55,Clothing,9,441,3969,378,63,567,cash,New,5
+1829,5/3/2024,CUST1829,Female,87,Food,5,58,290,41,17,85,cash,New,4
+1830,6/13/2024,CUST1830,Female,61,Clothing,1,308,308,246,62,62,online,Returning,2
+1831,4/27/2024,CUST1831,Male,67,Food,8,221,1768,137,84,672,credit card,Returning,2
+1832,8/13/2024,CUST1832,Female,60,Food,1,93,93,62,31,31,online,Returning,4
+1833,2/13/2024,CUST1833,Female,75,Electronics,4,54,216,35,19,76,credit card,Returning,1
+1834,10/26/2024,CUST1834,Male,72,Food,3,137,411,69,68,204,credit card,New,4
+1835,9/6/2024,CUST1835,Male,21,Clothing,6,474,2844,392,82,492,online,New,3
+1836,1/22/2024,CUST1836,Male,79,Electronics,9,369,3321,224,145,1305,credit card,Returning,2
+1837,9/2/2024,CUST1837,Female,82,Clothing,4,83,332,72,11,44,online,New,3
+1838,8/17/2024,CUST1838,Male,54,Electronics,2,229,458,144,85,170,online,New,2
+1839,12/23/2024,CUST1839,Male,32,Food,3,176,528,145,31,93,credit card,New,2
+1840,11/22/2024,CUST1840,Female,70,Clothing,8,387,3096,341,46,368,credit card,New,1
+1841,9/16/2024,CUST1841,Female,59,Clothing,10,64,640,43,21,210,credit card,New,4
+1842,1/4/2024,CUST1842,Male,33,Clothing,5,291,1455,236,55,275,online,New,5
+1843,12/14/2024,CUST1843,Female,34,Clothing,8,316,2528,250,66,528,cash,New,2
+1844,9/21/2024,CUST1844,Female,62,Clothing,9,362,3258,269,93,837,credit card,Returning,5
+1845,4/16/2024,CUST1845,Female,28,Electronics,3,92,276,53,39,117,online,New,4
+1846,1/10/2024,CUST1846,Female,74,Clothing,9,362,3258,201,161,1449,online,Returning,2
+1847,4/21/2024,CUST1847,Female,78,Electronics,2,417,834,251,166,332,credit card,Returning,2
+1848,3/31/2024,CUST1848,Female,58,Electronics,8,475,3800,310,165,1320,online,Returning,3
+1849,1/5/2024,CUST1849,Female,61,Clothing,10,474,4740,395,79,790,cash,Returning,4
+1850,7/3/2024,CUST1850,Female,43,Clothing,5,150,750,131,19,95,credit card,Returning,2
+1851,3/5/2024,CUST1851,Male,56,Clothing,5,275,1375,152,123,615,cash,Returning,4
+1852,3/15/2024,CUST1852,Male,53,Clothing,1,114,114,100,14,14,credit card,New,3
+1853,1/2/2024,CUST1853,Male,21,Electronics,7,92,644,64,28,196,online,New,3
+1854,4/21/2024,CUST1854,Female,23,Food,6,349,2094,296,53,318,cash,New,2
+1855,11/24/2024,CUST1855,Female,51,Clothing,9,294,2646,216,78,702,credit card,Returning,4
+1856,1/10/2024,CUST1856,Male,36,Clothing,3,221,663,170,51,153,credit card,Returning,2
+1857,5/15/2024,CUST1857,Female,82,Electronics,3,285,855,222,63,189,cash,Returning,4
+1858,11/16/2024,CUST1858,Male,78,Clothing,8,209,1672,148,61,488,online,Returning,4
+1859,9/1/2024,CUST1859,Female,48,Clothing,10,366,3660,221,145,1450,cash,New,1
+1860,3/8/2024,CUST1860,Male,71,Clothing,5,240,1200,215,25,125,online,New,4
+1861,2/23/2024,CUST1861,Female,36,Food,7,72,504,63,9,63,credit card,New,3
+1862,11/27/2024,CUST1862,Male,29,Food,8,134,1072,100,34,272,cash,Returning,4
+1863,6/29/2024,CUST1863,Female,38,Food,4,331,1324,194,137,548,online,New,5
+1864,8/15/2024,CUST1864,Male,54,Clothing,5,198,990,128,70,350,online,Returning,5
+1865,1/30/2024,CUST1865,Male,31,Clothing,3,481,1443,248,233,699,cash,New,4
+1866,12/26/2024,CUST1866,Male,20,Clothing,9,272,2448,225,47,423,cash,Returning,1
+1867,7/1/2024,CUST1867,Male,58,Clothing,9,444,3996,364,80,720,online,New,3
+1868,10/29/2024,CUST1868,Female,83,Clothing,1,339,339,280,59,59,cash,New,1
+1869,5/22/2024,CUST1869,Female,68,Food,6,422,2532,289,133,798,cash,New,3
+1870,9/29/2024,CUST1870,Male,64,Electronics,5,366,1830,206,160,800,online,Returning,3
+1871,5/11/2024,CUST1871,Female,76,Clothing,10,484,4840,399,85,850,credit card,New,2
+1872,8/1/2024,CUST1872,Male,40,Clothing,7,57,399,29,28,196,credit card,New,3
+1873,4/9/2024,CUST1873,Male,80,Food,10,320,3200,188,132,1320,cash,New,4
+1874,8/7/2024,CUST1874,Male,32,Electronics,5,50,250,33,17,85,cash,Returning,4
+1875,10/11/2024,CUST1875,Female,86,Food,5,310,1550,225,85,425,credit card,New,2
+1876,2/23/2024,CUST1876,Female,62,Electronics,5,76,380,58,18,90,credit card,Returning,2
+1877,4/9/2024,CUST1877,Female,46,Food,6,236,1416,165,71,426,credit card,New,1
+1878,4/9/2024,CUST1878,Male,48,Electronics,3,321,963,273,48,144,online,Returning,1
+1879,6/25/2024,CUST1879,Female,26,Food,4,438,1752,336,102,408,cash,Returning,3
+1880,12/23/2024,CUST1880,Male,21,Clothing,4,331,1324,209,122,488,online,Returning,5
+1881,8/6/2024,CUST1881,Female,53,Food,8,46,368,37,9,72,online,New,4
+1882,1/13/2024,CUST1882,Female,88,Electronics,8,226,1808,178,48,384,online,New,4
+1883,1/25/2024,CUST1883,Male,82,Clothing,6,296,1776,209,87,522,cash,New,3
+1884,3/31/2024,CUST1884,Female,87,Electronics,8,92,736,49,43,344,online,Returning,1
+1885,6/16/2024,CUST1885,Female,78,Clothing,9,49,441,38,11,99,online,Returning,1
+1886,12/18/2024,CUST1886,Male,77,Clothing,8,64,512,48,16,128,online,New,4
+1887,8/15/2024,CUST1887,Male,55,Clothing,10,132,1320,113,19,190,online,New,3
+1888,12/7/2024,CUST1888,Male,66,Clothing,10,71,710,62,9,90,cash,Returning,1
+1889,6/28/2024,CUST1889,Female,86,Food,6,274,1644,233,41,246,cash,New,3
+1890,6/30/2024,CUST1890,Female,87,Clothing,5,152,760,124,28,140,credit card,Returning,5
+1891,2/26/2024,CUST1891,Male,73,Clothing,8,251,2008,210,41,328,cash,New,4
+1892,11/26/2024,CUST1892,Male,43,Clothing,9,228,2052,205,23,207,online,Returning,5
+1893,3/15/2024,CUST1893,Male,34,Clothing,6,290,1740,160,130,780,cash,New,2
+1894,2/10/2024,CUST1894,Male,86,Clothing,9,105,945,76,29,261,credit card,New,2
+1895,3/3/2024,CUST1895,Male,32,Food,10,60,600,43,17,170,cash,New,3
+1896,10/26/2024,CUST1896,Female,66,Clothing,2,244,488,218,26,52,online,New,2
+1897,8/20/2024,CUST1897,Female,44,Clothing,3,184,552,109,75,225,cash,New,5
+1898,6/15/2024,CUST1898,Male,63,Clothing,5,230,1150,155,75,375,online,Returning,2
+1899,8/27/2024,CUST1899,Male,33,Clothing,9,398,3582,244,154,1386,cash,Returning,2
+1900,1/5/2024,CUST1900,Female,48,Clothing,9,331,2979,236,95,855,online,New,3
+1901,2/15/2024,CUST1901,Female,90,Electronics,6,448,2688,228,220,1320,cash,Returning,3
+1902,1/7/2024,CUST1902,Male,79,Clothing,8,193,1544,100,93,744,online,New,3
+1903,5/1/2024,CUST1903,Male,31,Food,6,88,528,45,43,258,cash,Returning,4
+1904,7/23/2024,CUST1904,Male,38,Food,4,53,212,38,15,60,online,Returning,4
+1905,8/4/2024,CUST1905,Female,44,Food,5,250,1250,179,71,355,cash,New,2
+1906,2/3/2024,CUST1906,Male,61,Electronics,2,262,524,228,34,68,online,Returning,1
+1907,12/15/2024,CUST1907,Male,85,Electronics,4,162,648,86,76,304,online,Returning,1
+1908,12/31/2024,CUST1908,Female,45,Electronics,6,203,1218,112,91,546,online,Returning,2
+1909,2/9/2024,CUST1909,Male,41,Clothing,9,109,981,59,50,450,cash,Returning,3
+1910,12/5/2024,CUST1910,Female,78,Clothing,8,389,3112,230,159,1272,credit card,New,4
+1911,12/16/2024,CUST1911,Female,41,Electronics,4,198,792,123,75,300,credit card,Returning,3
+1912,1/27/2024,CUST1912,Female,83,Food,1,376,376,292,84,84,online,Returning,2
+1913,1/4/2024,CUST1913,Female,58,Clothing,8,311,2488,247,64,512,online,Returning,1
+1914,8/19/2024,CUST1914,Female,75,Clothing,1,274,274,177,97,97,online,New,4
+1915,3/8/2024,CUST1915,Male,46,Clothing,6,280,1680,169,111,666,cash,Returning,3
+1916,12/5/2024,CUST1916,Female,22,Clothing,10,306,3060,159,147,1470,credit card,Returning,4
+1917,9/18/2024,CUST1917,Male,39,Clothing,10,123,1230,64,59,590,credit card,Returning,2
+1918,11/15/2024,CUST1918,Male,51,Food,10,94,940,79,15,150,online,New,5
+1919,1/7/2024,CUST1919,Male,60,Food,8,162,1296,99,63,504,online,Returning,2
+1920,11/18/2024,CUST1920,Female,31,Clothing,2,240,480,172,68,136,cash,New,4
+1921,2/23/2024,CUST1921,Female,28,Electronics,8,436,3488,382,54,432,credit card,Returning,1
+1922,8/8/2024,CUST1922,Male,60,Clothing,7,46,322,31,15,105,online,Returning,3
+1923,8/21/2024,CUST1923,Male,22,Clothing,3,456,1368,369,87,261,credit card,Returning,3
+1924,6/13/2024,CUST1924,Female,38,Clothing,3,333,999,197,136,408,cash,New,2
+1925,4/12/2024,CUST1925,Female,42,Clothing,6,188,1128,165,23,138,online,New,1
+1926,3/13/2024,CUST1926,Male,43,Clothing,2,203,406,111,92,184,credit card,Returning,4
+1927,12/15/2024,CUST1927,Male,26,Clothing,5,320,1600,280,40,200,credit card,Returning,4
+1928,9/20/2024,CUST1928,Male,72,Clothing,4,266,1064,238,28,112,cash,Returning,3
+1929,6/24/2024,CUST1929,Female,30,Food,6,428,2568,244,184,1104,credit card,Returning,5
+1930,9/17/2024,CUST1930,Female,44,Clothing,4,247,988,150,97,388,credit card,New,5
+1931,5/15/2024,CUST1931,Male,76,Electronics,2,393,786,347,46,92,cash,New,1
+1932,7/20/2024,CUST1932,Female,53,Electronics,1,493,493,408,85,85,cash,New,3
+1933,5/24/2024,CUST1933,Female,87,Clothing,9,69,621,43,26,234,online,Returning,2
+1934,5/19/2024,CUST1934,Female,38,Clothing,6,470,2820,409,61,366,cash,New,3
+1935,8/3/2024,CUST1935,Male,45,Clothing,4,455,1820,316,139,556,online,Returning,4
+1936,4/27/2024,CUST1936,Male,20,Food,10,210,2100,166,44,440,cash,New,4
+1937,5/16/2024,CUST1937,Female,70,Clothing,7,420,2940,355,65,455,cash,New,4
+1938,8/15/2024,CUST1938,Male,29,Clothing,4,84,336,61,23,92,cash,Returning,2
+1939,2/6/2024,CUST1939,Male,33,Clothing,4,36,144,26,10,40,online,Returning,2
+1940,9/21/2024,CUST1940,Female,81,Electronics,5,287,1435,206,81,405,credit card,New,1
+1941,6/10/2024,CUST1941,Female,89,Food,10,428,4280,292,136,1360,credit card,New,2
+1942,8/12/2024,CUST1942,Male,68,Electronics,8,219,1752,126,93,744,credit card,New,3
+1943,9/17/2024,CUST1943,Male,21,Food,6,340,2040,184,156,936,credit card,Returning,2
+1944,9/16/2024,CUST1944,Male,39,Electronics,6,64,384,57,7,42,credit card,New,4
+1945,7/21/2024,CUST1945,Female,43,Clothing,2,347,694,225,122,244,cash,New,1
+1946,3/3/2024,CUST1946,Male,35,Clothing,1,428,428,366,62,62,cash,New,2
+1947,2/17/2024,CUST1947,Male,24,Electronics,2,217,434,147,70,140,online,New,5
+1948,2/22/2024,CUST1948,Male,82,Clothing,9,275,2475,204,71,639,credit card,Returning,1
+1949,9/22/2024,CUST1949,Male,55,Clothing,5,478,2390,380,98,490,cash,New,2
+1950,8/1/2024,CUST1950,Male,70,Food,7,271,1897,242,29,203,cash,New,1
+1951,8/29/2024,CUST1951,Female,74,Clothing,10,239,2390,198,41,410,credit card,Returning,1
+1952,10/14/2024,CUST1952,Female,82,Clothing,2,339,678,212,127,254,cash,New,5
+1953,4/17/2024,CUST1953,Male,74,Clothing,1,353,353,288,65,65,cash,New,1
+1954,1/23/2024,CUST1954,Female,74,Clothing,4,219,876,129,90,360,credit card,Returning,4
+1955,1/18/2024,CUST1955,Male,44,Clothing,3,261,783,195,66,198,credit card,Returning,5
+1956,8/15/2024,CUST1956,Male,86,Food,3,30,90,17,13,39,credit card,Returning,2
+1957,2/4/2024,CUST1957,Male,90,Clothing,8,210,1680,111,99,792,credit card,New,3
+1958,6/25/2024,CUST1958,Male,88,Clothing,4,70,280,62,8,32,cash,Returning,3
+1959,3/28/2024,CUST1959,Male,82,Clothing,9,212,1908,181,31,279,online,New,2
+1960,12/25/2024,CUST1960,Male,71,Electronics,2,244,488,185,59,118,online,Returning,1
+1961,6/26/2024,CUST1961,Male,29,Clothing,8,118,944,91,27,216,credit card,New,1
+1962,6/10/2024,CUST1962,Female,64,Clothing,5,456,2280,289,167,835,online,Returning,4
+1963,9/20/2024,CUST1963,Male,46,Clothing,2,307,614,194,113,226,credit card,New,2
+1964,10/22/2024,CUST1964,Male,23,Electronics,7,53,371,42,11,77,cash,Returning,3
+1965,7/27/2024,CUST1965,Female,32,Food,4,261,1044,220,41,164,online,Returning,2
+1966,2/24/2024,CUST1966,Male,31,Clothing,9,240,2160,198,42,378,credit card,Returning,5
+1967,10/12/2024,CUST1967,Female,85,Food,7,100,700,60,40,280,cash,New,3
+1968,1/16/2024,CUST1968,Female,37,Food,6,481,2886,283,198,1188,online,Returning,1
+1969,11/22/2024,CUST1969,Female,55,Clothing,4,103,412,84,19,76,cash,Returning,1
+1970,12/31/2024,CUST1970,Female,72,Food,1,148,148,110,38,38,cash,New,4
+1971,4/22/2024,CUST1971,Female,27,Electronics,6,404,2424,289,115,690,cash,New,2
+1972,9/8/2024,CUST1972,Female,68,Clothing,9,169,1521,94,75,675,cash,New,4
+1973,6/8/2024,CUST1973,Male,60,Clothing,9,493,4437,254,239,2151,online,Returning,1
+1974,8/17/2024,CUST1974,Female,71,Food,8,261,2088,190,71,568,credit card,New,2
+1975,3/22/2024,CUST1975,Female,80,Electronics,3,300,900,168,132,396,cash,Returning,1
+1976,1/24/2024,CUST1976,Female,52,Electronics,8,492,3936,263,229,1832,credit card,New,1
+1977,1/25/2024,CUST1977,Male,86,Clothing,2,88,176,51,37,74,credit card,New,4
+1978,4/6/2024,CUST1978,Female,87,Clothing,3,251,753,169,82,246,cash,Returning,3
+1979,3/13/2024,CUST1979,Male,44,Clothing,9,167,1503,150,17,153,credit card,New,5
+1980,7/20/2024,CUST1980,Female,56,Electronics,7,325,2275,187,138,966,cash,Returning,4
+1981,4/1/2024,CUST1981,Female,30,Food,6,110,660,84,26,156,online,Returning,5
+1982,1/26/2024,CUST1982,Male,71,Electronics,2,300,600,193,107,214,credit card,Returning,5
+1983,4/25/2024,CUST1983,Male,68,Clothing,8,313,2504,210,103,824,credit card,Returning,4
+1984,8/8/2024,CUST1984,Female,37,Clothing,7,204,1428,119,85,595,cash,New,3
+1985,2/28/2024,CUST1985,Male,48,Clothing,9,471,4239,268,203,1827,credit card,New,1
+1986,9/17/2024,CUST1986,Male,37,Food,7,35,245,24,11,77,online,New,4
+1987,9/27/2024,CUST1987,Male,90,Clothing,4,313,1252,265,48,192,cash,New,1
+1988,6/22/2024,CUST1988,Male,74,Electronics,4,339,1356,297,42,168,online,New,3
+1989,5/5/2024,CUST1989,Male,90,Food,7,435,3045,243,192,1344,credit card,Returning,3
+1990,5/25/2024,CUST1990,Male,64,Clothing,4,110,440,83,27,108,online,Returning,1
+1991,7/1/2024,CUST1991,Male,45,Electronics,5,220,1100,161,59,295,credit card,New,3
+1992,1/17/2024,CUST1992,Male,63,Electronics,1,332,332,178,154,154,online,Returning,3
+1993,4/12/2024,CUST1993,Male,33,Clothing,8,142,1136,71,71,568,credit card,New,2
+1994,12/13/2024,CUST1994,Male,67,Electronics,6,241,1446,184,57,342,credit card,New,1
+1995,12/29/2024,CUST1995,Male,66,Clothing,3,188,564,142,46,138,cash,New,1
+1996,4/14/2024,CUST1996,Female,54,Clothing,10,365,3650,184,181,1810,credit card,New,4
+1997,10/7/2024,CUST1997,Male,68,Clothing,7,68,476,48,20,140,credit card,New,5
+1998,4/29/2024,CUST1998,Male,84,Food,6,139,834,88,51,306,cash,Returning,2
+1999,8/10/2024,CUST1999,Male,70,Electronics,10,209,2090,131,78,780,cash,Returning,3
+2000,7/23/2024,CUST2000,Male,70,Clothing,5,374,1870,239,135,675,online,New,2
