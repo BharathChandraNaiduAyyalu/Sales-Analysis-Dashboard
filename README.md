@@ -68,6 +68,11 @@ This project combines Excel, SQL, and dashboard design to deliver a complete sal
 - How did revenue and profit grow or decline year-over-year?  
 - What percentage of revenue and profit came from each year?
 
+📆 Quarterly Analysis
+- What is the total revenue and profit across all quarters?
+- What is percentage of revenue and profit quarterly wise?
+- Quantity sold across all quarters?
+
 💳 Payment Methods  
 - Which payment methods were most used by customers?  
 - How does payment method usage vary by product category?  
