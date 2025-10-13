@@ -87,7 +87,7 @@ This project combines Excel, SQL, and dashboard design to deliver a complete sal
 
 ## 📊 Dashboard Preview
 
-📎 [Dashboard Image](https://github.com/BharathChandraNaiduAyyalu/Sales-Analysis-Dashboard/blob/main/Sales%20Dashboard.img.pdf)
+📎 https://github.com/BharathChandraNaiduAyyalu/Sales-Analysis-Dashboard/blob/main/Sales%20Analysis%20Dashboard.pdf
 
 ---
 
